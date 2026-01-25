@@ -1,0 +1,48 @@
+
+V_Fire_Proj_Smoketrail_01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Proj_Smoketrail_01_0001
+  rotate: false
+  xy: 1, 1
+  size: 228, 111
+  orig: 300, 200
+  offset: 32, 48
+  index: -1
+V_Fire_Proj_Smoketrail_01_0002
+  rotate: false
+  xy: 476, 3
+  size: 238, 116
+  orig: 300, 200
+  offset: 22, 40
+  index: -1
+V_Fire_Proj_Smoketrail_01_0003
+  rotate: false
+  xy: 1, 115
+  size: 238, 136
+  orig: 300, 200
+  offset: 25, 31
+  index: -1
+V_Fire_Proj_Smoketrail_01_0004
+  rotate: false
+  xy: 242, 114
+  size: 231, 137
+  orig: 300, 200
+  offset: 27, 34
+  index: -1
+V_Fire_Proj_Smoketrail_01_0005
+  rotate: false
+  xy: 476, 124
+  size: 237, 127
+  orig: 300, 200
+  offset: 27, 37
+  index: -1
+V_Fire_Proj_Smoketrail_01_0006
+  rotate: false
+  xy: 716, 122
+  size: 229, 129
+  orig: 300, 200
+  offset: 31, 41
+  index: -1

@@ -1,0 +1,398 @@
+
+Medieval_Md_Rogue.png
+size: 898,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_L
+  rotate: false
+  xy: 836, 78
+  size: 26, 23
+  orig: 26, 24
+  offset: 0, 1
+  index: -1
+02/Arm_R
+  rotate: false
+  xy: 867, 35
+  size: 24, 40
+  orig: 25, 41
+  offset: 1, 0
+  index: -1
+02/BackCape
+  rotate: false
+  xy: 396, 62
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+02/Cape
+  rotate: false
+  xy: 164, 38
+  size: 73, 101
+  orig: 73, 101
+  offset: 0, 0
+  index: -1
+02/Dagger_R
+  rotate: true
+  xy: 355, 59
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+02/Elbow_L
+  rotate: true
+  xy: 2, 3
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Elbow_L
+  rotate: true
+  xy: 2, 3
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+02/Elbow_R
+  rotate: true
+  xy: 810, 103
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+Elbow_R
+  rotate: true
+  xy: 810, 103
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+02/Foot_R
+  rotate: false
+  xy: 165, 2
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+02/Hand_L
+  rotate: true
+  xy: 782, 71
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+02/Hand_R
+  rotate: true
+  xy: 770, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+02/Hip
+  rotate: false
+  xy: 87, 2
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 87, 2
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+02/Neck
+  rotate: true
+  xy: 528, 67
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+02/Torso
+  rotate: false
+  xy: 369, 2
+  size: 51, 55
+  orig: 52, 57
+  offset: 0, 1
+  index: -1
+03/Arm_L
+  rotate: false
+  xy: 867, 77
+  size: 26, 23
+  orig: 26, 25
+  offset: 0, 1
+  index: -1
+03/Arm_R
+  rotate: false
+  xy: 807, 28
+  size: 24, 41
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+03/BackCape
+  rotate: false
+  xy: 462, 62
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+04/BackCape
+  rotate: false
+  xy: 462, 62
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+03/Dagger_R
+  rotate: true
+  xy: 314, 51
+  size: 88, 39
+  orig: 88, 40
+  offset: 0, 1
+  index: -1
+03/Foot_L
+  rotate: false
+  xy: 770, 24
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+03/Foot_R
+  rotate: true
+  xy: 331, 3
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: false
+  xy: 126, 2
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+04/Hip
+  rotate: false
+  xy: 126, 2
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+03/Hood_strip
+  rotate: true
+  xy: 633, 8
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+03/Leg_L
+  rotate: false
+  xy: 214, 3
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+03/Neck
+  rotate: true
+  xy: 580, 67
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+03/Torso
+  rotate: false
+  xy: 422, 5
+  size: 51, 55
+  orig: 52, 57
+  offset: 0, 1
+  index: -1
+04/Arm_L
+  rotate: false
+  xy: 836, 53
+  size: 26, 23
+  orig: 26, 25
+  offset: 0, 1
+  index: -1
+04/Arm_R
+  rotate: true
+  xy: 824, 2
+  size: 24, 41
+  orig: 25, 42
+  offset: 1, 0
+  index: -1
+04/Dagger_R
+  rotate: true
+  xy: 78, 33
+  size: 106, 41
+  orig: 106, 41
+  offset: 0, 0
+  index: -1
+04/Elbow_L
+  rotate: true
+  xy: 39, 3
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+04/Elbow_R
+  rotate: true
+  xy: 831, 103
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+04/Hand_L
+  rotate: false
+  xy: 787, 113
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+05/Hand_L
+  rotate: false
+  xy: 787, 113
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+04/Hand_R
+  rotate: true
+  xy: 797, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+05/Hand_R
+  rotate: true
+  xy: 797, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+04/Hood_strip
+  rotate: false
+  xy: 528, 2
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+04/Neck
+  rotate: true
+  xy: 632, 70
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+04/Torso
+  rotate: false
+  xy: 475, 5
+  size: 51, 55
+  orig: 52, 57
+  offset: 0, 1
+  index: -1
+05/Arm_L
+  rotate: false
+  xy: 833, 28
+  size: 26, 23
+  orig: 26, 25
+  offset: 0, 1
+  index: -1
+05/Cape
+  rotate: false
+  xy: 239, 38
+  size: 73, 101
+  orig: 73, 101
+  offset: 0, 0
+  index: -1
+05/Dagger_R
+  rotate: true
+  xy: 121, 33
+  size: 106, 41
+  orig: 106, 41
+  offset: 0, 0
+  index: -1
+05/Hip
+  rotate: true
+  xy: 867, 102
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+05/Neck
+  rotate: true
+  xy: 686, 70
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+05/Torso
+  rotate: false
+  xy: 670, 13
+  size: 51, 55
+  orig: 52, 57
+  offset: 0, 1
+  index: -1
+05/dot
+  rotate: false
+  xy: 76, 10
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 810, 74
+  size: 26, 24
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 740, 71
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Dagger_R
+  rotate: true
+  xy: 592, 2
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 740, 94
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Hood
+  rotate: true
+  xy: 2, 22
+  size: 117, 74
+  orig: 118, 74
+  offset: 1, 0
+  index: -1
+Hood_strip
+  rotate: false
+  xy: 272, 4
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 243, 3
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 723, 19
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1

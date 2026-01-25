@@ -1,0 +1,552 @@
+
+Invaders_Md_TuskWart.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/Antenna
+  rotate: true
+  xy: 759, 883
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+01/Antenna_Base
+  rotate: true
+  xy: 802, 882
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+01/Body
+  rotate: false
+  xy: 163, 886
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+01/Foot
+  rotate: true
+  xy: 159, 530
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+01/Head
+  rotate: false
+  xy: 830, 927
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+01/Jaw
+  rotate: false
+  xy: 441, 921
+  size: 133, 102
+  orig: 133, 102
+  offset: 0, 0
+  index: -1
+01/Leg_Lower
+  rotate: false
+  xy: 539, 881
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+01/Shoulder
+  rotate: false
+  xy: 192, 651
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+01/Tusk
+  rotate: true
+  xy: 257, 819
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+01/Tusk_Bottom
+  rotate: false
+  xy: 236, 650
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+01/Tusk_Top
+  rotate: false
+  xy: 139, 754
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+01/leg_Upper
+  rotate: false
+  xy: 670, 893
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+02/Antenna
+  rotate: true
+  xy: 207, 699
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+02/Antenna_Base
+  rotate: false
+  xy: 116, 458
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+02/Back
+  rotate: true
+  xy: 116, 433
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+02/Extra_Teeth
+  rotate: false
+  xy: 163, 856
+  size: 92, 28
+  orig: 92, 28
+  offset: 0, 0
+  index: -1
+02/Eye_Angry
+  rotate: false
+  xy: 191, 601
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+02/Eye_Closed
+  rotate: false
+  xy: 53, 29
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+02/Eye_Open
+  rotate: false
+  xy: 53, 8
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+02/Leg_Lower
+  rotate: false
+  xy: 116, 532
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+02/Pupil
+  rotate: true
+  xy: 53, 1
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+02/Tusk
+  rotate: true
+  xy: 987, 933
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+03/Back
+  rotate: false
+  xy: 208, 798
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 1, 578
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+03/Claw_Back
+  rotate: false
+  xy: 105, 423
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+03/Claw_Right
+  rotate: false
+  xy: 968, 906
+  size: 19, 20
+  orig: 19, 21
+  offset: 0, 1
+  index: -1
+03/Claw_middle
+  rotate: false
+  xy: 903, 892
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+03/Eye_Angry
+  rotate: false
+  xy: 191, 617
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+03/Eye_Closed
+  rotate: false
+  xy: 829, 888
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+03/Eye_Open
+  rotate: false
+  xy: 853, 888
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+03/Foot
+  rotate: false
+  xy: 714, 888
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: true
+  xy: 714, 913
+  size: 110, 114
+  orig: 110, 115
+  offset: 0, 1
+  index: -1
+03/Jaw
+  rotate: true
+  xy: 1, 302
+  size: 133, 102
+  orig: 133, 102
+  offset: 0, 0
+  index: -1
+03/Leg_Lower
+  rotate: true
+  xy: 80, 184
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+03/Pupil
+  rotate: true
+  xy: 63, 1
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+03/Shoulder
+  rotate: false
+  xy: 582, 888
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+03/Teeth
+  rotate: true
+  xy: 941, 928
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+03/Tusk
+  rotate: true
+  xy: 1, 158
+  size: 142, 77
+  orig: 142, 77
+  offset: 0, 0
+  index: -1
+03/Tusk_Bottom
+  rotate: true
+  xy: 441, 882
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+03/Tusk_Top
+  rotate: false
+  xy: 139, 703
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+03/leg_Upper
+  rotate: true
+  xy: 88, 114
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+04/Back
+  rotate: false
+  xy: 138, 638
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+04/Back_mod
+  rotate: true
+  xy: 257, 799
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+04/Brain
+  rotate: false
+  xy: 1, 1
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+05/Brain
+  rotate: false
+  xy: 1, 1
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+04/Eye_Left_Closed
+  rotate: false
+  xy: 217, 635
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+04/Eye_Left_Open
+  rotate: false
+  xy: 916, 892
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+04/Eye_Middle_Closed
+  rotate: true
+  xy: 58, 50
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+04/Eye_Middle_Open
+  rotate: true
+  xy: 830, 911
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+04/Eye_Right_Closed
+  rotate: false
+  xy: 877, 892
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+04/Eye_Right_Open
+  rotate: false
+  xy: 916, 908
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+04/Foot_Armor
+  rotate: true
+  xy: 159, 496
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+04/Head
+  rotate: false
+  xy: 1, 437
+  size: 113, 139
+  orig: 113, 140
+  offset: 0, 1
+  index: -1
+04/Leg_Lower
+  rotate: false
+  xy: 116, 492
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+04/Teeth
+  rotate: true
+  xy: 1, 51
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+04/Tusk_mod
+  rotate: false
+  xy: 80, 230
+  size: 21, 70
+  orig: 21, 70
+  offset: 0, 0
+  index: -1
+05/Back_mod
+  rotate: false
+  xy: 138, 572
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 1, 717
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+05/Claw_Back
+  rotate: false
+  xy: 191, 580
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+05/Claw_Right
+  rotate: false
+  xy: 261, 772
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+05/Claw_middle
+  rotate: false
+  xy: 261, 743
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+05/Eye_Left_Closed
+  rotate: true
+  xy: 87, 50
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+05/Eye_Left_Open
+  rotate: false
+  xy: 75, 34
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+05/Eye_Middle_Closed
+  rotate: true
+  xy: 888, 911
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+05/Eye_Middle_Open
+  rotate: true
+  xy: 859, 911
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+05/Eye_Right_Closed
+  rotate: false
+  xy: 192, 634
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+05/Eye_Right_Open
+  rotate: false
+  xy: 942, 909
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+05/Foot
+  rotate: false
+  xy: 80, 158
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+05/Foot_Armor
+  rotate: true
+  xy: 58, 112
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 1, 856
+  size: 160, 167
+  orig: 161, 168
+  offset: 0, 1
+  index: -1
+05/Jaw
+  rotate: false
+  xy: 300, 893
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+05/Leg_Lower
+  rotate: true
+  xy: 58, 66
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+05/Shoulder
+  rotate: false
+  xy: 626, 888
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+05/Shoulder_Armor
+  rotate: false
+  xy: 207, 739
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+05/Tusk
+  rotate: false
+  xy: 576, 936
+  size: 136, 87
+  orig: 136, 88
+  offset: 0, 0
+  index: -1
+05/Tusk_Bottom
+  rotate: true
+  xy: 490, 882
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+05/Tusk_Top
+  rotate: false
+  xy: 139, 805
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+05/leg_Upper
+  rotate: true
+  xy: 99, 70
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1

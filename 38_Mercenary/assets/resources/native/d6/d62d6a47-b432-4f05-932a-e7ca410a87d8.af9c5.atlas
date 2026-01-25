@@ -1,0 +1,83 @@
+
+V_Electric_Transformer_Strike_01.png
+size: 707,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electrical_01
+  rotate: false
+  xy: 295, 1
+  size: 212, 80
+  orig: 212, 81
+  offset: 0, 0
+  index: -1
+Electrical_02
+  rotate: true
+  xy: 513, 341
+  size: 204, 87
+  orig: 204, 87
+  offset: 0, 0
+  index: -1
+Electrical_03
+  rotate: true
+  xy: 610, 340
+  size: 205, 96
+  orig: 207, 97
+  offset: 1, 1
+  index: -1
+Electrical_04
+  rotate: false
+  xy: 509, 13
+  size: 196, 68
+  orig: 197, 69
+  offset: 0, 1
+  index: -1
+Electrical_05
+  rotate: true
+  xy: 421, 331
+  size: 214, 90
+  orig: 216, 90
+  offset: 1, 0
+  index: -1
+Electrical_06
+  rotate: true
+  xy: 610, 124
+  size: 214, 91
+  orig: 216, 91
+  offset: 1, 0
+  index: -1
+Electrical_Hit_01
+  rotate: false
+  xy: 421, 247
+  size: 127, 82
+  orig: 450, 288
+  offset: 157, 43
+  index: -1
+Electrical_Hit_02
+  rotate: false
+  xy: 295, 83
+  size: 313, 150
+  orig: 450, 288
+  offset: 79, 37
+  index: -1
+Electrical_Hit_03
+  rotate: true
+  xy: 217, 235
+  size: 310, 202
+  orig: 450, 288
+  offset: 46, 29
+  index: -1
+Electrical_Hit_04
+  rotate: true
+  xy: 1, 229
+  size: 316, 214
+  orig: 450, 288
+  offset: 65, 36
+  index: -1
+Electrical_Hit_05
+  rotate: false
+  xy: 1, 4
+  size: 292, 223
+  orig: 450, 288
+  offset: 93, 36
+  index: -1

@@ -1,0 +1,76 @@
+
+V_Fire_Grd_ExplosionMushCloud_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Grd_ExplosionMushCloud_01_0001
+  rotate: true
+  xy: 249.5, 133.5
+  size: 42.5, 31.5
+  orig: 150, 150
+  offset: 59, 2
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0002
+  rotate: false
+  xy: 441, 400
+  size: 69, 45
+  orig: 150, 150
+  offset: 43, 1
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0003
+  rotate: true
+  xy: 133, 0.5
+  size: 78, 78.5
+  orig: 150, 150
+  offset: 37, 0
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0004
+  rotate: true
+  xy: 139, 80
+  size: 96, 109
+  orig: 150, 150
+  offset: 29.5, 0
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0005
+  rotate: true
+  xy: 291.5, 319
+  size: 126, 148
+  orig: 150, 150
+  offset: 13, 0
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0006
+  rotate: true
+  xy: 143.5, 310
+  size: 135, 146.5
+  orig: 150, 150
+  offset: 8, 1.5
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0007
+  rotate: false
+  xy: 0.5, 300
+  size: 141.5, 145
+  orig: 150, 150
+  offset: 4, 3.5
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0008
+  rotate: true
+  xy: 0.5, 152
+  size: 146.5, 137
+  orig: 150, 150
+  offset: 1.5, 11
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0009
+  rotate: true
+  xy: 0.5, 6
+  size: 144.5, 131
+  orig: 150, 150
+  offset: 4.5, 16.5
+  index: -1
+V_Fire_Grd_ExplosionMushCloud_01_0010
+  rotate: false
+  xy: 143.5, 177.5
+  size: 139, 131
+  orig: 150, 150
+  offset: 6.5, 15
+  index: -1

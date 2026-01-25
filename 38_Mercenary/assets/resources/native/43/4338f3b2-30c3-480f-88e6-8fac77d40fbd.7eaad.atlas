@@ -1,0 +1,923 @@
+
+Jade_Md_Tiger.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Body
+  rotate: false
+  xy: 88, 147
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+02/Body_butt
+  rotate: false
+  xy: 1, 120
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+02/Body_cloth
+  rotate: false
+  xy: 629, 849
+  size: 47, 174
+  orig: 47, 174
+  offset: 0, 0
+  index: -1
+02/Body_front_strips
+  rotate: false
+  xy: 1, 1
+  size: 57, 117
+  orig: 57, 117
+  offset: 0, 0
+  index: -1
+02/Body_mid_strips
+  rotate: false
+  xy: 60, 6
+  size: 54, 112
+  orig: 54, 112
+  offset: 0, 0
+  index: -1
+02/Face
+  rotate: false
+  xy: 678, 810
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+02/Leg_armor
+  rotate: false
+  xy: 235, 289
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+02/Leg_armor_back
+  rotate: true
+  xy: 370, 614
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+02/Lower_leg_R
+  rotate: false
+  xy: 263, 331
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+03/Lower_leg_R
+  rotate: false
+  xy: 263, 331
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+02/Shoulder_armor
+  rotate: false
+  xy: 259, 443
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+02/Tail_mod
+  rotate: false
+  xy: 239, 508
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+02/Teeth
+  rotate: true
+  xy: 277, 367
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+02/Upper_back_leg_R
+  rotate: true
+  xy: 874, 692
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+02/Upper_front_leg_R
+  rotate: false
+  xy: 302, 646
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+02/Upper_leg_R
+  rotate: true
+  xy: 396, 569
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+03/Upper_leg_R
+  rotate: true
+  xy: 396, 569
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+03/Arm_L
+  rotate: true
+  xy: 271, 512
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+03/Arm_R
+  rotate: false
+  xy: 195, 410
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+03/Back_feet_R
+  rotate: false
+  xy: 221, 1
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+03/Back_flap
+  rotate: true
+  xy: 93, 287
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 233, 240
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+03/Body_buckle
+  rotate: true
+  xy: 155, 196
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+03/Body_butt
+  rotate: false
+  xy: 458, 849
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+03/Body_front
+  rotate: false
+  xy: 249, 842
+  size: 115, 181
+  orig: 115, 181
+  offset: 0, 0
+  index: -1
+03/Body_mid
+  rotate: false
+  xy: 1, 840
+  size: 122, 183
+  orig: 122, 183
+  offset: 0, 0
+  index: -1
+03/Body_mid_armor
+  rotate: false
+  xy: 596, 702
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+03/Claws
+  rotate: true
+  xy: 574, 721
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+03/Ear_L
+  rotate: true
+  xy: 370, 562
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+03/Ear_R
+  rotate: true
+  xy: 490, 654
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+03/Eyebrow
+  rotate: false
+  xy: 516, 721
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+03/Face
+  rotate: false
+  xy: 396, 749
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+03/Front_feet_R
+  rotate: true
+  xy: 179, 1
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+03/Front_flap
+  rotate: true
+  xy: 214, 152
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+03/Hat
+  rotate: true
+  xy: 191, 582
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+03/Hat_back
+  rotate: true
+  xy: 970, 847
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+03/Leg_armor
+  rotate: false
+  xy: 183, 289
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+03/Leg_armor_back
+  rotate: true
+  xy: 370, 582
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+03/Lower_back_leg_R
+  rotate: false
+  xy: 202, 197
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+03/Lower_front_leg_R
+  rotate: false
+  xy: 946, 613
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+03/Shoulder_armor
+  rotate: true
+  xy: 221, 17
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+03/Teeth
+  rotate: true
+  xy: 207, 49
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+03/Tiger_eyes
+  rotate: false
+  xy: 377, 464
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+03/Upper_back_leg_R
+  rotate: true
+  xy: 676, 686
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+03/Upper_front_leg_R
+  rotate: true
+  xy: 878, 832
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+04/Body
+  rotate: false
+  xy: 137, 147
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+04/Body_butt
+  rotate: false
+  xy: 1, 296
+  size: 90, 174
+  orig: 90, 174
+  offset: 0, 0
+  index: -1
+04/Body_front_armor
+  rotate: false
+  xy: 301, 581
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+04/Body_front_strips
+  rotate: false
+  xy: 119, 485
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+04/Body_mid_armor
+  rotate: true
+  xy: 127, 405
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+04/Body_mid_strips
+  rotate: false
+  xy: 242, 711
+  size: 58, 127
+  orig: 58, 127
+  offset: 0, 0
+  index: -1
+04/Face
+  rotate: false
+  xy: 678, 909
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+04/Hat
+  rotate: true
+  xy: 195, 508
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+04/Jaw_color
+  rotate: true
+  xy: 447, 526
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+04/Jaw_teeth
+  rotate: true
+  xy: 291, 443
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+04/Leg_armor
+  rotate: true
+  xy: 191, 237
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+04/Leg_armor_back
+  rotate: true
+  xy: 294, 411
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+04/Lower_back_leg_R
+  rotate: true
+  xy: 246, 196
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+04/Lower_front_leg_R
+  rotate: true
+  xy: 195, 443
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+04/Shoulder_armor
+  rotate: true
+  xy: 287, 335
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+04/Tiger_eyes
+  rotate: false
+  xy: 88, 120
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+04/Upper_back_leg_R
+  rotate: true
+  xy: 766, 653
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+04/Upper_front_leg_R
+  rotate: true
+  xy: 778, 725
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+04/body_buckle
+  rotate: false
+  xy: 116, 1
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+05/Arm_L
+  rotate: false
+  xy: 88, 258
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: false
+  xy: 196, 331
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+05/Back_feet_R
+  rotate: false
+  xy: 365, 517
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+05/Back_flap
+  rotate: true
+  xy: 165, 95
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 116, 98
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+05/Body_butt
+  rotate: false
+  xy: 366, 849
+  size: 90, 174
+  orig: 90, 174
+  offset: 0, 0
+  index: -1
+05/Body_front
+  rotate: false
+  xy: 1, 472
+  size: 116, 181
+  orig: 116, 181
+  offset: 0, 0
+  index: -1
+05/Body_front_armor
+  rotate: false
+  xy: 127, 332
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+05/Body_mid
+  rotate: false
+  xy: 1, 655
+  size: 122, 183
+  orig: 122, 183
+  offset: 0, 0
+  index: -1
+05/Body_mid_armor
+  rotate: true
+  xy: 596, 769
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+05/Claws
+  rotate: false
+  xy: 458, 566
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+05/Ear_L
+  rotate: true
+  xy: 396, 549
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+05/Ear_R
+  rotate: true
+  xy: 262, 407
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+05/Eyebrow
+  rotate: false
+  xy: 545, 721
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+05/Face
+  rotate: false
+  xy: 778, 819
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+05/Face_teeth
+  rotate: false
+  xy: 160, 231
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+05/Front_feet_R
+  rotate: true
+  xy: 200, 1
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+05/Front_flap
+  rotate: true
+  xy: 259, 463
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+05/Hat
+  rotate: true
+  xy: 964, 684
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+05/Hat_back
+  rotate: true
+  xy: 186, 147
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+05/Jaw
+  rotate: true
+  xy: 878, 764
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+05/Leg_armor
+  rotate: true
+  xy: 165, 43
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+05/Leg_armor_back
+  rotate: true
+  xy: 490, 717
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+05/Lower_back_leg_R
+  rotate: false
+  xy: 242, 156
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+05/Lower_front_leg_R
+  rotate: false
+  xy: 300, 517
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+05/Lower_leg_R
+  rotate: false
+  xy: 296, 377
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+05/Shoulder_armor
+  rotate: true
+  xy: 490, 685
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+05/Tail
+  rotate: false
+  xy: 778, 926
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+05/Tiger_eyes
+  rotate: true
+  xy: 452, 543
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+05/Upper_back_leg_R
+  rotate: true
+  xy: 856, 620
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+05/Upper_front_leg_R
+  rotate: false
+  xy: 396, 653
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+05/Upper_leg_R
+  rotate: true
+  xy: 427, 569
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 88, 229
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 88, 196
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+Back_feet_R
+  rotate: false
+  xy: 394, 533
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Back_flap
+  rotate: true
+  xy: 199, 95
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 116, 49
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Body_butt
+  rotate: false
+  xy: 545, 849
+  size: 82, 174
+  orig: 82, 174
+  offset: 0, 0
+  index: -1
+Body_front
+  rotate: false
+  xy: 125, 656
+  size: 115, 182
+  orig: 115, 182
+  offset: 0, 0
+  index: -1
+Body_front_strips
+  rotate: true
+  xy: 242, 655
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+Body_mid
+  rotate: false
+  xy: 125, 840
+  size: 122, 183
+  orig: 122, 183
+  offset: 0, 0
+  index: -1
+Body_mid_strips
+  rotate: true
+  xy: 678, 758
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+Claws
+  rotate: true
+  xy: 377, 488
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 970, 832
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 471, 521
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 365, 533
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 496, 750
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+Feet_R
+  rotate: true
+  xy: 424, 546
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Feet_R_02
+  rotate: false
+  xy: 422, 527
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Front_feet_R
+  rotate: true
+  xy: 256, 365
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Front_flap
+  rotate: true
+  xy: 150, 1
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 196, 364
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: true
+  xy: 396, 588
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+Jaw_back
+  rotate: false
+  xy: 969, 752
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+Lower_back_leg_R
+  rotate: true
+  xy: 287, 468
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Lower_front_leg_R
+  rotate: false
+  xy: 235, 584
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+Lower_leg_R
+  rotate: false
+  xy: 1011, 726
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+Mouth_01
+  rotate: true
+  xy: 327, 473
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Mouth_02
+  rotate: true
+  xy: 1010, 998
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+Mouth_03
+  rotate: true
+  xy: 352, 473
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 93, 339
+  size: 131, 32
+  orig: 240, 80
+  offset: 54, 25
+  index: -1
+Tail
+  rotate: false
+  xy: 894, 928
+  size: 114, 95
+  orig: 114, 95
+  offset: 0, 0
+  index: -1
+Tiger_eyes
+  rotate: false
+  xy: 477, 542
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: true
+  xy: 127, 287
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Upper_back_leg_R
+  rotate: false
+  xy: 119, 565
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+Upper_front_leg_R
+  rotate: false
+  xy: 302, 738
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+Upper_leg_R
+  rotate: false
+  xy: 856, 695
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1

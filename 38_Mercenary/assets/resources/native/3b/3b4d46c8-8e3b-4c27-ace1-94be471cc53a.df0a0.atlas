@@ -1,0 +1,426 @@
+
+Undead_Md_PumpkinHead.png
+size: 630,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_add
+  rotate: true
+  xy: 173, 2
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+02/Body
+  rotate: false
+  xy: 219, 174
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: -1
+02/Collar
+  rotate: true
+  xy: 375, 127
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+02/Eye_brow
+  rotate: true
+  xy: 553, 26
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+02/Mouth
+  rotate: false
+  xy: 398, 136
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+02/Root
+  rotate: false
+  xy: 596, 64
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+02/Teeth
+  rotate: true
+  xy: 473, 148
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+03/Arm_R
+  rotate: true
+  xy: 104, 2
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+03/Back
+  rotate: true
+  xy: 354, 38
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 2, 38
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+03/Body_Add_01
+  rotate: false
+  xy: 457, 98
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+03/Body_Add_02
+  rotate: false
+  xy: 455, 3
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+03/Body_Add_03
+  rotate: false
+  xy: 521, 11
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+03/Collar
+  rotate: false
+  xy: 502, 99
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+03/Eye
+  rotate: true
+  xy: 574, 31
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+03/Eye_brow
+  rotate: true
+  xy: 575, 60
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: false
+  xy: 502, 122
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+03/Leg_R
+  rotate: true
+  xy: 553, 3
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+03/Mouth
+  rotate: false
+  xy: 219, 116
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+03/Root
+  rotate: false
+  xy: 550, 92
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+03/Teeth
+  rotate: true
+  xy: 202, 2
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+03/UpperArm_R
+  rotate: true
+  xy: 286, 9
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+03/UpperLeg_R
+  rotate: true
+  xy: 367, 4
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+04/Arm_R
+  rotate: false
+  xy: 586, 199
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+04/Back
+  rotate: false
+  xy: 398, 98
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+04/Body
+  rotate: false
+  xy: 122, 156
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+04/Eye_brow
+  rotate: false
+  xy: 587, 95
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+04/Eye_glow
+  rotate: false
+  xy: 601, 5
+  size: 14, 13
+  orig: 74, 72
+  offset: 30, 30
+  index: -1
+04/Mouth
+  rotate: false
+  xy: 492, 204
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+04/Root
+  rotate: false
+  xy: 308, 138
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+04/Teeth
+  rotate: false
+  xy: 293, 43
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+05/Arm_Add
+  rotate: false
+  xy: 410, 3
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: true
+  xy: 562, 159
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+05/Back
+  rotate: false
+  xy: 492, 154
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 2, 149
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+05/Collar
+  rotate: false
+  xy: 229, 26
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+05/Eye
+  rotate: false
+  xy: 368, 102
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+05/Mouth
+  rotate: false
+  xy: 398, 192
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+05/Nose
+  rotate: false
+  xy: 601, 20
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+05/Root
+  rotate: true
+  xy: 99, 43
+  size: 104, 47
+  orig: 104, 47
+  offset: 0, 0
+  index: -1
+05/Teeth
+  rotate: false
+  xy: 304, 91
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+05/Tie
+  rotate: false
+  xy: 2, 4
+  size: 100, 32
+  orig: 100, 32
+  offset: 0, 0
+  index: -1
+05/UpperArm_R
+  rotate: false
+  xy: 450, 46
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 562, 120
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 308, 175
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 229, 3
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 550, 58
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Eye_close
+  rotate: true
+  xy: 550, 131
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+Face_base
+  rotate: false
+  xy: 148, 68
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+Feet_R
+  rotate: true
+  xy: 616, 95
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 599, 41
+  size: 16, 21
+  orig: 76, 82
+  offset: 30, 30
+  index: -1
+HandOpen_L
+  rotate: true
+  xy: 148, 43
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+HandOpen_R
+  rotate: false
+  xy: 338, 2
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Head_base
+  rotate: true
+  xy: 213, 60
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 518, 51
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 578, 6
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 393, 46
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Root
+  rotate: false
+  xy: 185, 43
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+UpperArm_R
+  rotate: false
+  xy: 484, 46
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+UpperLeg_R
+  rotate: false
+  xy: 487, 3
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1

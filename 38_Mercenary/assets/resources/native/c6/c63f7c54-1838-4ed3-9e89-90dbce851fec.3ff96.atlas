@@ -1,0 +1,622 @@
+
+Jade_To_CherryTemple.png
+size: 1009,945
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Body
+  rotate: true
+  xy: 341, 334
+  size: 262, 207
+  orig: 262, 207
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 341, 334
+  size: 262, 207
+  orig: 262, 207
+  offset: 0, 0
+  index: -1
+02/Coin
+  rotate: false
+  xy: 652, 6
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 652, 6
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+02/DoorFrame_01
+  rotate: false
+  xy: 976, 802
+  size: 25, 141
+  orig: 25, 141
+  offset: 0, 0
+  index: -1
+DoorFrame_01
+  rotate: false
+  xy: 976, 802
+  size: 25, 141
+  orig: 25, 141
+  offset: 0, 0
+  index: -1
+02/DoorFrame_02
+  rotate: false
+  xy: 970, 530
+  size: 18, 124
+  orig: 18, 124
+  offset: 0, 0
+  index: -1
+DoorFrame_02
+  rotate: false
+  xy: 970, 530
+  size: 18, 124
+  orig: 18, 124
+  offset: 0, 0
+  index: -1
+02/Lantern_01
+  rotate: false
+  xy: 970, 479
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+02/Legs
+  rotate: false
+  xy: 288, 252
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+03/Legs
+  rotate: false
+  xy: 288, 252
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+04/Legs
+  rotate: false
+  xy: 288, 252
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+05/Legs
+  rotate: false
+  xy: 288, 252
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+02/Roof_Shadow
+  rotate: false
+  xy: 771, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+03/Roof_Shadow
+  rotate: false
+  xy: 771, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+04/Roof_Shadow
+  rotate: false
+  xy: 771, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+05/Roof_Shadow
+  rotate: false
+  xy: 771, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+Roof_Shadow
+  rotate: false
+  xy: 771, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+02/Sakura_01
+  rotate: true
+  xy: 918, 207
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Sakura_01
+  rotate: true
+  xy: 918, 207
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+02/Sakura_02
+  rotate: false
+  xy: 452, 10
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+Sakura_02
+  rotate: false
+  xy: 452, 10
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+02/Sakura_07
+  rotate: true
+  xy: 385, 2
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+03/Sakura_07
+  rotate: true
+  xy: 385, 2
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Sakura_07
+  rotate: true
+  xy: 385, 2
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+02/Tree_Top_01
+  rotate: false
+  xy: 698, 212
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+Tree_Top_01
+  rotate: false
+  xy: 698, 212
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+02/Tree_Top_02
+  rotate: true
+  xy: 821, 385
+  size: 85, 148
+  orig: 85, 148
+  offset: 0, 0
+  index: -1
+03/Tree_Top_02
+  rotate: true
+  xy: 821, 385
+  size: 85, 148
+  orig: 85, 148
+  offset: 0, 0
+  index: -1
+Tree_Top_02
+  rotate: true
+  xy: 821, 385
+  size: 85, 148
+  orig: 85, 148
+  offset: 0, 0
+  index: -1
+02/Window
+  rotate: false
+  xy: 763, 678
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+03/Banner_01
+  rotate: true
+  xy: 947, 161
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+04/Banner_01
+  rotate: true
+  xy: 947, 161
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+05/Banner_01
+  rotate: true
+  xy: 947, 161
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 2, 38
+  size: 262, 210
+  orig: 262, 210
+  offset: 0, 0
+  index: -1
+04/Body
+  rotate: false
+  xy: 2, 38
+  size: 262, 210
+  orig: 262, 210
+  offset: 0, 0
+  index: -1
+03/Coin
+  rotate: false
+  xy: 799, 207
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+04/Coin
+  rotate: false
+  xy: 799, 207
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+03/DoorFrame_01
+  rotate: true
+  xy: 70, 14
+  size: 22, 140
+  orig: 22, 140
+  offset: 0, 0
+  index: -1
+03/Lantern_01
+  rotate: true
+  xy: 947, 130
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+03/Roof_woodbeans
+  rotate: false
+  xy: 2, 250
+  size: 215, 345
+  orig: 215, 345
+  offset: 0, 0
+  index: -1
+03/Sakura_08
+  rotate: false
+  xy: 690, 123
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+03/Sakura_09
+  rotate: true
+  xy: 709, 406
+  size: 208, 110
+  orig: 208, 110
+  offset: 0, 0
+  index: -1
+03/Tree_Side_01
+  rotate: false
+  xy: 385, 71
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+04/Tree_Side_01
+  rotate: false
+  xy: 385, 71
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+05/Tree_Side_01
+  rotate: false
+  xy: 385, 71
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+Tree_Side_01
+  rotate: false
+  xy: 385, 71
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+03/Tree_Top_01
+  rotate: true
+  xy: 341, 185
+  size: 147, 180
+  orig: 147, 180
+  offset: 0, 0
+  index: -1
+04/Tree_Top_01
+  rotate: true
+  xy: 341, 185
+  size: 147, 180
+  orig: 147, 180
+  offset: 0, 0
+  index: -1
+03/Window
+  rotate: true
+  xy: 954, 193
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+04/Banner_02
+  rotate: true
+  xy: 510, 2
+  size: 25, 75
+  orig: 25, 75
+  offset: 0, 0
+  index: -1
+05/Banner_02
+  rotate: true
+  xy: 510, 2
+  size: 25, 75
+  orig: 25, 75
+  offset: 0, 0
+  index: -1
+04/Coin_Small
+  rotate: false
+  xy: 771, 44
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+04/DoorFrame_01
+  rotate: false
+  xy: 976, 660
+  size: 22, 140
+  orig: 22, 140
+  offset: 0, 0
+  index: -1
+05/DoorFrame_01
+  rotate: false
+  xy: 976, 660
+  size: 22, 140
+  orig: 22, 140
+  offset: 0, 0
+  index: -1
+04/Gold_01
+  rotate: true
+  xy: 212, 2
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+04/Gold_02
+  rotate: false
+  xy: 266, 195
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+04/Gold_03
+  rotate: false
+  xy: 918, 245
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+04/Lantern_01
+  rotate: true
+  xy: 2, 2
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+04/Rocks
+  rotate: true
+  xy: 549, 616
+  size: 115, 212
+  orig: 115, 212
+  offset: 0, 0
+  index: -1
+04/Tree_Top_02
+  rotate: false
+  xy: 550, 327
+  size: 157, 287
+  orig: 157, 287
+  offset: 0, 0
+  index: -1
+04/Window
+  rotate: true
+  xy: 936, 4
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+05/Window
+  rotate: true
+  xy: 936, 4
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 549, 733
+  size: 264, 210
+  orig: 264, 210
+  offset: 0, 0
+  index: -1
+05/Coin
+  rotate: false
+  xy: 266, 45
+  size: 117, 138
+  orig: 117, 138
+  offset: 0, 0
+  index: -1
+05/Door_detail
+  rotate: true
+  xy: 587, 2
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+05/Door_detail_02
+  rotate: false
+  xy: 837, 12
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+05/Door_detail_03
+  rotate: false
+  xy: 264, 2
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+05/Lantern_01
+  rotate: true
+  xy: 219, 250
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+05/Light
+  rotate: true
+  xy: 523, 222
+  size: 103, 173
+  orig: 150, 174
+  offset: 0, 0
+  index: -1
+05/Roof_woodbeans
+  rotate: false
+  xy: 332, 598
+  size: 215, 345
+  orig: 215, 345
+  offset: 0, 0
+  index: -1
+05/Sakura_06
+  rotate: true
+  xy: 896, 127
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+Sakura_06
+  rotate: true
+  xy: 896, 127
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+05/Sakura_10
+  rotate: false
+  xy: 523, 123
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+05/Sakura_11
+  rotate: true
+  xy: 780, 114
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+05/Tree_Top_01
+  rotate: false
+  xy: 821, 472
+  size: 147, 182
+  orig: 147, 182
+  offset: 0, 0
+  index: -1
+05/Tree_Top_02
+  rotate: false
+  xy: 815, 656
+  size: 159, 287
+  orig: 159, 287
+  offset: 0, 0
+  index: -1
+05/Tree_center
+  rotate: false
+  xy: 820, 324
+  size: 153, 59
+  orig: 153, 59
+  offset: 0, 0
+  index: -1
+Petal_01
+  rotate: true
+  xy: 990, 113
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Petal_02
+  rotate: false
+  xy: 990, 96
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Petal_03
+  rotate: false
+  xy: 613, 8
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Roof
+  rotate: false
+  xy: 2, 597
+  size: 328, 346
+  orig: 328, 346
+  offset: 0, 0
+  index: -1
+Sakura_03
+  rotate: true
+  xy: 709, 328
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+Sakura_04
+  rotate: false
+  xy: 864, 38
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+Sakura_05
+  rotate: false
+  xy: 763, 616
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Window
+  rotate: false
+  xy: 936, 56
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+Window_roof
+  rotate: false
+  xy: 520, 29
+  size: 130, 92
+  orig: 130, 92
+  offset: 0, 0
+  index: -1
+Woodframe
+  rotate: false
+  xy: 219, 293
+  size: 120, 302
+  orig: 120, 302
+  offset: 0, 0
+  index: -1

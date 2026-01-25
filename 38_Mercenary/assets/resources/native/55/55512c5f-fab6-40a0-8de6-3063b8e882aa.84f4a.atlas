@@ -1,0 +1,706 @@
+
+Invaders_To_HivePylon.png
+size: 993,929
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/1stfloor_detail_03
+  rotate: true
+  xy: 208, 2
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+02/1stfloor_detail_04
+  rotate: false
+  xy: 806, 790
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+02/1stfloor_goo_02
+  rotate: true
+  xy: 455, 219
+  size: 82, 125
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+02/1stfloor_goo_04
+  rotate: true
+  xy: 214, 16
+  size: 91, 118
+  orig: 91, 118
+  offset: 0, 0
+  index: -1
+02/2ndfloor_detail_01
+  rotate: false
+  xy: 987, 915
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+02/Creature_head
+  rotate: false
+  xy: 262, 717
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+02/Egg
+  rotate: true
+  xy: 471, 590
+  size: 177, 144
+  orig: 177, 144
+  offset: 0, 0
+  index: -1
+02/Egg_goo_03
+  rotate: true
+  xy: 631, 80
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+02/Frontpipe
+  rotate: false
+  xy: 911, 298
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+02/Sidepipe_details_01
+  rotate: false
+  xy: 963, 401
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+02/Sidepipe_goo
+  rotate: false
+  xy: 836, 180
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+03/1stfloor_detail_01
+  rotate: true
+  xy: 250, 484
+  size: 29, 54
+  orig: 65, 82
+  offset: 9, 15
+  index: -1
+03/1stfloor_detail_04
+  rotate: true
+  xy: 554, 128
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+03/1stfloor_goo_01
+  rotate: true
+  xy: 794, 516
+  size: 129, 196
+  orig: 129, 196
+  offset: 0, 0
+  index: -1
+03/1stfloor_goo_02
+  rotate: false
+  xy: 214, 109
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+03/1stfloor_goo_03
+  rotate: true
+  xy: 324, 188
+  size: 63, 122
+  orig: 63, 122
+  offset: 0, 0
+  index: -1
+03/1stfloor_goo_04
+  rotate: true
+  xy: 716, 215
+  size: 91, 118
+  orig: 91, 118
+  offset: 0, 0
+  index: -1
+03/2ndfloor_detail_01
+  rotate: false
+  xy: 828, 122
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+03/2ndfloor_goo_01
+  rotate: false
+  xy: 306, 451
+  size: 159, 145
+  orig: 159, 145
+  offset: 0, 0
+  index: -1
+03/2ndfloor_goo_02
+  rotate: false
+  xy: 789, 136
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+03/BaseTower_sidepiece
+  rotate: true
+  xy: 834, 117
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+03/Creature_fin_01
+  rotate: true
+  xy: 473, 2
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+03/Creature_head
+  rotate: false
+  xy: 720, 18
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+03/Door
+  rotate: true
+  xy: 554, 80
+  size: 43, 75
+  orig: 72, 100
+  offset: 16, 19
+  index: -1
+03/Egg
+  rotate: false
+  xy: 2, 46
+  size: 210, 155
+  orig: 210, 155
+  offset: 0, 0
+  index: -1
+03/Egg_goo_03
+  rotate: false
+  xy: 697, 137
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+03/Sidepipe_details_01
+  rotate: true
+  xy: 948, 32
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+03/Sidepipe_details_02
+  rotate: true
+  xy: 151, 2
+  size: 7, 32
+  orig: 7, 32
+  offset: 0, 0
+  index: -1
+03/Sidepipe_details_03
+  rotate: false
+  xy: 193, 226
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+03/Sidepipe_details_04
+  rotate: false
+  xy: 493, 10
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+03/Sidepipe_goo
+  rotate: true
+  xy: 763, 390
+  size: 124, 198
+  orig: 124, 198
+  offset: 0, 0
+  index: -1
+03/Sidescrew_details_01
+  rotate: true
+  xy: 334, 2
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+03/Sidescrew_details_02
+  rotate: true
+  xy: 652, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+03/Window_detail
+  rotate: true
+  xy: 314, 200
+  size: 41, 5
+  orig: 41, 5
+  offset: 0, 0
+  index: -1
+04/1stfloor_goo_05
+  rotate: true
+  xy: 151, 11
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+04/1stfloor_goo_06
+  rotate: true
+  xy: 828, 72
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+04/2ndfloor_goo_03
+  rotate: true
+  xy: 615, 437
+  size: 81, 146
+  orig: 81, 146
+  offset: 0, 0
+  index: -1
+04/Creature_body
+  rotate: false
+  xy: 781, 25
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+04/Creature_fin_02
+  rotate: true
+  xy: 442, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+04/Creature_head
+  rotate: false
+  xy: 569, 20
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+04/Egg
+  rotate: true
+  xy: 2, 203
+  size: 236, 189
+  orig: 236, 189
+  offset: 0, 0
+  index: -1
+04/Egg_goo_03
+  rotate: false
+  xy: 576, 304
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+04/Side_egg
+  rotate: true
+  xy: 896, 44
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+04/Sidepipe_goo
+  rotate: true
+  xy: 554, 803
+  size: 124, 281
+  orig: 124, 281
+  offset: 0, 0
+  index: -1
+05/1stfloor_detail_01
+  rotate: true
+  xy: 250, 453
+  size: 29, 54
+  orig: 65, 82
+  offset: 9, 15
+  index: -1
+05/1stfloor_detail_02
+  rotate: false
+  xy: 454, 26
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+05/1stfloor_detail_04
+  rotate: false
+  xy: 248, 3
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+05/1stfloor_goo_01
+  rotate: false
+  xy: 193, 243
+  size: 129, 196
+  orig: 129, 196
+  offset: 0, 0
+  index: -1
+05/1stfloor_goo_02
+  rotate: false
+  xy: 306, 598
+  size: 163, 169
+  orig: 163, 169
+  offset: 0, 0
+  index: -1
+05/1stfloor_goo_03
+  rotate: true
+  xy: 448, 154
+  size: 63, 122
+  orig: 63, 122
+  offset: 0, 0
+  index: -1
+05/1stfloor_goo_04
+  rotate: true
+  xy: 334, 27
+  size: 91, 118
+  orig: 91, 118
+  offset: 0, 0
+  index: -1
+05/1stfloor_goo_05
+  rotate: true
+  xy: 2, 2
+  size: 42, 91
+  orig: 42, 91
+  offset: 0, 0
+  index: -1
+05/1stfloor_goo_06
+  rotate: true
+  xy: 314, 120
+  size: 66, 121
+  orig: 66, 121
+  offset: 0, 0
+  index: -1
+05/2ndfloor_detail_01
+  rotate: false
+  xy: 208, 32
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+05/2ndfloor_goo_01
+  rotate: false
+  xy: 455, 303
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+05/2ndfloor_goo_02
+  rotate: true
+  xy: 582, 224
+  size: 78, 132
+  orig: 78, 132
+  offset: 0, 0
+  index: -1
+05/2ndfloor_goo_03
+  rotate: true
+  xy: 763, 308
+  size: 80, 146
+  orig: 80, 146
+  offset: 0, 0
+  index: -1
+05/BaseTower_sidepiece
+  rotate: true
+  xy: 760, 73
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+05/Creature_body
+  rotate: false
+  xy: 823, 18
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+05/Creature_fin_01
+  rotate: false
+  xy: 711, 308
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+05/Creature_fin_02
+  rotate: false
+  xy: 659, 138
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+05/Creature_head
+  rotate: false
+  xy: 454, 76
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+05/Door
+  rotate: true
+  xy: 902, 125
+  size: 49, 89
+  orig: 74, 107
+  offset: 15, 18
+  index: -1
+05/Egg
+  rotate: false
+  xy: 2, 717
+  size: 258, 210
+  orig: 258, 210
+  offset: 0, 0
+  index: -1
+05/Egg_goo_03
+  rotate: true
+  xy: 806, 647
+  size: 136, 182
+  orig: 136, 182
+  offset: 0, 0
+  index: -1
+05/Side_egg
+  rotate: false
+  xy: 194, 441
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+05/Sidepipe_details_01
+  rotate: true
+  xy: 884, 17
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+05/Sidepipe_details_02
+  rotate: true
+  xy: 576, 442
+  size: 7, 32
+  orig: 7, 32
+  offset: 0, 0
+  index: -1
+05/Sidepipe_details_03
+  rotate: false
+  xy: 193, 209
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+05/Sidepipe_details_04
+  rotate: false
+  xy: 529, 10
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+05/Sidepipe_goo
+  rotate: true
+  xy: 262, 769
+  size: 158, 290
+  orig: 158, 290
+  offset: 0, 0
+  index: -1
+05/Sidescrew_details_01
+  rotate: true
+  xy: 388, 2
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+05/Sidescrew_details_02
+  rotate: true
+  xy: 672, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+05/Window_detail
+  rotate: true
+  xy: 437, 145
+  size: 41, 5
+  orig: 41, 5
+  offset: 0, 0
+  index: -1
+1stfloor_detail_01
+  rotate: true
+  xy: 554, 772
+  size: 29, 54
+  orig: 66, 82
+  offset: 12, 15
+  index: -1
+1stfloor_detail_02
+  rotate: false
+  xy: 582, 174
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+1stfloor_goo_01
+  rotate: false
+  xy: 324, 253
+  size: 129, 196
+  orig: 129, 196
+  offset: 0, 0
+  index: -1
+1stfloor_goo_02
+  rotate: true
+  xy: 652, 24
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+2ndfloor_goo_01
+  rotate: true
+  xy: 467, 451
+  size: 137, 146
+  orig: 137, 146
+  offset: 0, 0
+  index: -1
+BaseTower_1stFloor
+  rotate: true
+  xy: 2, 441
+  size: 274, 190
+  orig: 274, 190
+  offset: 0, 0
+  index: -1
+BaseTower_2ndFloor
+  rotate: false
+  xy: 617, 658
+  size: 187, 143
+  orig: 187, 143
+  offset: 0, 0
+  index: -1
+Creature_fin
+  rotate: true
+  xy: 781, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Creature_head
+  rotate: true
+  xy: 948, 59
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Door
+  rotate: true
+  xy: 572, 125
+  size: 47, 85
+  orig: 74, 106
+  offset: 16, 18
+  index: -1
+Egg
+  rotate: false
+  xy: 617, 520
+  size: 175, 136
+  orig: 175, 136
+  offset: 0, 0
+  index: -1
+Egg_goo_01
+  rotate: true
+  xy: 711, 331
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+Egg_goo_02
+  rotate: false
+  xy: 963, 486
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Egg_trim
+  rotate: true
+  xy: 194, 515
+  size: 200, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+Frontpipe
+  rotate: false
+  xy: 680, 72
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Side_pipe
+  rotate: true
+  xy: 95, 2
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+Side_screw
+  rotate: false
+  xy: 837, 785
+  size: 148, 142
+  orig: 148, 142
+  offset: 0, 0
+  index: -1
+Sidepipe_armor
+  rotate: false
+  xy: 909, 176
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+Sidepipe_details_01
+  rotate: true
+  xy: 915, 17
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Sidepipe_details_02
+  rotate: false
+  xy: 572, 185
+  size: 7, 32
+  orig: 7, 32
+  offset: 0, 0
+  index: -1
+Sidepipe_details_03
+  rotate: true
+  xy: 437, 124
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Sidepipe_details_04
+  rotate: false
+  xy: 803, 2
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+Sidescrew_details_01
+  rotate: false
+  xy: 963, 432
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+Sidescrew_details_02
+  rotate: true
+  xy: 692, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Window
+  rotate: false
+  xy: 902, 92
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+Window_detail
+  rotate: false
+  xy: 250, 446
+  size: 41, 5
+  orig: 41, 5
+  offset: 0, 0
+  index: -1

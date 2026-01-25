@@ -1,0 +1,34 @@
+
+V_Spawn_Grd_FlamesFront_01.png
+size: 342,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Spawn_Grd_FlamesFront_01_0001
+  rotate: false
+  xy: 1, 1
+  size: 231, 79
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+V_Spawn_Grd_FlamesFront_01_0002
+  rotate: true
+  xy: 137, 82
+  size: 231, 104
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+V_Spawn_Grd_FlamesFront_01_0003
+  rotate: true
+  xy: 1, 82
+  size: 231, 134
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+V_Spawn_Grd_FlamesFront_01_0004
+  rotate: true
+  xy: 243, 82
+  size: 231, 98
+  orig: 231, 212
+  offset: 0, 0
+  index: -1

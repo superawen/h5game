@@ -1,0 +1,510 @@
+
+Robot_Lg_Juggernaut.png
+size: 614,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Claw_L_Top
+  rotate: true
+  xy: 223, 143
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+02/Claw_R_Bottom
+  rotate: false
+  xy: 404, 256
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+02/Claw_R_Top
+  rotate: false
+  xy: 360, 23
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+02/Head
+  rotate: true
+  xy: 323, 260
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+02/Hip_mod
+  rotate: false
+  xy: 492, 96
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+02/Spine
+  rotate: true
+  xy: 188, 354
+  size: 43, 104
+  orig: 43, 104
+  offset: 0, 0
+  index: -1
+02/Torsal
+  rotate: false
+  xy: 2, 113
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+02/Torsal_Back_02
+  rotate: true
+  xy: 126, 81
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+03/Claw_L_Top
+  rotate: true
+  xy: 219, 70
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+03/Claw_R_Bottom
+  rotate: false
+  xy: 217, 4
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+03/Claw_R_Top
+  rotate: false
+  xy: 280, 3
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+03/Hand_L
+  rotate: true
+  xy: 457, 255
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+03/Hand_R
+  rotate: false
+  xy: 340, 84
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+03/Hand_R_Back
+  rotate: false
+  xy: 585, 459
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: true
+  xy: 126, 143
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+03/Head_Back
+  rotate: true
+  xy: 589, 257
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+04/Head_Back
+  rotate: true
+  xy: 589, 257
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: false
+  xy: 45, 15
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+03/Mouth
+  rotate: true
+  xy: 444, 208
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+03/Spine
+  rotate: true
+  xy: 312, 383
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1
+03/Torsal
+  rotate: false
+  xy: 2, 224
+  size: 146, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1
+03/Tread_Base_R
+  rotate: false
+  xy: 323, 312
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+03/Upper_Arm_R
+  rotate: false
+  xy: 445, 93
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+03/eye
+  rotate: false
+  xy: 501, 244
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+04/eye
+  rotate: false
+  xy: 501, 244
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+05/eye
+  rotate: false
+  xy: 501, 244
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+04/Claw_L_Top
+  rotate: true
+  xy: 154, 4
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+04/Claw_R_Bottom
+  rotate: false
+  xy: 512, 256
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+04/Claw_R_Top
+  rotate: true
+  xy: 512, 203
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+04/Head_horn
+  rotate: true
+  xy: 589, 291
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+04/Horn
+  rotate: false
+  xy: 360, 3
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+04/Mouth_mod
+  rotate: false
+  xy: 525, 74
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+04/Torsal_side
+  rotate: false
+  xy: 2, 2
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+04/Torsal_side_02
+  rotate: true
+  xy: 454, 454
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+04/mod
+  rotate: false
+  xy: 485, 6
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+05/Claw_L_Top
+  rotate: false
+  xy: 500, 153
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+05/Claw_L_Top_02
+  rotate: true
+  xy: 512, 316
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+05/Claw_R_Bottom
+  rotate: false
+  xy: 266, 143
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+05/Claw_R_Bottom_02
+  rotate: false
+  xy: 284, 205
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+05/Claw_R_Top
+  rotate: true
+  xy: 320, 143
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+05/Claw_R_Top_02
+  rotate: false
+  xy: 280, 261
+  size: 41, 91
+  orig: 41, 91
+  offset: 0, 0
+  index: -1
+05/Hand_L
+  rotate: true
+  xy: 445, 149
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+05/Hand_R
+  rotate: true
+  xy: 389, 88
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+05/Hand_R_Back
+  rotate: true
+  xy: 398, 3
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 219, 256
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+05/Head_Back
+  rotate: true
+  xy: 592, 223
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+05/Head_horn
+  rotate: true
+  xy: 403, 207
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+05/Hip
+  rotate: true
+  xy: 436, 385
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+05/Horn
+  rotate: false
+  xy: 526, 33
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+05/Mouth
+  rotate: true
+  xy: 557, 157
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+05/Torsal
+  rotate: false
+  xy: 2, 357
+  size: 184, 161
+  orig: 184, 161
+  offset: 0, 0
+  index: -1
+05/Torsal_back_01
+  rotate: true
+  xy: 445, 32
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+05/Torsal_side
+  rotate: true
+  xy: 312, 455
+  size: 63, 140
+  orig: 63, 140
+  offset: 0, 0
+  index: -1
+05/Tread_Base_R
+  rotate: false
+  xy: 270, 73
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+05/Upper_Arm_R
+  rotate: false
+  xy: 398, 32
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 534, 378
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 150, 204
+  size: 50, 101
+  orig: 50, 101
+  offset: 0, 0
+  index: -1
+Claw_L_Top
+  rotate: true
+  xy: 253, 205
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Claw_R_Bottom
+  rotate: false
+  xy: 362, 207
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+Claw_R_Top
+  rotate: false
+  xy: 526, 100
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 558, 110
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 558, 68
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Hand_R_Back
+  rotate: false
+  xy: 589, 327
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 363, 140
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 150, 256
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+Spine
+  rotate: false
+  xy: 114, 2
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+Torsal
+  rotate: false
+  xy: 188, 399
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+Torsal_Back
+  rotate: false
+  xy: 394, 312
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Tread_Base_R
+  rotate: false
+  xy: 441, 314
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Tread_R
+  rotate: false
+  xy: 410, 137
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+Tread_R_02
+  rotate: false
+  xy: 325, 3
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+Upper_Arm_R
+  rotate: false
+  xy: 485, 46
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1

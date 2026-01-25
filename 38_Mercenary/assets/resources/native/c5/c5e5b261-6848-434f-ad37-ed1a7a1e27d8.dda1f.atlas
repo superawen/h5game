@@ -1,0 +1,650 @@
+
+Undead_To_GingerbreadHouse.png
+size: 1009,661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Candy_stick
+  rotate: true
+  xy: 371, 191
+  size: 30, 138
+  orig: 30, 138
+  offset: 0, 0
+  index: -1
+02/Chimney
+  rotate: true
+  xy: 371, 223
+  size: 98, 170
+  orig: 98, 170
+  offset: 0, 0
+  index: -1
+02/Pot_back
+  rotate: false
+  xy: 702, 149
+  size: 101, 32
+  orig: 101, 32
+  offset: 0, 0
+  index: -1
+02/Pot_front
+  rotate: false
+  xy: 585, 307
+  size: 106, 98
+  orig: 106, 98
+  offset: 0, 0
+  index: -1
+02/Pot_soup
+  rotate: true
+  xy: 792, 61
+  size: 86, 20
+  orig: 86, 20
+  offset: 0, 0
+  index: -1
+02/Roof_icing
+  rotate: false
+  xy: 961, 440
+  size: 46, 174
+  orig: 46, 174
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0000_Layer-9
+  rotate: true
+  xy: 82, 37
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0001_Layer-8
+  rotate: false
+  xy: 943, 440
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0002_Layer-7
+  rotate: false
+  xy: 930, 440
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0003_Layer-6
+  rotate: true
+  xy: 693, 393
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0004_Layer-5
+  rotate: false
+  xy: 809, 6
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0005_Layer-4
+  rotate: true
+  xy: 770, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0006_Layer-3
+  rotate: false
+  xy: 805, 164
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0007_Layer-2
+  rotate: false
+  xy: 543, 307
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0008_Layer-1
+  rotate: false
+  xy: 511, 214
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+02/Splash_0012.png_0009_Layer-0
+  rotate: true
+  xy: 706, 507
+  size: 27, 5
+  orig: 27, 5
+  offset: 0, 0
+  index: -1
+02/WindowSide_top
+  rotate: true
+  xy: 930, 397
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+02/Window_strip
+  rotate: true
+  xy: 702, 5
+  size: 9, 58
+  orig: 9, 58
+  offset: 0, 0
+  index: -1
+02/Window_top_mod
+  rotate: false
+  xy: 579, 59
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+03/Bone_01
+  rotate: true
+  xy: 897, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+03/Bone_02
+  rotate: true
+  xy: 787, 5
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+03/Candy_stick
+  rotate: true
+  xy: 801, 211
+  size: 29, 139
+  orig: 29, 139
+  offset: 0, 0
+  index: -1
+03/Candy_stick_02
+  rotate: true
+  xy: 512, 163
+  size: 28, 129
+  orig: 28, 129
+  offset: 0, 0
+  index: -1
+03/Chimney
+  rotate: true
+  xy: 135, 72
+  size: 98, 171
+  orig: 98, 171
+  offset: 0, 0
+  index: -1
+03/FrontDoor_roof
+  rotate: false
+  xy: 543, 214
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+03/Pot_soup
+  rotate: false
+  xy: 814, 72
+  size: 86, 20
+  orig: 86, 20
+  offset: 0, 0
+  index: -1
+03/Roof
+  rotate: false
+  xy: 2, 320
+  size: 138, 339
+  orig: 138, 339
+  offset: 0, 0
+  index: -1
+03/Roof_under
+  rotate: true
+  xy: 91, 2
+  size: 68, 221
+  orig: 68, 221
+  offset: 0, 0
+  index: -1
+03/Shade
+  rotate: true
+  xy: 645, 149
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+03/Side_post_L
+  rotate: false
+  xy: 2, 49
+  size: 43, 269
+  orig: 43, 269
+  offset: 0, 0
+  index: -1
+03/Side_post_R
+  rotate: false
+  xy: 91, 72
+  size: 42, 246
+  orig: 42, 246
+  offset: 0, 0
+  index: -1
+03/Skull
+  rotate: true
+  xy: 314, 2
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+03/Top_candy
+  rotate: false
+  xy: 438, 2
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+04/Chimney
+  rotate: true
+  xy: 366, 323
+  size: 82, 217
+  orig: 82, 217
+  offset: 0, 0
+  index: -1
+04/FrontDoor_roof_mod
+  rotate: true
+  xy: 308, 79
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+04/Front_candy
+  rotate: true
+  xy: 643, 163
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+04/Pot_ear
+  rotate: false
+  xy: 966, 265
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+04/Roof_mod_01
+  rotate: true
+  xy: 845, 305
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+04/Roof_mod_02
+  rotate: false
+  xy: 449, 68
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+04/Roof_mod_03
+  rotate: true
+  xy: 995, 217
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+04/Roof_mod_04
+  rotate: false
+  xy: 279, 172
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+04/Roof_under_mod
+  rotate: true
+  xy: 498, 2
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+04/Skull
+  rotate: false
+  xy: 814, 94
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+04/Teeth
+  rotate: false
+  xy: 702, 16
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+04/Top_candy
+  rotate: false
+  xy: 894, 94
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+04/Web_01
+  rotate: true
+  xy: 638, 2
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+04/Window_Bone
+  rotate: true
+  xy: 597, 59
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+04/Window_top
+  rotate: false
+  xy: 514, 79
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+05/Candy_stick
+  rotate: true
+  xy: 371, 161
+  size: 28, 139
+  orig: 28, 139
+  offset: 0, 0
+  index: -1
+05/Candy_stick_02
+  rotate: true
+  xy: 702, 183
+  size: 26, 128
+  orig: 26, 128
+  offset: 0, 0
+  index: -1
+05/Chimney
+  rotate: true
+  xy: 142, 317
+  size: 85, 222
+  orig: 85, 222
+  offset: 0, 0
+  index: -1
+05/Floor_candy
+  rotate: true
+  xy: 938, 243
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+05/FrontDoor_glow
+  rotate: false
+  xy: 380, 6
+  size: 56, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+05/FrontDoor_post
+  rotate: true
+  xy: 770, 22
+  size: 26, 78
+  orig: 26, 78
+  offset: 0, 0
+  index: -1
+05/FrontDoor_post_02
+  rotate: true
+  xy: 514, 60
+  size: 17, 63
+  orig: 17, 63
+  offset: 0, 0
+  index: -1
+05/FrontDoor_roof
+  rotate: false
+  xy: 672, 211
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+05/FrontDoor_roof_mod
+  rotate: false
+  xy: 832, 159
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+05/Front_candy
+  rotate: true
+  xy: 942, 221
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+05/Front_door
+  rotate: true
+  xy: 801, 242
+  size: 61, 124
+  orig: 133, 175
+  offset: 52, 51
+  index: -1
+05/Lollipop_stick
+  rotate: false
+  xy: 935, 549
+  size: 19, 65
+  orig: 19, 65
+  offset: 0, 0
+  index: -1
+05/Lollipop_top
+  rotate: false
+  xy: 902, 29
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+05/Pot_soup
+  rotate: false
+  xy: 814, 50
+  size: 86, 20
+  orig: 86, 20
+  offset: 0, 0
+  index: -1
+05/Roof
+  rotate: true
+  xy: 362, 536
+  size: 123, 349
+  orig: 123, 349
+  offset: 0, 0
+  index: -1
+05/Roof_mod_01
+  rotate: true
+  xy: 360, 78
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+05/Roof_mod_02
+  rotate: false
+  xy: 728, 56
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+05/Roof_mod_03
+  rotate: true
+  xy: 995, 202
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+05/Roof_mod_04
+  rotate: true
+  xy: 995, 187
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+05/Roof_under
+  rotate: true
+  xy: 713, 540
+  size: 74, 220
+  orig: 74, 220
+  offset: 0, 0
+  index: -1
+05/Roof_under_mod
+  rotate: true
+  xy: 568, 2
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+05/Side_post_L
+  rotate: false
+  xy: 47, 49
+  size: 42, 269
+  orig: 42, 269
+  offset: 0, 0
+  index: -1
+05/Side_post_R
+  rotate: true
+  xy: 713, 496
+  size: 42, 246
+  orig: 42, 246
+  offset: 0, 0
+  index: -1
+05/Skull_02
+  rotate: false
+  xy: 966, 232
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+05/Window_mod
+  rotate: true
+  xy: 672, 182
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+05/Window_top
+  rotate: false
+  xy: 645, 65
+  size: 81, 82
+  orig: 133, 149
+  offset: 41, 46
+  index: -1
+Body
+  rotate: false
+  xy: 142, 404
+  size: 218, 255
+  orig: 218, 255
+  offset: 0, 0
+  index: -1
+Body_top
+  rotate: false
+  xy: 135, 172
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+Chimney
+  rotate: true
+  xy: 693, 305
+  size: 81, 150
+  orig: 81, 150
+  offset: 0, 0
+  index: -1
+Crack_01
+  rotate: false
+  xy: 966, 167
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+Crack_02
+  rotate: true
+  xy: 984, 621
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+Crack_03
+  rotate: true
+  xy: 850, 22
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Crack_04
+  rotate: false
+  xy: 927, 255
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+Floor_candy
+  rotate: true
+  xy: 954, 101
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Floor_candy_02
+  rotate: false
+  xy: 930, 13
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+FrontDoor_post
+  rotate: true
+  xy: 511, 193
+  size: 19, 131
+  orig: 19, 131
+  offset: 0, 0
+  index: -1
+FrontDoor_roof
+  rotate: true
+  xy: 279, 187
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+Roof
+  rotate: true
+  xy: 362, 407
+  size: 127, 342
+  orig: 127, 342
+  offset: 0, 0
+  index: -1
+Roof_under
+  rotate: true
+  xy: 706, 388
+  size: 62, 222
+  orig: 62, 222
+  offset: 0, 0
+  index: -1
+Side_post_L
+  rotate: true
+  xy: 713, 616
+  size: 43, 269
+  orig: 43, 269
+  offset: 0, 0
+  index: -1
+Side_post_R
+  rotate: true
+  xy: 706, 452
+  size: 42, 246
+  orig: 42, 246
+  offset: 0, 0
+  index: -1
+Top_candy
+  rotate: false
+  xy: 644, 184
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+WindowSide_bottom
+  rotate: true
+  xy: 2, 7
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+Window_top
+  rotate: false
+  xy: 934, 309
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1

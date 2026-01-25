@@ -1,0 +1,307 @@
+
+Robot_Lg_Thumper.png
+size: 1008,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_R
+  rotate: true
+  xy: 917, 239
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+02/Buckle
+  rotate: true
+  xy: 600, 135
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+02/Head
+  rotate: false
+  xy: 360, 9
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+02/Mouth_02
+  rotate: false
+  xy: 800, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+02/Screw
+  rotate: true
+  xy: 916, 79
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+03/Belt_Side_L
+  rotate: false
+  xy: 977, 70
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+04/Belt_Side_L
+  rotate: false
+  xy: 977, 70
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+03/Belt_Side_R
+  rotate: true
+  xy: 800, 93
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+04/Belt_Side_R
+  rotate: true
+  xy: 800, 93
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+03/Buckle
+  rotate: true
+  xy: 639, 135
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: false
+  xy: 470, 19
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+03/Mouth_02
+  rotate: false
+  xy: 834, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+04/Mouth_02
+  rotate: false
+  xy: 834, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+03/Shoulder_L
+  rotate: true
+  xy: 872, 76
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+03/Shoulder_R
+  rotate: true
+  xy: 256, 16
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+04/Buckle
+  rotate: true
+  xy: 734, 137
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+04/Eye_glow
+  rotate: false
+  xy: 181, 2
+  size: 51, 7
+  orig: 51, 7
+  offset: 0, 0
+  index: -1
+04/Hat_01
+  rotate: true
+  xy: 192, 107
+  size: 236, 73
+  orig: 237, 73
+  offset: 1, 0
+  index: -1
+04/Hat_02
+  rotate: true
+  xy: 267, 107
+  size: 236, 73
+  orig: 237, 73
+  offset: 1, 0
+  index: -1
+04/Head
+  rotate: false
+  xy: 580, 19
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+04/Shade
+  rotate: false
+  xy: 800, 146
+  size: 104, 34
+  orig: 104, 34
+  offset: 0, 0
+  index: -1
+05/Shade
+  rotate: false
+  xy: 800, 146
+  size: 104, 34
+  orig: 104, 34
+  offset: 0, 0
+  index: -1
+04/Shoulder_L
+  rotate: false
+  xy: 800, 49
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+04/Shoulder_R
+  rotate: true
+  xy: 308, 16
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: false
+  xy: 2, 8
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+05/Buckle
+  rotate: false
+  xy: 902, 9
+  size: 65, 65
+  orig: 65, 66
+  offset: 0, 1
+  index: -1
+05/Glow
+  rotate: true
+  xy: 969, 3
+  size: 65, 28
+  orig: 122, 86
+  offset: 29, 29
+  index: -1
+05/Hat_01
+  rotate: true
+  xy: 2, 107
+  size: 236, 93
+  orig: 237, 93
+  offset: 1, 0
+  index: -1
+05/Hat_02
+  rotate: true
+  xy: 97, 107
+  size: 236, 93
+  orig: 237, 93
+  offset: 1, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 690, 21
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+05/Mouth_02
+  rotate: false
+  xy: 868, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 917, 131
+  size: 106, 79
+  orig: 106, 79
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: true
+  xy: 404, 126
+  size: 217, 58
+  orig: 217, 58
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 464, 134
+  size: 209, 134
+  orig: 209, 134
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 802, 182
+  size: 51, 107
+  orig: 51, 107
+  offset: 0, 0
+  index: -1
+Body_Inside_01
+  rotate: false
+  xy: 181, 11
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+Body_Inside_02
+  rotate: true
+  xy: 658, 210
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 802, 235
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 342, 124
+  size: 219, 60
+  orig: 219, 60
+  offset: 0, 0
+  index: -1
+Hip_Inside
+  rotate: true
+  xy: 730, 210
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 678, 136
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 135, 10
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+Spring02
+  rotate: true
+  xy: 600, 185
+  size: 158, 56
+  orig: 158, 56
+  offset: 0, 0
+  index: -1

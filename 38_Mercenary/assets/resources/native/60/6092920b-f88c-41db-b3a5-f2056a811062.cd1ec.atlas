@@ -1,0 +1,90 @@
+
+Robot_To_Transformer_Broken.png
+size: 673,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Ring_01
+  rotate: false
+  xy: 636, 49
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+02/Ring_02
+  rotate: false
+  xy: 416, 38
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+03/Spike_01
+  rotate: false
+  xy: 416, 58
+  size: 45, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+04/Door
+  rotate: true
+  xy: 276, 30
+  size: 65, 138
+  orig: 65, 138
+  offset: 0, 0
+  index: -1
+04/Door_02
+  rotate: true
+  xy: 370, 8
+  size: 20, 100
+  orig: 20, 100
+  offset: 0, 0
+  index: -1
+05/Wheel
+  rotate: false
+  xy: 636, 11
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Body_01
+  rotate: false
+  xy: 1, 11
+  size: 124, 84
+  orig: 124, 84
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 127, 30
+  size: 147, 65
+  orig: 147, 65
+  offset: 0, 0
+  index: -1
+Door
+  rotate: true
+  xy: 257, 4
+  size: 24, 111
+  orig: 24, 111
+  offset: 0, 0
+  index: -1
+Door_02
+  rotate: true
+  xy: 127, 4
+  size: 24, 128
+  orig: 24, 128
+  offset: 0, 0
+  index: -1
+Plate
+  rotate: true
+  xy: 472, 1
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+Tread
+  rotate: true
+  xy: 572, 15
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1

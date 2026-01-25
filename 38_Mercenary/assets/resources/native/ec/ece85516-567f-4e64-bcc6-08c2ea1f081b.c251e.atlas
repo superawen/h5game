@@ -1,0 +1,97 @@
+
+Invaders_To_HivePylon_Broken.png
+size: 573,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Base_goo_02
+  rotate: true
+  xy: 375, 9
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+03/Side_egg
+  rotate: false
+  xy: 508, 6
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+04/Goo_01
+  rotate: true
+  xy: 447, 3
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+04/Goo_02
+  rotate: false
+  xy: 414, 14
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+1stFloor_Full
+  rotate: true
+  xy: 1, 4
+  size: 109, 100
+  orig: 109, 100
+  offset: 0, 0
+  index: -1
+Base_Back
+  rotate: true
+  xy: 423, 53
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+Base_goo
+  rotate: false
+  xy: 514, 39
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+Base_side
+  rotate: true
+  xy: 331, 49
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Big_Egg
+  rotate: false
+  xy: 254, 34
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Egg_goo
+  rotate: false
+  xy: 254, 1
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+Egg_trim
+  rotate: true
+  xy: 183, 4
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+Side_Screw
+  rotate: false
+  xy: 103, 13
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+Window
+  rotate: false
+  xy: 321, 12
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1

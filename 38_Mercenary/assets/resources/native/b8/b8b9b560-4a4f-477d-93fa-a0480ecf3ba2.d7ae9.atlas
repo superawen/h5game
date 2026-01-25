@@ -1,0 +1,713 @@
+
+Invaders_Md_Newt.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Body
+  rotate: false
+  xy: 333, 460
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+02/Body_02
+  rotate: true
+  xy: 38, 149
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+02/Feet_R
+  rotate: false
+  xy: 69, 89
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+02/Flip
+  rotate: true
+  xy: 87, 338
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+Flip
+  rotate: true
+  xy: 87, 338
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+02/Glasses
+  rotate: true
+  xy: 152, 129
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+02/Hip
+  rotate: true
+  xy: 1, 80
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+02/Mouth_02
+  rotate: true
+  xy: 116, 218
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+02/Robot_arm_02
+  rotate: false
+  xy: 83, 235
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+02/Robot_arm_04
+  rotate: false
+  xy: 407, 420
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+02/Robot_battery
+  rotate: true
+  xy: 155, 167
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+Robot_battery
+  rotate: true
+  xy: 155, 167
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+03/Arm_01
+  rotate: false
+  xy: 61, 349
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+03/Arm_02
+  rotate: true
+  xy: 153, 106
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+03/Back_pack
+  rotate: false
+  xy: 139, 377
+  size: 41, 47
+  orig: 92, 95
+  offset: 24, 27
+  index: -1
+03/Body
+  rotate: false
+  xy: 207, 460
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+03/Body_02
+  rotate: true
+  xy: 61, 370
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+03/Crystal_glow
+  rotate: true
+  xy: 94, 1
+  size: 26, 33
+  orig: 86, 95
+  offset: 30, 30
+  index: -1
+03/Crystal_top
+  rotate: true
+  xy: 225, 127
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+03/Feet_R
+  rotate: false
+  xy: 119, 107
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+03/Flip
+  rotate: true
+  xy: 196, 424
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+03/Flip_Side
+  rotate: false
+  xy: 230, 330
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+03/Glasses
+  rotate: false
+  xy: 129, 213
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: false
+  xy: 1, 348
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: true
+  xy: 263, 185
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+03/Lower_leg_R
+  rotate: true
+  xy: 141, 338
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+03/Mouth
+  rotate: false
+  xy: 259, 122
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+03/Robot_arm_01
+  rotate: true
+  xy: 53, 29
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+03/Robot_arm_02
+  rotate: false
+  xy: 128, 237
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+03/Robot_arm_03
+  rotate: false
+  xy: 182, 337
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+03/Robot_arm_04
+  rotate: false
+  xy: 173, 254
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+03/Robot_arm_handle
+  rotate: false
+  xy: 216, 96
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+03/Robot_battery
+  rotate: false
+  xy: 180, 156
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+03/Robot_figher_glow
+  rotate: true
+  xy: 289, 257
+  size: 31, 22
+  orig: 90, 83
+  offset: 30, 31
+  index: -1
+03/Robot_finger_01
+  rotate: false
+  xy: 220, 220
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+03/Robot_finger_02
+  rotate: false
+  xy: 313, 112
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+03/Robot_gun
+  rotate: false
+  xy: 226, 154
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+03/Shoe
+  rotate: true
+  xy: 259, 147
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+03/Upper_leg_R
+  rotate: false
+  xy: 258, 220
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+04/Body
+  rotate: false
+  xy: 270, 460
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+04/Body_02
+  rotate: true
+  xy: 52, 286
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+04/Feet_R
+  rotate: false
+  xy: 1, 2
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+04/Flip
+  rotate: true
+  xy: 250, 426
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+04/Flip_Side
+  rotate: true
+  xy: 455, 474
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+04/Flip_Side_02
+  rotate: true
+  xy: 141, 426
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+04/Glasses
+  rotate: true
+  xy: 119, 128
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+04/Hip_back
+  rotate: false
+  xy: 1, 19
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+04/Mouth
+  rotate: false
+  xy: 265, 315
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+04/Robot_arm_01
+  rotate: true
+  xy: 87, 374
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+04/Robot_arm_02
+  rotate: false
+  xy: 78, 286
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+04/Robot_arm_04
+  rotate: false
+  xy: 263, 383
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+04/Robot_finger_01
+  rotate: false
+  xy: 355, 385
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+04/Shoe
+  rotate: false
+  xy: 217, 254
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+05/Arm_01
+  rotate: false
+  xy: 465, 380
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+05/Arm_02
+  rotate: false
+  xy: 290, 120
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+05/Back_pack
+  rotate: true
+  xy: 358, 417
+  size: 41, 47
+  orig: 92, 95
+  offset: 24, 27
+  index: -1
+05/Body
+  rotate: false
+  xy: 70, 460
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+05/Body_02
+  rotate: false
+  xy: 70, 434
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+05/Crystal_glow
+  rotate: true
+  xy: 219, 297
+  size: 31, 43
+  orig: 90, 102
+  offset: 29, 29
+  index: -1
+05/Crystal_top
+  rotate: true
+  xy: 53, 1
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+05/Flip
+  rotate: true
+  xy: 304, 426
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+05/Flip_Side
+  rotate: false
+  xy: 1, 210
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+05/Flip_Side_02
+  rotate: false
+  xy: 1, 141
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+05/Glasses
+  rotate: false
+  xy: 219, 187
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 1, 432
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+05/Lower_leg_R
+  rotate: false
+  xy: 116, 172
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+05/Lower_leg_armor
+  rotate: false
+  xy: 265, 340
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+05/Mouth
+  rotate: false
+  xy: 264, 290
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+05/Robot_arm_01
+  rotate: false
+  xy: 141, 461
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+05/Robot_arm_02
+  rotate: false
+  xy: 69, 110
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+05/Robot_arm_03
+  rotate: true
+  xy: 225, 376
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+05/Robot_arm_04
+  rotate: false
+  xy: 64, 165
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+05/Robot_arm_handle
+  rotate: false
+  xy: 247, 91
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+05/Robot_battery
+  rotate: false
+  xy: 179, 131
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+05/Robot_figher_glow
+  rotate: false
+  xy: 309, 89
+  size: 27, 21
+  orig: 89, 83
+  offset: 31, 31
+  index: -1
+05/Robot_finger_01
+  rotate: false
+  xy: 173, 222
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+05/Robot_finger_02
+  rotate: true
+  xy: 445, 392
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+05/Robot_gun
+  rotate: false
+  xy: 256, 257
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+05/Upper_leg_R
+  rotate: false
+  xy: 281, 220
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Arm_01
+  rotate: false
+  xy: 489, 380
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Arm_02
+  rotate: false
+  xy: 311, 162
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Back_pack
+  rotate: false
+  xy: 182, 375
+  size: 41, 47
+  orig: 92, 95
+  offset: 24, 27
+  index: -1
+Body
+  rotate: false
+  xy: 394, 460
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+Body_02
+  rotate: true
+  xy: 43, 88
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+Crystal_glow
+  rotate: false
+  xy: 311, 192
+  size: 18, 30
+  orig: 80, 94
+  offset: 31, 32
+  index: -1
+Crystal_top
+  rotate: false
+  xy: 304, 224
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+Feet_R
+  rotate: true
+  xy: 402, 388
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1, 280
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 45, 221
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+Lower_leg_R
+  rotate: false
+  xy: 180, 181
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 313, 132
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Robot_arm_01
+  rotate: false
+  xy: 455, 421
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Robot_arm_02
+  rotate: false
+  xy: 126, 287
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Robot_arm_03
+  rotate: false
+  xy: 307, 388
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Robot_arm_04
+  rotate: false
+  xy: 171, 297
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Robot_arm_handle
+  rotate: false
+  xy: 278, 89
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Robot_figher_glow
+  rotate: true
+  xy: 286, 150
+  size: 31, 23
+  orig: 90, 82
+  offset: 30, 30
+  index: -1
+Robot_finger_01
+  rotate: false
+  xy: 419, 395
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Robot_finger_02
+  rotate: false
+  xy: 465, 401
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Robot_gun
+  rotate: false
+  xy: 183, 99
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Upper_leg_R
+  rotate: false
+  xy: 288, 183
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1

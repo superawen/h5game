@@ -1,0 +1,552 @@
+
+Undead_To_Crypt.png
+size: 1009,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Door_front
+  rotate: true
+  xy: 559, 279
+  size: 114, 192
+  orig: 114, 192
+  offset: 0, 0
+  index: -1
+Door_front
+  rotate: true
+  xy: 559, 279
+  size: 114, 192
+  orig: 114, 192
+  offset: 0, 0
+  index: -1
+02/Roof
+  rotate: false
+  xy: 559, 395
+  size: 276, 172
+  orig: 276, 172
+  offset: 0, 0
+  index: -1
+Roof
+  rotate: false
+  xy: 559, 395
+  size: 276, 172
+  orig: 276, 172
+  offset: 0, 0
+  index: -1
+02/Shadow_bottom
+  rotate: true
+  xy: 954, 225
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+03/Shadow_bottom
+  rotate: true
+  xy: 954, 225
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+04/Shadow_bottom
+  rotate: true
+  xy: 954, 225
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+05/Shadow_bottom
+  rotate: true
+  xy: 954, 225
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+Shadow_bottom
+  rotate: true
+  xy: 954, 225
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+02/Shadow_top
+  rotate: false
+  xy: 2, 7
+  size: 150, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+03/Shadow_top
+  rotate: false
+  xy: 2, 7
+  size: 150, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+04/Shadow_top
+  rotate: false
+  xy: 2, 7
+  size: 150, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+05/Shadow_top
+  rotate: false
+  xy: 2, 7
+  size: 150, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+Shadow_top
+  rotate: false
+  xy: 2, 7
+  size: 150, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+02/Shed
+  rotate: false
+  xy: 753, 247
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+02/Skull_frontdoor_01
+  rotate: true
+  xy: 876, 9
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+02/Skull_frontdoor_02
+  rotate: true
+  xy: 965, 24
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+02/Window_front
+  rotate: true
+  xy: 837, 240
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+Window_front
+  rotate: true
+  xy: 837, 240
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+02/Window_front_wood
+  rotate: false
+  xy: 825, 112
+  size: 84, 32
+  orig: 84, 32
+  offset: 0, 0
+  index: -1
+02/Window_roof
+  rotate: false
+  xy: 686, 39
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+Window_roof
+  rotate: false
+  xy: 686, 39
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+02/Window_side_02
+  rotate: true
+  xy: 824, 55
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+Window_side_02
+  rotate: true
+  xy: 824, 55
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+02/Window_side_03
+  rotate: true
+  xy: 256, 29
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Window_side_03
+  rotate: true
+  xy: 256, 29
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+02/Window_side_04
+  rotate: true
+  xy: 948, 111
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+03/Beam_middle
+  rotate: false
+  xy: 281, 173
+  size: 250, 44
+  orig: 250, 44
+  offset: 0, 0
+  index: -1
+04/Beam_middle
+  rotate: false
+  xy: 281, 173
+  size: 250, 44
+  orig: 250, 44
+  offset: 0, 0
+  index: -1
+03/Door_front
+  rotate: false
+  xy: 837, 375
+  size: 114, 192
+  orig: 114, 192
+  offset: 0, 0
+  index: -1
+04/Door_front
+  rotate: false
+  xy: 837, 375
+  size: 114, 192
+  orig: 114, 192
+  offset: 0, 0
+  index: -1
+03/Roof
+  rotate: false
+  xy: 281, 394
+  size: 276, 173
+  orig: 276, 173
+  offset: 0, 0
+  index: -1
+04/Roof
+  rotate: false
+  xy: 281, 394
+  size: 276, 173
+  orig: 276, 173
+  offset: 0, 0
+  index: -1
+03/Shed
+  rotate: true
+  xy: 559, 195
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+03/Tombstone_L
+  rotate: false
+  xy: 954, 367
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+04/Tombstone_L
+  rotate: false
+  xy: 954, 367
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+05/Tombstone_L
+  rotate: false
+  xy: 954, 367
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+03/Window_front
+  rotate: false
+  xy: 278, 10
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+04/Window_front
+  rotate: false
+  xy: 278, 10
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+03/Window_roof
+  rotate: false
+  xy: 198, 60
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+04/Window_roof
+  rotate: false
+  xy: 198, 60
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+05/Window_roof
+  rotate: false
+  xy: 198, 60
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+03/Window_side_02
+  rotate: false
+  xy: 979, 279
+  size: 27, 86
+  orig: 27, 86
+  offset: 0, 0
+  index: -1
+04/Window_side_02
+  rotate: false
+  xy: 979, 279
+  size: 27, 86
+  orig: 27, 86
+  offset: 0, 0
+  index: -1
+03/Window_side_03
+  rotate: false
+  xy: 601, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+04/Window_side_03
+  rotate: false
+  xy: 601, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+05/Window_side_03
+  rotate: false
+  xy: 601, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+03/Window_side_04
+  rotate: true
+  xy: 912, 66
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+04/Window_side_04
+  rotate: true
+  xy: 912, 66
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+04/Skull_frontdoor_01
+  rotate: true
+  xy: 748, 53
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+05/Skull_frontdoor_01
+  rotate: true
+  xy: 748, 53
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+04/Skull_frontdoor_02
+  rotate: false
+  xy: 953, 499
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+05/Skull_frontdoor_02
+  rotate: false
+  xy: 953, 499
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+04/Skull_frontdoor_03
+  rotate: false
+  xy: 517, 26
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+05/Skull_frontdoor_03
+  rotate: false
+  xy: 517, 26
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+04/Skull_frontdoor_top_01
+  rotate: false
+  xy: 198, 2
+  size: 56, 56
+  orig: 83, 67
+  offset: 5, 1
+  index: -1
+05/Skull_frontdoor_top_01
+  rotate: false
+  xy: 198, 2
+  size: 56, 56
+  orig: 83, 67
+  offset: 5, 1
+  index: -1
+04/Skull_frontdoor_top_02
+  rotate: true
+  xy: 824, 2
+  size: 51, 50
+  orig: 80, 66
+  offset: 7, 4
+  index: -1
+05/Skull_frontdoor_top_02
+  rotate: true
+  xy: 824, 2
+  size: 51, 50
+  orig: 80, 66
+  offset: 7, 4
+  index: -1
+04/Tombstone_R_01
+  rotate: false
+  xy: 948, 155
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+05/Beam_middle
+  rotate: false
+  xy: 281, 127
+  size: 250, 44
+  orig: 250, 44
+  offset: 0, 0
+  index: -1
+05/Door_front
+  rotate: true
+  xy: 2, 39
+  size: 114, 194
+  orig: 154, 242
+  offset: 37, 48
+  index: -1
+05/Ghost_R
+  rotate: false
+  xy: 413, 11
+  size: 102, 114
+  orig: 102, 133
+  offset: 0, 0
+  index: -1
+05/Roof
+  rotate: false
+  xy: 281, 219
+  size: 276, 173
+  orig: 276, 173
+  offset: 0, 0
+  index: -1
+05/Roof_spike
+  rotate: true
+  xy: 748, 40
+  size: 11, 66
+  orig: 11, 66
+  offset: 0, 0
+  index: -1
+05/Roof_top
+  rotate: true
+  xy: 900, 147
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1
+05/Shed
+  rotate: true
+  xy: 533, 111
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+05/Skull_roof_L
+  rotate: true
+  xy: 753, 5
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+05/Skull_roof_R
+  rotate: false
+  xy: 953, 436
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+05/Tombstone_R_02
+  rotate: false
+  xy: 609, 25
+  size: 75, 84
+  orig: 75, 84
+  offset: 0, 0
+  index: -1
+05/Tower_Glow
+  rotate: false
+  xy: 825, 146
+  size: 73, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+05/Window_front
+  rotate: true
+  xy: 707, 112
+  size: 133, 116
+  orig: 133, 168
+  offset: 0, 52
+  index: -1
+05/Window_side_01
+  rotate: true
+  xy: 517, 3
+  size: 21, 82
+  orig: 21, 82
+  offset: 0, 0
+  index: -1
+05/Window_side_02
+  rotate: true
+  xy: 824, 83
+  size: 27, 86
+  orig: 27, 86
+  offset: 0, 0
+  index: -1
+05/Window_side_04
+  rotate: false
+  xy: 920, 7
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+Tower_body
+  rotate: false
+  xy: 2, 155
+  size: 277, 412
+  orig: 277, 412
+  offset: 0, 0
+  index: -1
+Window_front_wood
+  rotate: true
+  xy: 681, 123
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+Window_side_01
+  rotate: true
+  xy: 686, 3
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1

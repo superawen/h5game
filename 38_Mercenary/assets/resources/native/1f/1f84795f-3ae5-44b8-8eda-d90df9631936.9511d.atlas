@@ -1,0 +1,300 @@
+
+Undead_Sm_Bat.png
+size: 895,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_R
+  rotate: false
+  xy: 144, 1
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+02/Eyebrow_R
+  rotate: true
+  xy: 80, 46
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Eyebrow_R
+  rotate: true
+  xy: 80, 46
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+02/Face
+  rotate: true
+  xy: 810, 2
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+02/Leg
+  rotate: true
+  xy: 820, 59
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+02/Tongue
+  rotate: false
+  xy: 815, 38
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 815, 38
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+02/Wing_R
+  rotate: true
+  xy: 539, 81
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+03/Arm_R
+  rotate: false
+  xy: 103, 1
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+04/Arm_R
+  rotate: false
+  xy: 103, 1
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+03/Butt
+  rotate: false
+  xy: 711, 101
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+03/Face
+  rotate: false
+  xy: 613, 84
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+03/Jaw
+  rotate: false
+  xy: 860, 94
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+03/Leg
+  rotate: true
+  xy: 852, 59
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+03/Neck
+  rotate: false
+  xy: 276, 3
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+03/Tongue
+  rotate: false
+  xy: 843, 38
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+03/Wing_L
+  rotate: false
+  xy: 236, 70
+  size: 51, 101
+  orig: 52, 101
+  offset: 1, 0
+  index: -1
+03/Wing_R
+  rotate: true
+  xy: 639, 1
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+04/Butt
+  rotate: false
+  xy: 502, 1
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+04/Face
+  rotate: true
+  xy: 180, 2
+  size: 66, 94
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+04/Jaw
+  rotate: true
+  xy: 774, 59
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+04/Leg
+  rotate: false
+  xy: 713, 1
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+04/Neck
+  rotate: false
+  xy: 337, 1
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+04/Wing_L
+  rotate: false
+  xy: 171, 70
+  size: 63, 101
+  orig: 64, 101
+  offset: 1, 0
+  index: -1
+04/Wing_R
+  rotate: true
+  xy: 465, 76
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: false
+  xy: 757, 110
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+05/Butt
+  rotate: false
+  xy: 1, 1
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+05/Face
+  rotate: false
+  xy: 1, 45
+  size: 77, 126
+  orig: 93, 126
+  offset: 11, 0
+  index: -1
+05/Neck
+  rotate: false
+  xy: 553, 5
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+05/Wing_L
+  rotate: false
+  xy: 289, 71
+  size: 78, 100
+  orig: 79, 101
+  offset: 1, 0
+  index: -1
+05/Wing_R
+  rotate: true
+  xy: 80, 61
+  size: 110, 89
+  orig: 110, 89
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 755, 2
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+Back_Ear
+  rotate: true
+  xy: 774, 38
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Butt
+  rotate: false
+  xy: 664, 101
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 860, 130
+  size: 34, 41
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+Front_Ear
+  rotate: false
+  xy: 820, 139
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 860, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 809, 110
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 713, 34
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+Ribs
+  rotate: false
+  xy: 57, 1
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: true
+  xy: 369, 74
+  size: 97, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+Wing_R
+  rotate: false
+  xy: 409, 1
+  size: 91, 71
+  orig: 93, 73
+  offset: 1, 1
+  index: -1

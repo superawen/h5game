@@ -1,0 +1,111 @@
+
+Jade_To_Pagoda_Broken.png
+size: 645,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Animal_01
+  rotate: false
+  xy: 609, 34
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+03/Animal_01
+  rotate: true
+  xy: 566, 2
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+04/Animal_01
+  rotate: true
+  xy: 605, 2
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+04/Main_building
+  rotate: false
+  xy: 1, 17
+  size: 158, 54
+  orig: 158, 54
+  offset: 0, 0
+  index: -1
+05/Animal_01
+  rotate: false
+  xy: 398, 3
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+Animal_01
+  rotate: false
+  xy: 524, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Back_building
+  rotate: false
+  xy: 463, 9
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+Front_door_01
+  rotate: true
+  xy: 54, 7
+  size: 8, 53
+  orig: 8, 53
+  offset: 0, 0
+  index: -1
+Main_building
+  rotate: false
+  xy: 161, 17
+  size: 158, 54
+  orig: 158, 54
+  offset: 0, 0
+  index: -1
+Wood_01
+  rotate: true
+  xy: 398, 42
+  size: 29, 95
+  orig: 29, 96
+  offset: 0, 1
+  index: -1
+Wood_02
+  rotate: true
+  xy: 553, 47
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+Wood_03
+  rotate: true
+  xy: 1, 2
+  size: 13, 51
+  orig: 13, 51
+  offset: 0, 0
+  index: -1
+house_01
+  rotate: false
+  xy: 321, 12
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+house_02
+  rotate: true
+  xy: 495, 43
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+part_01
+  rotate: true
+  xy: 109, 5
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1

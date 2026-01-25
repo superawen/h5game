@@ -1,0 +1,76 @@
+
+Undead_To_Crypt_Broken.png
+size: 297,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Skull_frontdoor_02
+  rotate: false
+  xy: 272, 4
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+03/Tombstone_L
+  rotate: true
+  xy: 116, 14
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 244, 1
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Building_01
+  rotate: true
+  xy: 26, 8
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Building_02
+  rotate: false
+  xy: 1, 4
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+Door_trim
+  rotate: true
+  xy: 116, 3
+  size: 9, 82
+  orig: 9, 82
+  offset: 0, 0
+  index: -1
+SKull
+  rotate: true
+  xy: 154, 17
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+Window_front
+  rotate: false
+  xy: 176, 18
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+Window_front_wood
+  rotate: false
+  xy: 244, 30
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Window_side_01
+  rotate: false
+  xy: 200, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1

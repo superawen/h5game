@@ -1,0 +1,104 @@
+
+Undead_To_Bone_Broken.png
+size: 361,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Skull
+  rotate: false
+  xy: 84, 34
+  size: 110, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+02/Spike_01
+  rotate: false
+  xy: 331, 17
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+02/Spike_02
+  rotate: false
+  xy: 337, 99
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+03/Body_Spine
+  rotate: true
+  xy: 84, 1
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+04/Chain_L
+  rotate: false
+  xy: 142, 4
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+04/Crown_mod
+  rotate: false
+  xy: 287, 5
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+04/Skull_top
+  rotate: true
+  xy: 239, 53
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+05/Skull_Mod_R
+  rotate: false
+  xy: 278, 53
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Back
+  rotate: true
+  xy: 312, 53
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 239, 94
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: false
+  xy: 290, 108
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: false
+  xy: 196, 1
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Jaw_01
+  rotate: false
+  xy: 1, 2
+  size: 81, 150
+  orig: 81, 150
+  offset: 0, 0
+  index: -1
+Jaw_02
+  rotate: false
+  xy: 196, 53
+  size: 41, 99
+  orig: 41, 99
+  offset: 0, 0
+  index: -1

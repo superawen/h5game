@@ -1,0 +1,377 @@
+
+Robot_Md_BFG.png
+size: 866,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_Lower_R
+  rotate: true
+  xy: 639, 63
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+02/Cannon_Behind
+  rotate: true
+  xy: 676, 115
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+02/Cannon_Middle
+  rotate: false
+  xy: 478, 99
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+Cannon_Middle
+  rotate: false
+  xy: 478, 99
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+02/Leg_Lower_R
+  rotate: false
+  xy: 439, 9
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+02/Torso_plate
+  rotate: false
+  xy: 85, 2
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_R
+  rotate: true
+  xy: 639, 27
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+03/Cannon_Middle
+  rotate: false
+  xy: 577, 99
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+03/Head_Eye_2
+  rotate: true
+  xy: 439, 2
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+03/Helmet
+  rotate: true
+  xy: 733, 36
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+03/Leg_Lower_R
+  rotate: false
+  xy: 475, 21
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+03/Shoulder_R
+  rotate: false
+  xy: 182, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+04/Arm_Lower_R
+  rotate: false
+  xy: 807, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+04/Fin_01
+  rotate: true
+  xy: 151, 2
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+04/Fin_02
+  rotate: true
+  xy: 361, 16
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+04/Head
+  rotate: false
+  xy: 791, 39
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+04/Head_Eye_2
+  rotate: true
+  xy: 455, 2
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+04/Jaw
+  rotate: false
+  xy: 2, 2
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+04/Leg_Lower_R
+  rotate: true
+  xy: 253, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+04/Torso
+  rotate: false
+  xy: 180, 67
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+04/Torso_Tube_L
+  rotate: false
+  xy: 409, 2
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+04/Torso_Tube_R
+  rotate: false
+  xy: 313, 19
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+05/Arm_Lower_R
+  rotate: true
+  xy: 733, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+05/Cannon
+  rotate: false
+  xy: 85, 58
+  size: 93, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+05/Cannon_Behind
+  rotate: false
+  xy: 2, 30
+  size: 81, 140
+  orig: 81, 140
+  offset: 0, 0
+  index: -1
+05/Head_Eye_2
+  rotate: true
+  xy: 509, 2
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+05/Head_Tube
+  rotate: true
+  xy: 511, 21
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+05/Helmet
+  rotate: true
+  xy: 766, 36
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+05/Leg_Lower_R
+  rotate: true
+  xy: 281, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+05/Torso
+  rotate: false
+  xy: 379, 68
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+05/Torso_Tube_L
+  rotate: false
+  xy: 222, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+05/Torso_Tube_R
+  rotate: false
+  xy: 791, 75
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Arm_Hand_Finger_1_R
+  rotate: false
+  xy: 853, 138
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Arm_Hand_Finger_2_R
+  rotate: false
+  xy: 509, 9
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Arm_Hand_Finger_3_R
+  rotate: false
+  xy: 853, 125
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Arm_Hand_R
+  rotate: false
+  xy: 309, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Arm_Lower_R
+  rotate: true
+  xy: 770, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Arm_Upper_R
+  rotate: false
+  xy: 387, 2
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Cannon
+  rotate: true
+  xy: 478, 49
+  size: 48, 111
+  orig: 48, 111
+  offset: 0, 0
+  index: -1
+Cannon_Behind
+  rotate: false
+  xy: 676, 2
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 261, 36
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Head_Behind
+  rotate: false
+  xy: 475, 2
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+Head_Eyes
+  rotate: true
+  xy: 839, 108
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 182, 37
+  size: 77, 28
+  orig: 77, 28
+  offset: 0, 0
+  index: -1
+Helmet_Antennae
+  rotate: false
+  xy: 66, 2
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+Helmet_Behind
+  rotate: false
+  xy: 789, 151
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+Hips
+  rotate: false
+  xy: 387, 40
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 789, 124
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+Leg_Lower_R
+  rotate: false
+  xy: 547, 21
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Leg_Upper_R
+  rotate: false
+  xy: 639, 4
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Shoulder_R
+  rotate: false
+  xy: 435, 37
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 280, 67
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+Torso_Behind
+  rotate: false
+  xy: 591, 2
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1

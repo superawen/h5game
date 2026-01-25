@@ -1,0 +1,48 @@
+
+V_Fire_Char_Sparks_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Char_Sparks_01_0001
+  rotate: false
+  xy: 1, 1
+  size: 45, 47
+  orig: 400, 300
+  offset: 341, 68
+  index: -1
+V_Fire_Char_Sparks_01_0002
+  rotate: false
+  xy: 361, 97
+  size: 153, 173
+  orig: 400, 300
+  offset: 236, 71
+  index: -1
+V_Fire_Char_Sparks_01_0003
+  rotate: false
+  xy: 730, 277
+  size: 275, 229
+  orig: 400, 300
+  offset: 114, 71
+  index: -1
+V_Fire_Char_Sparks_01_0004
+  rotate: false
+  xy: 1, 51
+  size: 357, 230
+  orig: 400, 300
+  offset: 33, 55
+  index: -1
+V_Fire_Char_Sparks_01_0005
+  rotate: false
+  xy: 375, 273
+  size: 352, 233
+  orig: 400, 300
+  offset: 25, 14
+  index: -1
+V_Fire_Char_Sparks_01_0006
+  rotate: false
+  xy: 1, 284
+  size: 371, 222
+  orig: 400, 300
+  offset: 4, 2
+  index: -1

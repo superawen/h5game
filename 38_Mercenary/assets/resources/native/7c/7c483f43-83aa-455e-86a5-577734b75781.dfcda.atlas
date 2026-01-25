@@ -1,0 +1,104 @@
+
+V_Energy_Char_ChargeUp_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Energy_Char_ChargeUp_01_0001
+  rotate: false
+  xy: 223, 429
+  size: 212, 281
+  orig: 233, 313
+  offset: 6, 10
+  index: -1
+V_Energy_Char_ChargeUp_01_0002
+  rotate: false
+  xy: 663, 735
+  size: 213, 284
+  orig: 233, 313
+  offset: 6, 9
+  index: -1
+V_Energy_Char_ChargeUp_01_0003
+  rotate: false
+  xy: 1, 105
+  size: 216, 300
+  orig: 233, 313
+  offset: 5, 6
+  index: -1
+V_Energy_Char_ChargeUp_01_0004
+  rotate: false
+  xy: 227, 716
+  size: 217, 303
+  orig: 233, 313
+  offset: 5, 5
+  index: -1
+V_Energy_Char_ChargeUp_01_0005
+  rotate: false
+  xy: 1, 408
+  size: 219, 302
+  orig: 233, 313
+  offset: 6, 7
+  index: -1
+V_Energy_Char_ChargeUp_01_0006
+  rotate: false
+  xy: 1, 713
+  size: 223, 306
+  orig: 233, 313
+  offset: 4, 6
+  index: -1
+V_Energy_Char_ChargeUp_01_0007
+  rotate: false
+  xy: 447, 725
+  size: 213, 294
+  orig: 233, 313
+  offset: 5, 12
+  index: -1
+V_Energy_Char_ChargeUp_01_0008
+  rotate: false
+  xy: 438, 434
+  size: 209, 279
+  orig: 233, 313
+  offset: 5, 20
+  index: -1
+V_Energy_Char_ChargeUp_01_0009
+  rotate: false
+  xy: 650, 492
+  size: 182, 230
+  orig: 233, 313
+  offset: 6, 51
+  index: -1
+V_Energy_Char_ChargeUp_01_0010
+  rotate: false
+  xy: 879, 821
+  size: 140, 198
+  orig: 233, 313
+  offset: 5, 69
+  index: -1
+V_Energy_Char_ChargeUp_01_0011
+  rotate: true
+  xy: 879, 703
+  size: 115, 140
+  orig: 233, 313
+  offset: 3, 97
+  index: -1
+V_Energy_Char_ChargeUp_01_0012
+  rotate: false
+  xy: 1, 32
+  size: 68, 70
+  orig: 233, 313
+  offset: 2, 116
+  index: -1
+V_Energy_Char_ChargeUp_01_0013
+  rotate: true
+  xy: 650, 449
+  size: 40, 56
+  orig: 233, 313
+  offset: 5, 124
+  index: -1
+V_Energy_Char_ChargeUp_01_0014
+  rotate: true
+  xy: 1, 1
+  size: 28, 46
+  orig: 233, 313
+  offset: 6, 128
+  index: -1

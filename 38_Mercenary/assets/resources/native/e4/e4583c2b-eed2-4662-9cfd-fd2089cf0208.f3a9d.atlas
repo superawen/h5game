@@ -1,0 +1,447 @@
+
+Undead_Lg_TombstoneThrower.png
+size: 866,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/Body
+  rotate: false
+  xy: 1, 34
+  size: 203, 169
+  orig: 203, 169
+  offset: 0, 0
+  index: -1
+01/Finger_Right
+  rotate: true
+  xy: 738, 23
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+01/Fingers_Left
+  rotate: true
+  xy: 620, 195
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+01/Foot
+  rotate: true
+  xy: 698, 99
+  size: 63, 30
+  orig: 64, 31
+  offset: 0, 1
+  index: -1
+01/ForeArm
+  rotate: true
+  xy: 621, 230
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+01/ForeArm_Left
+  rotate: false
+  xy: 677, 231
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+01/Hand_Left
+  rotate: true
+  xy: 804, 286
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+01/Hand_Right
+  rotate: false
+  xy: 653, 78
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+01/Head
+  rotate: false
+  xy: 431, 8
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+01/Hips
+  rotate: true
+  xy: 492, 203
+  size: 87, 39
+  orig: 88, 39
+  offset: 1, 0
+  index: -1
+01/Jaw
+  rotate: false
+  xy: 605, 48
+  size: 84, 28
+  orig: 84, 28
+  offset: 0, 0
+  index: -1
+01/JawLeft
+  rotate: false
+  xy: 730, 107
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+01/JawRight
+  rotate: false
+  xy: 772, 166
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+01/Jaw_Teeth
+  rotate: false
+  xy: 206, 5
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+01/Leg_Down
+  rotate: false
+  xy: 579, 4
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+01/Leg_Up
+  rotate: false
+  xy: 698, 62
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+01/Mouth_Inside
+  rotate: false
+  xy: 604, 147
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+01/Neck
+  rotate: false
+  xy: 209, 115
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+01/Shoulder_Right
+  rotate: true
+  xy: 206, 23
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+01/Stomach
+  rotate: true
+  xy: 440, 83
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+01/Teeth
+  rotate: true
+  xy: 739, 53
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+01/Thumb
+  rotate: false
+  xy: 269, 2
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+01/Tombstone_1
+  rotate: false
+  xy: 659, 301
+  size: 143, 218
+  orig: 143, 219
+  offset: 0, 1
+  index: -1
+01/Torso_Sticker
+  rotate: true
+  xy: 804, 341
+  size: 87, 56
+  orig: 87, 56
+  offset: 0, 0
+  index: -1
+01/arm
+  rotate: false
+  xy: 758, 111
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+01/sleeve_right
+  rotate: true
+  xy: 331, 85
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+02/Back_Sticker
+  rotate: true
+  xy: 764, 57
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+02/Bracelet
+  rotate: false
+  xy: 605, 78
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+02/Foot
+  rotate: true
+  xy: 551, 1
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+02/Leg_Down_Pants
+  rotate: false
+  xy: 68, 1
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+02/Leg_Down_Right
+  rotate: true
+  xy: 509, 1
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+02/Sleeve_Back
+  rotate: false
+  xy: 641, 8
+  size: 50, 38
+  orig: 51, 39
+  offset: 0, 1
+  index: -1
+02/Sleeve_right
+  rotate: true
+  xy: 804, 430
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+02/Tombstone_2
+  rotate: false
+  xy: 513, 300
+  size: 144, 219
+  orig: 144, 219
+  offset: 0, 0
+  index: -1
+02/Torso_Sticker
+  rotate: false
+  xy: 533, 242
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+03/Arm_Sticker
+  rotate: true
+  xy: 117, 1
+  size: 31, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+03/Back_Sticker
+  rotate: false
+  xy: 533, 198
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+03/Eye
+  rotate: false
+  xy: 165, 1
+  size: 8, 8
+  orig: 9, 8
+  offset: 1, 0
+  index: -1
+03/Jaw
+  rotate: false
+  xy: 687, 199
+  size: 83, 30
+  orig: 83, 30
+  offset: 0, 0
+  index: -1
+03/JawLeft
+  rotate: true
+  xy: 795, 100
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+03/JawRight
+  rotate: true
+  xy: 1, 1
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+03/Tombstone_3
+  rotate: false
+  xy: 362, 292
+  size: 149, 227
+  orig: 150, 227
+  offset: 0, 0
+  index: -1
+03/Torso_Sticker
+  rotate: false
+  xy: 518, 142
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+04/Back_Sticker
+  rotate: false
+  xy: 518, 98
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+04/Bracelet
+  rotate: false
+  xy: 743, 231
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+04/Eye
+  rotate: false
+  xy: 315, 102
+  size: 11, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+04/Fingers_Left
+  rotate: true
+  xy: 687, 164
+  size: 33, 65
+  orig: 34, 65
+  offset: 1, 0
+  index: -1
+04/Foot
+  rotate: false
+  xy: 795, 75
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+04/ForeArm_Left
+  rotate: false
+  xy: 801, 218
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+04/Hand_Left
+  rotate: true
+  xy: 801, 164
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+04/Head
+  rotate: false
+  xy: 315, 1
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+04/Leg_Down_Right
+  rotate: false
+  xy: 693, 21
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+04/ShirtHole
+  rotate: false
+  xy: 492, 192
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+04/ShoulderPad
+  rotate: true
+  xy: 362, 186
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+04/Tombstone_4
+  rotate: false
+  xy: 209, 229
+  size: 151, 290
+  orig: 151, 290
+  offset: 0, 0
+  index: -1
+04/Torso_Sticker
+  rotate: true
+  xy: 375, 6
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+05/Back_Sticker
+  rotate: false
+  xy: 518, 54
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+05/Bracelet_Spike
+  rotate: false
+  xy: 693, 2
+  size: 21, 17
+  orig: 21, 18
+  offset: 0, 1
+  index: -1
+05/ShoulderPad_Sticker
+  rotate: true
+  xy: 795, 46
+  size: 27, 42
+  orig: 27, 43
+  offset: 0, 1
+  index: -1
+05/ShoulderPad_Sticker_2
+  rotate: true
+  xy: 165, 11
+  size: 21, 39
+  orig: 21, 40
+  offset: 0, 1
+  index: -1
+05/ShoulderPad_Sticker_3
+  rotate: true
+  xy: 795, 128
+  size: 34, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+05/Spike
+  rotate: false
+  xy: 331, 194
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+05/Tombstone_5
+  rotate: false
+  xy: 1, 205
+  size: 206, 314
+  orig: 206, 314
+  offset: 0, 0
+  index: -1

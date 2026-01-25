@@ -1,0 +1,55 @@
+
+V_Electric_Char_Electricity_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Electric_Char_Electricity_01_0001
+  rotate: false
+  xy: 888, 375
+  size: 123, 90
+  orig: 256, 256
+  offset: 83, 72
+  index: -1
+V_Electric_Char_Electricity_01_0002
+  rotate: false
+  xy: 196, 82
+  size: 159, 162
+  orig: 256, 256
+  offset: 45, 57
+  index: -1
+V_Electric_Char_Electricity_01_0003
+  rotate: false
+  xy: 696, 290
+  size: 189, 175
+  orig: 256, 256
+  offset: 31, 39
+  index: -1
+V_Electric_Char_Electricity_01_0004
+  rotate: false
+  xy: 470, 283
+  size: 223, 182
+  orig: 256, 256
+  offset: 15, 53
+  index: -1
+V_Electric_Char_Electricity_01_0005
+  rotate: false
+  xy: 1, 247
+  size: 231, 218
+  orig: 256, 256
+  offset: 8, 26
+  index: -1
+V_Electric_Char_Electricity_01_0006
+  rotate: true
+  xy: 235, 274
+  size: 191, 232
+  orig: 256, 256
+  offset: 50, 9
+  index: -1
+V_Electric_Char_Electricity_01_0007
+  rotate: false
+  xy: 1, 1
+  size: 192, 243
+  orig: 256, 256
+  offset: 49, 2
+  index: -1

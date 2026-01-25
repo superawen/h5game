@@ -1,0 +1,748 @@
+
+Robot_Md_RepairBot.png
+size: 740,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Eye_L_01
+  rotate: false
+  xy: 510, 49
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+03/Eye_L_01
+  rotate: false
+  xy: 510, 49
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+Eye_L_01
+  rotate: false
+  xy: 510, 49
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+02/Eye_R_01
+  rotate: true
+  xy: 654, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+03/Eye_R_01
+  rotate: true
+  xy: 654, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+Eye_R_01
+  rotate: true
+  xy: 654, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+02/Eyeball_L_01
+  rotate: true
+  xy: 607, 6
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Eyeball_L_01
+  rotate: true
+  xy: 607, 6
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+02/Eyeball_R_01
+  rotate: false
+  xy: 644, 99
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Eyeball_R_01
+  rotate: false
+  xy: 644, 99
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+02/Hand_R
+  rotate: true
+  xy: 353, 2
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+02/Hat
+  rotate: true
+  xy: 444, 2
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+02/Hip
+  rotate: false
+  xy: 180, 40
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: false
+  xy: 180, 40
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+04/Hip
+  rotate: false
+  xy: 180, 40
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 180, 40
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+02/Leg_01
+  rotate: true
+  xy: 171, 2
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Leg_01
+  rotate: true
+  xy: 171, 2
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+02/Leg_02
+  rotate: true
+  xy: 551, 29
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Leg_02
+  rotate: true
+  xy: 551, 29
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+02/Leg_03
+  rotate: true
+  xy: 697, 170
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Leg_03
+  rotate: true
+  xy: 697, 170
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+02/Leg_04
+  rotate: true
+  xy: 697, 136
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Leg_04
+  rotate: true
+  xy: 697, 136
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+02/Liquid
+  rotate: false
+  xy: 83, 188
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+02/Spine
+  rotate: true
+  xy: 643, 215
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+03/Spine
+  rotate: true
+  xy: 643, 215
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+04/Spine
+  rotate: true
+  xy: 643, 215
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+05/Spine
+  rotate: true
+  xy: 643, 215
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+Spine
+  rotate: true
+  xy: 643, 215
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+02/Tank_bubble
+  rotate: true
+  xy: 613, 201
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+02/Tank_side
+  rotate: false
+  xy: 372, 48
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+02/Tank_top
+  rotate: false
+  xy: 452, 221
+  size: 94, 44
+  orig: 94, 44
+  offset: 0, 0
+  index: -1
+02/UpperArm_R
+  rotate: true
+  xy: 548, 163
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+03/UpperArm_R
+  rotate: true
+  xy: 548, 163
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+04/UpperArm_R
+  rotate: true
+  xy: 548, 163
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+UpperArm_R
+  rotate: true
+  xy: 548, 163
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+02/Upper_Leg_01
+  rotate: true
+  xy: 635, 4
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+04/Upper_Leg_01
+  rotate: true
+  xy: 635, 4
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+05/Upper_Leg_01
+  rotate: true
+  xy: 635, 4
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Upper_Leg_01
+  rotate: true
+  xy: 635, 4
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+02/Upper_Leg_02
+  rotate: true
+  xy: 685, 28
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+03/Upper_Leg_02
+  rotate: true
+  xy: 685, 28
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+04/Upper_Leg_02
+  rotate: true
+  xy: 685, 28
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+05/Upper_Leg_02
+  rotate: true
+  xy: 685, 28
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Upper_Leg_02
+  rotate: true
+  xy: 685, 28
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+02/Upper_Leg_03
+  rotate: true
+  xy: 698, 50
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+03/Upper_Leg_03
+  rotate: true
+  xy: 698, 50
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+04/Upper_Leg_03
+  rotate: true
+  xy: 698, 50
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+05/Upper_Leg_03
+  rotate: true
+  xy: 698, 50
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Upper_Leg_03
+  rotate: true
+  xy: 698, 50
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+03/Arm_R
+  rotate: false
+  xy: 180, 218
+  size: 104, 47
+  orig: 104, 47
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 306, 112
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+03/Eyeball_L_01
+  rotate: false
+  xy: 640, 71
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+03/Eyeball_R_01
+  rotate: false
+  xy: 653, 40
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+03/Hand_R
+  rotate: false
+  xy: 398, 2
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+03/Hat
+  rotate: true
+  xy: 495, 2
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+04/Hat
+  rotate: true
+  xy: 495, 2
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+03/Leg_01
+  rotate: true
+  xy: 229, 2
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+03/Leg_02
+  rotate: false
+  xy: 599, 70
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+03/Leg_03
+  rotate: true
+  xy: 697, 102
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+03/Leg_04
+  rotate: true
+  xy: 602, 29
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+03/Liquid
+  rotate: false
+  xy: 83, 109
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+03/Mouth
+  rotate: true
+  xy: 520, 170
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+03/Tank_side
+  rotate: false
+  xy: 482, 49
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+03/Tank_top
+  rotate: false
+  xy: 351, 178
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+03/Upper_Leg_01
+  rotate: true
+  xy: 604, 122
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+04/Eye_L_01
+  rotate: false
+  xy: 697, 204
+  size: 15, 9
+  orig: 77, 70
+  offset: 31, 30
+  index: -1
+04/Eye_R_01
+  rotate: true
+  xy: 675, 113
+  size: 15, 11
+  orig: 77, 70
+  offset: 31, 29
+  index: -1
+04/Eyeball_L_01
+  rotate: false
+  xy: 663, 71
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+04/Eyeball_R_01
+  rotate: false
+  xy: 654, 9
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+04/Hand_R
+  rotate: false
+  xy: 245, 40
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+04/Liquid
+  rotate: false
+  xy: 2, 154
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+04/Mouth
+  rotate: false
+  xy: 448, 173
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+04/Tank_bottom
+  rotate: false
+  xy: 548, 204
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+04/Tank_bubble
+  rotate: true
+  xy: 546, 13
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+04/Tank_side
+  rotate: true
+  xy: 548, 234
+  size: 31, 93
+  orig: 31, 93
+  offset: 0, 0
+  index: -1
+04/Tank_top
+  rotate: false
+  xy: 2, 2
+  size: 95, 37
+  orig: 95, 37
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: false
+  xy: 351, 224
+  size: 99, 41
+  orig: 99, 41
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 370, 112
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+05/Eye_L_01
+  rotate: false
+  xy: 546, 2
+  size: 15, 9
+  orig: 77, 70
+  offset: 31, 30
+  index: -1
+05/Eye_R_01
+  rotate: true
+  xy: 685, 11
+  size: 15, 11
+  orig: 77, 70
+  offset: 31, 29
+  index: -1
+05/Eyeball_L_01
+  rotate: false
+  xy: 717, 74
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+05/Eyeball_R_01
+  rotate: false
+  xy: 686, 71
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+05/Glow
+  rotate: true
+  xy: 714, 204
+  size: 61, 24
+  orig: 120, 84
+  offset: 30, 30
+  index: -1
+05/Hand_R
+  rotate: false
+  xy: 434, 113
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+05/Hat
+  rotate: false
+  xy: 650, 164
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+05/Hat_02
+  rotate: true
+  xy: 245, 90
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 286, 178
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+05/Hip
+  rotate: true
+  xy: 400, 47
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+05/Leg_01
+  rotate: false
+  xy: 440, 52
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+05/Leg_02
+  rotate: true
+  xy: 297, 2
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+05/Leg_03
+  rotate: true
+  xy: 607, 164
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+05/Leg_04
+  rotate: false
+  xy: 502, 116
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+05/Liquid
+  rotate: false
+  xy: 2, 41
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+05/Mouth
+  rotate: false
+  xy: 99, 3
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+05/UpperArm_R
+  rotate: true
+  xy: 545, 122
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 180, 169
+  size: 104, 47
+  orig: 104, 47
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 306, 48
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 180, 80
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+Liquid
+  rotate: false
+  xy: 551, 70
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 644, 130
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+Pipe
+  rotate: true
+  xy: 83, 51
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Tank_bubble
+  rotate: false
+  xy: 684, 46
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+Tank_side
+  rotate: false
+  xy: 688, 118
+  size: 7, 44
+  orig: 7, 44
+  offset: 0, 0
+  index: -1
+Tank_top
+  rotate: true
+  xy: 510, 57
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1

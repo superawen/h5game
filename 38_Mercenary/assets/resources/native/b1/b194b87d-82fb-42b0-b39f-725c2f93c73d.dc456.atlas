@@ -1,0 +1,76 @@
+
+Invaders_To_SentinelOrb_Broken.png
+size: 370,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03/Base_02
+  rotate: false
+  xy: 342, 45
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+04/Body_02
+  rotate: true
+  xy: 268, 105
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 136, 94
+  size: 130, 64
+  orig: 130, 64
+  offset: 0, 0
+  index: -1
+Base_crystal
+  rotate: true
+  xy: 96, 36
+  size: 34, 38
+  orig: 63, 69
+  offset: 14, 15
+  index: -1
+Body_Bottom
+  rotate: true
+  xy: 1, 1
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+Body_Inside_bottom_01
+  rotate: true
+  xy: 301, 51
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+Body_Top
+  rotate: false
+  xy: 1, 72
+  size: 133, 86
+  orig: 133, 86
+  offset: 0, 0
+  index: -1
+Body_plates
+  rotate: false
+  xy: 136, 21
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+Parts_01
+  rotate: false
+  xy: 242, 15
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Piece_01
+  rotate: true
+  xy: 301, 3
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1

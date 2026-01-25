@@ -1,0 +1,433 @@
+
+Undead_Md_Zombie.png
+size: 913,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_Lower_L
+  rotate: true
+  xy: 736, 36
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+02/Arm_Lower_R
+  rotate: false
+  xy: 583, 38
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+Arm_Lower_R
+  rotate: false
+  xy: 583, 38
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+02/Arm_Upper_L
+  rotate: true
+  xy: 334, 14
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+Arm_Upper_L
+  rotate: true
+  xy: 334, 14
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+02/Arm_Upper_R
+  rotate: true
+  xy: 148, 14
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+Arm_Upper_R
+  rotate: true
+  xy: 148, 14
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+02/Face_Base
+  rotate: true
+  xy: 754, 75
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+Face_Base
+  rotate: true
+  xy: 754, 75
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+02/Face_Jaw
+  rotate: false
+  xy: 2, 4
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+Face_Jaw
+  rotate: false
+  xy: 2, 4
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+02/Finger_L
+  rotate: false
+  xy: 629, 5
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+03/Finger_L
+  rotate: false
+  xy: 629, 5
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+04/Finger_L
+  rotate: false
+  xy: 629, 5
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+05/Finger_L
+  rotate: false
+  xy: 629, 5
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+02/Finger_R
+  rotate: false
+  xy: 272, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Finger_R
+  rotate: false
+  xy: 272, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+02/Foot_R
+  rotate: true
+  xy: 418, 5
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+02/Hand_L
+  rotate: false
+  xy: 735, 2
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+02/Hand_R
+  rotate: false
+  xy: 812, 40
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 812, 40
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+02/Leg_R
+  rotate: false
+  xy: 685, 73
+  size: 67, 41
+  orig: 68, 41
+  offset: 1, 0
+  index: -1
+02/Thumb_L
+  rotate: true
+  xy: 649, 5
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+03/Thumb_L
+  rotate: true
+  xy: 649, 5
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+05/Thumb_L
+  rotate: true
+  xy: 649, 5
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+02/Torso_Upper
+  rotate: false
+  xy: 83, 57
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_L
+  rotate: true
+  xy: 862, 2
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_R
+  rotate: false
+  xy: 682, 36
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+03/Arm_Upper_L
+  rotate: true
+  xy: 521, 3
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+03/Arm_Upper_R
+  rotate: true
+  xy: 210, 14
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+03/Face_Base
+  rotate: true
+  xy: 820, 67
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+03/Face_Jaw
+  rotate: true
+  xy: 388, 2
+  size: 55, 28
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+03/Finger_R
+  rotate: false
+  xy: 295, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+03/Hand_R
+  rotate: true
+  xy: 835, 2
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+03/Neck
+  rotate: false
+  xy: 383, 59
+  size: 73, 111
+  orig: 73, 111
+  offset: 0, 0
+  index: -1
+03/Torso_Upper
+  rotate: false
+  xy: 183, 57
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+04/Torso_Upper
+  rotate: false
+  xy: 183, 57
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+04/Face_Base
+  rotate: true
+  xy: 679, 116
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+05/Arm_Lower_R
+  rotate: false
+  xy: 575, 3
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+05/Arm_Upper_L
+  rotate: false
+  xy: 637, 21
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+05/Arm_Upper_R
+  rotate: true
+  xy: 272, 15
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+05/Face_Base
+  rotate: false
+  xy: 527, 82
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+05/Face_Behind
+  rotate: true
+  xy: 753, 133
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+05/Face_Jaw
+  rotate: false
+  xy: 786, 2
+  size: 47, 32
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+05/Face_Tongue
+  rotate: false
+  xy: 527, 46
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+05/Finger_R
+  rotate: false
+  xy: 73, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+05/Hand_L
+  rotate: false
+  xy: 83, 15
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+05/Hand_R
+  rotate: false
+  xy: 850, 40
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+05/Neck
+  rotate: false
+  xy: 2, 35
+  size: 79, 135
+  orig: 79, 135
+  offset: 0, 0
+  index: -1
+05/Torso_Upper
+  rotate: false
+  xy: 283, 57
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+Arm_Lower_L
+  rotate: true
+  xy: 771, 36
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Face_Behind
+  rotate: true
+  xy: 597, 75
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+Face_Tongue
+  rotate: true
+  xy: 885, 77
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Finger_L
+  rotate: true
+  xy: 897, 14
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 682, 2
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 888, 39
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 461, 3
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 597, 114
+  size: 80, 56
+  orig: 81, 56
+  offset: 1, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 458, 61
+  size: 67, 109
+  orig: 67, 109
+  offset: 0, 0
+  index: -1
+Thumb_L
+  rotate: false
+  xy: 59, 12
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+Torso_mod
+  rotate: true
+  xy: 841, 125
+  size: 45, 68
+  orig: 45, 69
+  offset: 0, 1
+  index: -1

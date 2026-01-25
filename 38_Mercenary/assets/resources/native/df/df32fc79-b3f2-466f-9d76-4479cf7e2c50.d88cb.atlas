@@ -1,0 +1,510 @@
+
+Jade_To_Pagoda.png
+size: 993,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/2nd_floor_door
+  rotate: false
+  xy: 903, 421
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+02/2nd_floor_door_02
+  rotate: false
+  xy: 469, 2
+  size: 100, 23
+  orig: 100, 23
+  offset: 0, 0
+  index: -1
+02/Animal_02
+  rotate: false
+  xy: 600, 130
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+02/Bridge
+  rotate: false
+  xy: 585, 295
+  size: 138, 61
+  orig: 138, 61
+  offset: 0, 0
+  index: -1
+02/Middle_01
+  rotate: false
+  xy: 377, 165
+  size: 221, 30
+  orig: 221, 30
+  offset: 0, 0
+  index: -1
+02/Roof_middle_01
+  rotate: false
+  xy: 398, 745
+  size: 344, 95
+  orig: 344, 95
+  offset: 0, 0
+  index: -1
+02/Roof_top_01
+  rotate: false
+  xy: 2, 500
+  size: 367, 170
+  orig: 367, 170
+  offset: 0, 0
+  index: -1
+02/Sticker
+  rotate: false
+  xy: 585, 392
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+03/1st_floor_01
+  rotate: false
+  xy: 599, 510
+  size: 226, 137
+  orig: 226, 137
+  offset: 0, 0
+  index: -1
+03/2nd_floor_01
+  rotate: false
+  xy: 794, 873
+  size: 197, 134
+  orig: 197, 134
+  offset: 0, 0
+  index: -1
+03/2nd_floor_door
+  rotate: false
+  xy: 725, 272
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+03/2nd_floor_door_02
+  rotate: true
+  xy: 966, 521
+  size: 97, 22
+  orig: 97, 22
+  offset: 0, 0
+  index: -1
+03/Animal_01
+  rotate: true
+  xy: 785, 36
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+03/Animal_02
+  rotate: false
+  xy: 849, 68
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+03/Bridge
+  rotate: false
+  xy: 717, 210
+  size: 138, 60
+  orig: 138, 60
+  offset: 0, 0
+  index: -1
+03/Front_door_01
+  rotate: true
+  xy: 708, 128
+  size: 13, 114
+  orig: 13, 114
+  offset: 0, 0
+  index: -1
+03/Front_door_02
+  rotate: false
+  xy: 966, 620
+  size: 15, 115
+  orig: 15, 115
+  offset: 0, 0
+  index: -1
+03/Middle_01
+  rotate: false
+  xy: 377, 133
+  size: 221, 30
+  orig: 221, 30
+  offset: 0, 0
+  index: -1
+03/Roof_middle_01
+  rotate: false
+  xy: 2, 228
+  size: 373, 97
+  orig: 373, 97
+  offset: 0, 0
+  index: -1
+03/Roof_top_01
+  rotate: false
+  xy: 2, 841
+  size: 394, 166
+  orig: 394, 166
+  offset: 0, 0
+  index: -1
+03/Side_window_strip
+  rotate: true
+  xy: 771, 423
+  size: 11, 116
+  orig: 11, 116
+  offset: 0, 0
+  index: -1
+03/Sticker
+  rotate: false
+  xy: 918, 91
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+04/2nd_floor_door
+  rotate: false
+  xy: 695, 42
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+04/2nd_floor_door_02
+  rotate: true
+  xy: 949, 242
+  size: 97, 22
+  orig: 97, 22
+  offset: 0, 0
+  index: -1
+04/Animal_01
+  rotate: false
+  xy: 375, 2
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+04/Animal_02
+  rotate: false
+  xy: 803, 684
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+04/Banner
+  rotate: false
+  xy: 948, 341
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+04/Banner_shadow
+  rotate: true
+  xy: 849, 36
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+04/Base
+  rotate: false
+  xy: 371, 421
+  size: 254, 86
+  orig: 254, 86
+  offset: 0, 0
+  index: -1
+04/Front_door_01
+  rotate: false
+  xy: 828, 274
+  size: 13, 114
+  orig: 13, 114
+  offset: 0, 0
+  index: -1
+04/Front_door_02
+  rotate: true
+  xy: 120, 13
+  size: 15, 115
+  orig: 15, 115
+  offset: 0, 0
+  index: -1
+04/Lantern
+  rotate: false
+  xy: 329, 440
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+04/Middle_01
+  rotate: false
+  xy: 377, 101
+  size: 221, 30
+  orig: 221, 30
+  offset: 0, 0
+  index: -1
+04/Roof_middle_01
+  rotate: false
+  xy: 2, 129
+  size: 373, 97
+  orig: 373, 97
+  offset: 0, 0
+  index: -1
+04/Roof_top_01
+  rotate: false
+  xy: 2, 672
+  size: 393, 167
+  orig: 393, 167
+  offset: 0, 0
+  index: -1
+04/Side_window_strip
+  rotate: false
+  xy: 815, 272
+  size: 11, 116
+  orig: 11, 116
+  offset: 0, 0
+  index: -1
+04/Stair
+  rotate: false
+  xy: 771, 436
+  size: 130, 71
+  orig: 130, 71
+  offset: 0, 0
+  index: -1
+04/Sticker
+  rotate: false
+  xy: 946, 91
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+05/1st_floor_01
+  rotate: false
+  xy: 371, 509
+  size: 226, 138
+  orig: 226, 138
+  offset: 0, 0
+  index: -1
+05/2nd_floor_01
+  rotate: false
+  xy: 794, 737
+  size: 197, 134
+  orig: 197, 134
+  offset: 0, 0
+  index: -1
+05/2nd_floor_door
+  rotate: false
+  xy: 858, 335
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+05/2nd_floor_door_02
+  rotate: false
+  xy: 571, 3
+  size: 97, 22
+  orig: 97, 22
+  offset: 0, 0
+  index: -1
+05/Animal_01
+  rotate: false
+  xy: 627, 422
+  size: 142, 86
+  orig: 142, 86
+  offset: 0, 0
+  index: -1
+05/Animal_02
+  rotate: true
+  xy: 329, 421
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+05/Banner
+  rotate: true
+  xy: 858, 2
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+05/Fence
+  rotate: true
+  xy: 743, 649
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+05/Front_door_01
+  rotate: false
+  xy: 843, 274
+  size: 13, 114
+  orig: 13, 114
+  offset: 0, 0
+  index: -1
+05/Front_door_02
+  rotate: true
+  xy: 2, 13
+  size: 15, 116
+  orig: 15, 116
+  offset: 0, 0
+  index: -1
+05/Lantern
+  rotate: false
+  xy: 816, 143
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+05/Light
+  rotate: false
+  xy: 938, 120
+  size: 53, 69
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+05/Middle_01
+  rotate: false
+  xy: 627, 390
+  size: 221, 30
+  orig: 221, 30
+  offset: 0, 0
+  index: -1
+05/Roof_middle_01
+  rotate: false
+  xy: 2, 30
+  size: 371, 97
+  orig: 371, 97
+  offset: 0, 0
+  index: -1
+05/Roof_top_01
+  rotate: false
+  xy: 398, 842
+  size: 394, 165
+  orig: 394, 165
+  offset: 0, 0
+  index: -1
+05/Stair
+  rotate: false
+  xy: 469, 27
+  size: 130, 72
+  orig: 130, 72
+  offset: 0, 0
+  index: -1
+05/Sticker
+  rotate: false
+  xy: 930, 62
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+1st_floor_01
+  rotate: true
+  xy: 827, 509
+  size: 226, 137
+  orig: 226, 137
+  offset: 0, 0
+  index: -1
+1st_floor_shadow_01
+  rotate: false
+  xy: 708, 143
+  size: 106, 65
+  orig: 106, 66
+  offset: 0, 1
+  index: -1
+2nd_floor_01
+  rotate: false
+  xy: 377, 197
+  size: 198, 134
+  orig: 198, 134
+  offset: 0, 0
+  index: -1
+2nd_floor_door
+  rotate: false
+  xy: 858, 251
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+2nd_floor_shadow_01
+  rotate: false
+  xy: 847, 131
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Animal_01
+  rotate: false
+  xy: 601, 38
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+Animal_02
+  rotate: true
+  xy: 857, 191
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 329, 333
+  size: 254, 86
+  orig: 254, 86
+  offset: 0, 0
+  index: -1
+Bridge
+  rotate: false
+  xy: 577, 232
+  size: 138, 61
+  orig: 138, 61
+  offset: 0, 0
+  index: -1
+Front_door_01
+  rotate: false
+  xy: 973, 225
+  size: 13, 114
+  orig: 13, 114
+  offset: 0, 0
+  index: -1
+Front_door_02
+  rotate: true
+  xy: 237, 13
+  size: 15, 115
+  orig: 15, 115
+  offset: 0, 0
+  index: -1
+Middle_01
+  rotate: false
+  xy: 585, 358
+  size: 221, 30
+  orig: 221, 30
+  offset: 0, 0
+  index: -1
+Roof_middle_01
+  rotate: false
+  xy: 397, 649
+  size: 344, 94
+  orig: 344, 94
+  offset: 0, 0
+  index: -1
+Roof_top_01
+  rotate: false
+  xy: 2, 327
+  size: 325, 171
+  orig: 325, 171
+  offset: 0, 0
+  index: -1
+Roof_top_02
+  rotate: false
+  xy: 695, 2
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+Windows_01
+  rotate: false
+  xy: 744, 742
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+Windows_02
+  rotate: true
+  xy: 755, 2
+  size: 32, 101
+  orig: 32, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+V_Fire_Proj_Fireball_02.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Proj_Fireball_02_0001
+  rotate: false
+  xy: 326, 310
+  size: 301, 147
+  orig: 350, 275
+  offset: 36, 61
+  index: -1
+V_Fire_Proj_Fireball_02_0002
+  rotate: false
+  xy: 1, 1
+  size: 298, 147
+  orig: 350, 275
+  offset: 36, 59
+  index: -1
+V_Fire_Proj_Fireball_02_0003
+  rotate: false
+  xy: 1, 151
+  size: 306, 149
+  orig: 350, 275
+  offset: 28, 58
+  index: -1
+V_Fire_Proj_Fireball_02_0004
+  rotate: false
+  xy: 1, 303
+  size: 322, 154
+  orig: 350, 275
+  offset: 12, 57
+  index: -1
+V_Fire_Proj_Fireball_02_0005
+  rotate: false
+  xy: 630, 302
+  size: 279, 155
+  orig: 350, 275
+  offset: 53, 54
+  index: -1
+V_Fire_Proj_Fireball_02_0006
+  rotate: false
+  xy: 326, 161
+  size: 272, 146
+  orig: 350, 275
+  offset: 66, 58
+  index: -1

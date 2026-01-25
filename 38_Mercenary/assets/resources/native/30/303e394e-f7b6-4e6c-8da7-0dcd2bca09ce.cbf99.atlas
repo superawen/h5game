@@ -1,0 +1,636 @@
+
+Invaders_Md_GunToad.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/Body
+  rotate: false
+  xy: 256, 453
+  size: 124, 58
+  orig: 124, 58
+  offset: 0, 0
+  index: -1
+01/Dish
+  rotate: true
+  xy: 69, 227
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: -1
+01/Dish_Tip
+  rotate: true
+  xy: 450, 383
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+02/Dish_Tip
+  rotate: true
+  xy: 450, 383
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+01/EyeBrow_Left
+  rotate: true
+  xy: 483, 344
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+01/Eye_Base_Left
+  rotate: true
+  xy: 211, 4
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+01/Eye_Base_Right
+  rotate: true
+  xy: 171, 39
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+01/Eye_Left
+  rotate: false
+  xy: 476, 294
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+01/Eye_Right
+  rotate: true
+  xy: 69, 206
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+01/Eyebrow_Right
+  rotate: false
+  xy: 484, 388
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+01/Head
+  rotate: false
+  xy: 143, 176
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+01/Jaw
+  rotate: true
+  xy: 387, 259
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+01/Leg_Lower
+  rotate: false
+  xy: 223, 191
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+01/Leg_Upper
+  rotate: false
+  xy: 211, 130
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+01/Mech_Arm_1
+  rotate: false
+  xy: 297, 241
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+01/Mech_Arm_2
+  rotate: false
+  xy: 333, 239
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+01/Mechanical_Arm_Base
+  rotate: true
+  xy: 332, 146
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+01/Pupil_Left
+  rotate: true
+  xy: 355, 422
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+01/Pupil_Right
+  rotate: true
+  xy: 355, 413
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+02/Arm
+  rotate: true
+  xy: 391, 189
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+02/Body
+  rotate: true
+  xy: 1, 80
+  size: 124, 57
+  orig: 124, 57
+  offset: 0, 0
+  index: -1
+02/Dish_mod
+  rotate: false
+  xy: 280, 143
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+02/Dish_mod_02
+  rotate: true
+  xy: 447, 249
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+02/Foot
+  rotate: false
+  xy: 155, 72
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+02/Head
+  rotate: true
+  xy: 123, 335
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+02/Jaw
+  rotate: false
+  xy: 369, 353
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+02/Mech_Arm_mod
+  rotate: true
+  xy: 100, 118
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+02/Mech_arm_mod_02
+  rotate: false
+  xy: 92, 12
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+02/Pupil_Left
+  rotate: false
+  xy: 211, 162
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+02/Pupil_Right
+  rotate: true
+  xy: 92, 3
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+03/Arm
+  rotate: false
+  xy: 415, 226
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 382, 455
+  size: 122, 56
+  orig: 122, 56
+  offset: 0, 0
+  index: -1
+03/Dish
+  rotate: false
+  xy: 1, 335
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+03/Dish_Tip
+  rotate: true
+  xy: 122, 79
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+03/EyeBrow_Left
+  rotate: true
+  xy: 484, 364
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+04/EyeBrow_Left
+  rotate: true
+  xy: 484, 364
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+03/Eye_Base_Left
+  rotate: true
+  xy: 376, 150
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+03/Eye_Base_Right
+  rotate: false
+  xy: 178, 1
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+03/Eyebrow_Right
+  rotate: false
+  xy: 443, 294
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+04/Eyebrow_Right
+  rotate: false
+  xy: 443, 294
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+03/Foot
+  rotate: true
+  xy: 257, 107
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+03/Glass
+  rotate: true
+  xy: 147, 421
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+03/Gun_Prong
+  rotate: false
+  xy: 369, 322
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: true
+  xy: 1, 1
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+03/Leg_Lower
+  rotate: false
+  xy: 153, 122
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+03/Leg_Upper
+  rotate: false
+  xy: 211, 101
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+03/Mech_Arm_1
+  rotate: false
+  xy: 333, 322
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+03/Mech_Arm_2
+  rotate: false
+  xy: 222, 246
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+03/Pupil_Left
+  rotate: true
+  xy: 415, 217
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+04/Pupil_Left
+  rotate: true
+  xy: 415, 217
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+03/Pupil_Right
+  rotate: false
+  xy: 500, 330
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+04/Pupil_Right
+  rotate: false
+  xy: 500, 330
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+04/Arm
+  rotate: true
+  xy: 144, 1
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+04/Body_sideplate_01
+  rotate: true
+  xy: 355, 431
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+04/Body_sideplate_02
+  rotate: false
+  xy: 207, 39
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+04/Dish_Tip
+  rotate: true
+  xy: 280, 186
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+04/Dish_details_01
+  rotate: true
+  xy: 493, 272
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+04/Dish_details_02
+  rotate: false
+  xy: 496, 304
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+04/Dish_top_armor
+  rotate: false
+  xy: 256, 410
+  size: 97, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1
+04/Eye_Base_Right
+  rotate: true
+  xy: 207, 69
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+04/Eyelid_Left
+  rotate: false
+  xy: 493, 256
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+04/Eyelid_Right
+  rotate: false
+  xy: 387, 244
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+04/Gun_Prong
+  rotate: false
+  xy: 60, 80
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+04/Jaw
+  rotate: false
+  xy: 382, 421
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+04/Leg_mod
+  rotate: false
+  xy: 223, 159
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+04/Mech_arm_mod_03
+  rotate: false
+  xy: 118, 23
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+04/Mech_arm_mod_04
+  rotate: true
+  xy: 408, 294
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+04/Mechanical_Arm_Base
+  rotate: true
+  xy: 465, 416
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+05/Arm
+  rotate: true
+  xy: 449, 353
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: true
+  xy: 1, 206
+  size: 127, 66
+  orig: 127, 66
+  offset: 0, 0
+  index: -1
+05/Dish
+  rotate: false
+  xy: 1, 414
+  size: 144, 97
+  orig: 144, 97
+  offset: 0, 0
+  index: -1
+05/Dish_Tip
+  rotate: false
+  xy: 197, 335
+  size: 49, 84
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+05/EyeBrow_Left
+  rotate: false
+  xy: 391, 215
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+05/Eye_Base_Left
+  rotate: false
+  xy: 443, 320
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+05/Eye_Base_Right
+  rotate: false
+  xy: 139, 31
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+05/Eye_Left
+  rotate: false
+  xy: 473, 268
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+05/Eye_Right
+  rotate: true
+  xy: 118, 1
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+05/Eyebrow_Right
+  rotate: true
+  xy: 447, 261
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+05/Eyelid_Left
+  rotate: false
+  xy: 473, 252
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+05/Eyelid_Right
+  rotate: true
+  xy: 248, 80
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+05/Foot
+  rotate: false
+  xy: 155, 96
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+05/Gun_Prong
+  rotate: true
+  xy: 100, 165
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 143, 245
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+05/Jaw
+  rotate: false
+  xy: 369, 387
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+05/Leg_Lower
+  rotate: false
+  xy: 333, 185
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+05/Leg_Upper
+  rotate: false
+  xy: 280, 114
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+05/Mech_Arm_1
+  rotate: false
+  xy: 60, 118
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+05/Mech_Arm_2
+  rotate: true
+  xy: 248, 329
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+05/Mechanical_Arm_Base
+  rotate: false
+  xy: 408, 251
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+05/Pupil_Right
+  rotate: false
+  xy: 477, 320
+  size: 21, 22
+  orig: 84, 84
+  offset: 32, 31
+  index: -1

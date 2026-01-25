@@ -1,0 +1,76 @@
+
+Jade_To_CherryTemple_Broken.png
+size: 214,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03/DoorFrame_01
+  rotate: false
+  xy: 199, 5
+  size: 14, 66
+  orig: 14, 66
+  offset: 0, 0
+  index: -1
+03/Rock
+  rotate: true
+  xy: 147, 12
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+03/Tree_Top_01
+  rotate: false
+  xy: 1, 142
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: -1
+04/Rocks
+  rotate: false
+  xy: 133, 181
+  size: 72, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1, 1
+  size: 139, 74
+  orig: 139, 74
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 77, 1
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+DoorFrame_01
+  rotate: false
+  xy: 182, 9
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+Main_building
+  rotate: false
+  xy: 137, 73
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+Tree_Top_01
+  rotate: false
+  xy: 77, 68
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+parts_01
+  rotate: false
+  xy: 133, 143
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1

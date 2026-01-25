@@ -1,0 +1,328 @@
+
+Robot_Md_RepulsorBot.png
+size: 945,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Head_top
+  rotate: false
+  xy: 502, 3
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+02/Side_vent
+  rotate: false
+  xy: 820, 35
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+02/Torso_mod
+  rotate: true
+  xy: 459, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+02/brace
+  rotate: false
+  xy: 782, 128
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_Fist_L
+  rotate: false
+  xy: 151, 152
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_Fist_R
+  rotate: false
+  xy: 366, 167
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+03/Arm_Upper_R
+  rotate: true
+  xy: 672, 128
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+03/Foot_R
+  rotate: true
+  xy: 881, 122
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: true
+  xy: 493, 44
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+03/Head_Eye
+  rotate: false
+  xy: 661, 149
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+03/Torso_mod
+  rotate: false
+  xy: 672, 188
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+04/Arm_Shoulderpad_Behind_R
+  rotate: false
+  xy: 890, 180
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+04/Arm_Shoulderpad_Front_R
+  rotate: true
+  xy: 880, 68
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+04/Arm_Shoulderpad_L
+  rotate: false
+  xy: 349, 2
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+04/Fistmod
+  rotate: false
+  xy: 578, 100
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+04/Foot_R
+  rotate: true
+  xy: 567, 42
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+04/Head_Pipe_R
+  rotate: true
+  xy: 370, 79
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+04/Side_vent
+  rotate: false
+  xy: 820, 73
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+04/Torso_mod
+  rotate: false
+  xy: 151, 90
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+05/Arm_Shoulderpad_Behind_R
+  rotate: true
+  xy: 78, 3
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+05/Arm_Shoulderpad_Front_R
+  rotate: true
+  xy: 743, 74
+  size: 52, 75
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+05/Arm_Shoulderpad_L
+  rotate: false
+  xy: 149, 8
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+05/Arm_Upper_R
+  rotate: true
+  xy: 260, 96
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+05/Fist_spikes
+  rotate: false
+  xy: 416, 45
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+05/Fistmod
+  rotate: true
+  xy: 216, 7
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+05/Fistspike
+  rotate: false
+  xy: 561, 3
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+05/Foot_R
+  rotate: true
+  xy: 661, 27
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: true
+  xy: 480, 107
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+05/Side_vent
+  rotate: false
+  xy: 2, 58
+  size: 145, 74
+  orig: 145, 74
+  offset: 0, 0
+  index: -1
+05/Torso_Upper_Behind
+  rotate: false
+  xy: 479, 170
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+05/Torso_mod
+  rotate: false
+  xy: 781, 188
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+Arm_Lower_Elbow_R
+  rotate: false
+  xy: 276, 26
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Arm_Lower_Fist_L
+  rotate: false
+  xy: 260, 156
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Arm_Lower_Fist_R
+  rotate: false
+  xy: 578, 160
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+Arm_Lower_Piston_R
+  rotate: false
+  xy: 416, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Arm_Lower_Spring_Top_R
+  rotate: true
+  xy: 631, 23
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1
+Arm_Upper_R
+  rotate: true
+  xy: 370, 107
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 725, 16
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 2
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Head_Antennae
+  rotate: false
+  xy: 702, 2
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+Hips
+  rotate: true
+  xy: 789, 22
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Leg_Upper_Hip_R
+  rotate: false
+  xy: 595, 16
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Leg_Upper_Knee_R
+  rotate: true
+  xy: 661, 2
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Leg_Upper_Thigh_R
+  rotate: true
+  xy: 276, 10
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+Torso_Spine
+  rotate: true
+  xy: 661, 85
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+Torso_Upper
+  rotate: false
+  xy: 2, 134
+  size: 147, 115
+  orig: 147, 115
+  offset: 0, 0
+  index: -1

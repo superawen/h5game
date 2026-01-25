@@ -1,0 +1,741 @@
+
+Jade_Md_Samurai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Body_frontplate
+  rotate: false
+  xy: 1, 234
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+02/Flag
+  rotate: true
+  xy: 941, 963
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+02/Helmet_back
+  rotate: true
+  xy: 155, 524
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+02/Helmet_top
+  rotate: false
+  xy: 299, 817
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+02/Helmet_trim
+  rotate: true
+  xy: 239, 578
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+02/Hip
+  rotate: false
+  xy: 513, 886
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+02/Lower_arm_L
+  rotate: false
+  xy: 84, 147
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+02/Lower_arm_R
+  rotate: true
+  xy: 271, 580
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+02/Mustache_01
+  rotate: false
+  xy: 237, 540
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+02/Shoulder_armor_L
+  rotate: false
+  xy: 604, 877
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+02/Shoulder_armor_R
+  rotate: true
+  xy: 258, 756
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+02/Weapon
+  rotate: false
+  xy: 1, 427
+  size: 48, 188
+  orig: 48, 188
+  offset: 0, 0
+  index: -1
+03/Arm_armor_L
+  rotate: true
+  xy: 77, 257
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+03/Arm_armor_R
+  rotate: false
+  xy: 303, 762
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 303, 917
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+03/Body_collar
+  rotate: false
+  xy: 90, 617
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+03/Feet_L
+  rotate: false
+  xy: 71, 508
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+03/Flag
+  rotate: false
+  xy: 1, 323
+  size: 60, 102
+  orig: 60, 102
+  offset: 0, 0
+  index: -1
+03/Flag_pole_02
+  rotate: true
+  xy: 66, 83
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+03/Flap_L
+  rotate: true
+  xy: 406, 885
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+03/Flap_R
+  rotate: false
+  xy: 790, 847
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+03/Flap_middle
+  rotate: false
+  xy: 150, 801
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+03/Helmet
+  rotate: true
+  xy: 744, 946
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: true
+  xy: 71, 526
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+03/Lower_Leg_L
+  rotate: false
+  xy: 149, 618
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+03/Lower_Leg_R
+  rotate: true
+  xy: 122, 322
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+03/Lower_arm_L
+  rotate: true
+  xy: 258, 793
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+03/Lower_arm_R
+  rotate: true
+  xy: 310, 586
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+03/Mouth
+  rotate: true
+  xy: 142, 734
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+03/Mustache_01
+  rotate: false
+  xy: 330, 674
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+03/Shoulder_armor_L
+  rotate: true
+  xy: 1, 3
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+03/Shoulder_armor_R
+  rotate: false
+  xy: 155, 651
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+03/Upper_arm_L
+  rotate: false
+  xy: 1, 154
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+03/Upper_arm_L_back
+  rotate: true
+  xy: 941, 859
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+03/Upper_leg_L
+  rotate: false
+  xy: 665, 895
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+03/Upper_leg_R
+  rotate: false
+  xy: 198, 618
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+03/Weapon
+  rotate: false
+  xy: 102, 829
+  size: 46, 194
+  orig: 46, 194
+  offset: 0, 0
+  index: -1
+04/Arm_armor_L
+  rotate: true
+  xy: 84, 191
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+04/Body_collar
+  rotate: false
+  xy: 63, 323
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+04/Body_mod02
+  rotate: true
+  xy: 665, 855
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+04/Flag
+  rotate: true
+  xy: 198, 849
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+04/Flap_L
+  rotate: true
+  xy: 442, 885
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+04/Flap_R
+  rotate: false
+  xy: 848, 865
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+04/Flap_middle
+  rotate: true
+  xy: 198, 666
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+04/Hair
+  rotate: true
+  xy: 159, 191
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+04/Hand_L
+  rotate: true
+  xy: 330, 686
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+04/Hand_R
+  rotate: false
+  xy: 127, 191
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+04/Helmet
+  rotate: true
+  xy: 630, 946
+  size: 77, 112
+  orig: 77, 112
+  offset: 0, 0
+  index: -1
+04/Lower_Leg_L
+  rotate: true
+  xy: 992, 856
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+04/Lower_Leg_R
+  rotate: false
+  xy: 310, 551
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+04/Lower_arm_L
+  rotate: true
+  xy: 155, 698
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+04/Lower_arm_R
+  rotate: true
+  xy: 121, 282
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+04/Mustache_01
+  rotate: false
+  xy: 299, 794
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+04/Mustache_02
+  rotate: true
+  xy: 318, 714
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+04/Shoulder_mod
+  rotate: false
+  xy: 848, 833
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+04/Sword_back
+  rotate: true
+  xy: 292, 626
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+04/Upper_arm_L
+  rotate: false
+  xy: 1, 74
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+04/Upper_arm_L_back
+  rotate: true
+  xy: 941, 817
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+04/Upper_leg_L
+  rotate: false
+  xy: 725, 895
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+04/Upper_leg_R
+  rotate: false
+  xy: 245, 620
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+04/Weapon
+  rotate: false
+  xy: 1, 617
+  size: 87, 206
+  orig: 87, 206
+  offset: 0, 0
+  index: -1
+05/Arm_armor_L
+  rotate: false
+  xy: 845, 913
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 408, 917
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+05/Feet_L
+  rotate: true
+  xy: 294, 668
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+05/Flag
+  rotate: true
+  xy: 843, 956
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+05/Flag_pole
+  rotate: false
+  xy: 51, 500
+  size: 18, 115
+  orig: 18, 115
+  offset: 0, 0
+  index: -1
+05/Flap_L
+  rotate: false
+  xy: 478, 881
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+05/Flap_R
+  rotate: false
+  xy: 202, 803
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+05/Flap_middle
+  rotate: false
+  xy: 249, 712
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+05/Helmet
+  rotate: true
+  xy: 513, 938
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+05/Lower_Leg_L
+  rotate: true
+  xy: 908, 825
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+05/Lower_Leg_R
+  rotate: true
+  xy: 298, 878
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+05/Lower_arm_L
+  rotate: false
+  xy: 202, 762
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+05/Lower_arm_R
+  rotate: true
+  xy: 127, 219
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+05/Mustache_01
+  rotate: false
+  xy: 371, 882
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+05/Mustache_02
+  rotate: false
+  xy: 301, 712
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+05/Shoulder_armor_L
+  rotate: true
+  xy: 63, 360
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+05/Weapon
+  rotate: false
+  xy: 1, 825
+  size: 99, 198
+  orig: 99, 198
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 198, 916
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+Body_collar
+  rotate: true
+  xy: 155, 559
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+Butt
+  rotate: true
+  xy: 123, 527
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 79, 87
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+Feet_L
+  rotate: true
+  xy: 312, 668
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+Flag
+  rotate: true
+  xy: 941, 901
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Flag_pole
+  rotate: false
+  xy: 66, 154
+  size: 16, 78
+  orig: 16, 78
+  offset: 0, 0
+  index: -1
+Flap_L
+  rotate: true
+  xy: 298, 849
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Flap_R
+  rotate: false
+  xy: 142, 754
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+Flap_middle
+  rotate: false
+  xy: 242, 668
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 239, 551
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 318, 730
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: true
+  xy: 51, 428
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Helmet_back
+  rotate: false
+  xy: 911, 919
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 90, 734
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Lower_Leg_L
+  rotate: true
+  xy: 992, 811
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Lower_Leg_R
+  rotate: false
+  xy: 333, 882
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Lower_arm_L
+  rotate: false
+  xy: 729, 851
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Lower_arm_R
+  rotate: true
+  xy: 145, 151
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 121, 259
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Shoulder_armor_L
+  rotate: false
+  xy: 196, 718
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+Shoulder_armor_R
+  rotate: false
+  xy: 905, 870
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Upper_arm_L
+  rotate: false
+  xy: 90, 654
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Upper_arm_L_back
+  rotate: false
+  xy: 195, 519
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+Upper_leg_L
+  rotate: false
+  xy: 785, 895
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+Upper_leg_R
+  rotate: false
+  xy: 192, 570
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 150, 845
+  size: 46, 178
+  orig: 46, 178
+  offset: 0, 0
+  index: -1

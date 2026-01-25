@@ -1,0 +1,62 @@
+
+V_Death_Char_LightBurst_01.png
+size: 386,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Death_Char_LightBurst_01_0001
+  rotate: false
+  xy: 190, 1
+  size: 78, 55
+  orig: 250, 160
+  offset: 82, 17
+  index: -1
+V_Death_Char_LightBurst_01_0002
+  rotate: false
+  xy: 190, 58
+  size: 195, 95
+  orig: 250, 160
+  offset: 39, 15
+  index: -1
+V_Death_Char_LightBurst_01_0003
+  rotate: false
+  xy: 1, 3
+  size: 187, 126
+  orig: 250, 160
+  offset: 17, 9
+  index: -1
+V_Death_Char_LightBurst_01_0004
+  rotate: false
+  xy: 1, 131
+  size: 182, 132
+  orig: 250, 160
+  offset: 32, 12
+  index: -1
+V_Death_Char_LightBurst_01_0005
+  rotate: true
+  xy: 249, 357
+  size: 171, 128
+  orig: 250, 160
+  offset: 47, 15
+  index: -1
+V_Death_Char_LightBurst_01_0006
+  rotate: true
+  xy: 218, 155
+  size: 200, 113
+  orig: 250, 160
+  offset: 31, 0
+  index: -1
+V_Death_Char_LightBurst_01_0007
+  rotate: false
+  xy: 1, 378
+  size: 246, 150
+  orig: 250, 160
+  offset: 0, 10
+  index: -1
+V_Death_Char_LightBurst_01_0008
+  rotate: false
+  xy: 1, 265
+  size: 215, 111
+  orig: 250, 160
+  offset: 20, 24
+  index: -1

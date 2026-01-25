@@ -1,0 +1,76 @@
+
+V_Fire_Grd_Explosion_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blast_Small
+  rotate: false
+  xy: 965, 409
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 1, 239
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Smokepuff_01
+  rotate: false
+  xy: 745, 166
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+Smokepuff_02
+  rotate: false
+  xy: 617, 116
+  size: 125, 141
+  orig: 125, 141
+  offset: 0, 0
+  index: -1
+Smokepuff_03
+  rotate: true
+  xy: 437, 63
+  size: 183, 177
+  orig: 183, 177
+  offset: 0, 0
+  index: -1
+Smokepuff_04
+  rotate: true
+  xy: 246, 38
+  size: 198, 188
+  orig: 198, 188
+  offset: 0, 0
+  index: -1
+Smokepuff_05
+  rotate: false
+  xy: 731, 262
+  size: 231, 233
+  orig: 231, 233
+  offset: 0, 0
+  index: -1
+Smokepuff_06
+  rotate: false
+  xy: 1, 1
+  size: 242, 235
+  orig: 242, 235
+  offset: 0, 0
+  index: -1
+Smokepuff_07
+  rotate: false
+  xy: 493, 260
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+Smokepuff_08
+  rotate: false
+  xy: 260, 249
+  size: 230, 246
+  orig: 230, 246
+  offset: 0, 0
+  index: -1

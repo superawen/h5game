@@ -1,0 +1,76 @@
+
+V_Fire_Char_Flame_02.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Char_Flame_02_0001
+  rotate: false
+  xy: 665, 48
+  size: 153, 198
+  orig: 256, 256
+  offset: 65, 7
+  index: -1
+V_Fire_Char_Flame_02_0002
+  rotate: false
+  xy: 339, 7
+  size: 155, 226
+  orig: 256, 256
+  offset: 61, 6
+  index: -1
+V_Fire_Char_Flame_02_0003
+  rotate: false
+  xy: 180, 0
+  size: 157, 234
+  orig: 256, 256
+  offset: 59, 4
+  index: -1
+V_Fire_Char_Flame_02_0004
+  rotate: false
+  xy: 366, 235
+  size: 164, 233
+  orig: 256, 256
+  offset: 58, 3
+  index: -1
+V_Fire_Char_Flame_02_0005
+  rotate: false
+  xy: 195, 236
+  size: 169, 232
+  orig: 256, 256
+  offset: 58, 4
+  index: -1
+V_Fire_Char_Flame_02_0006
+  rotate: false
+  xy: 0, 9
+  size: 178, 226
+  orig: 256, 256
+  offset: 55, 9
+  index: -1
+V_Fire_Char_Flame_02_0007
+  rotate: false
+  xy: 0, 237
+  size: 193, 231
+  orig: 256, 256
+  offset: 46, 4
+  index: -1
+V_Fire_Char_Flame_02_0008
+  rotate: false
+  xy: 496, 22
+  size: 167, 211
+  orig: 256, 256
+  offset: 45, 2
+  index: -1
+V_Fire_Char_Flame_02_0009
+  rotate: false
+  xy: 708, 255
+  size: 171, 213
+  orig: 256, 256
+  offset: 43, 2
+  index: -1
+V_Fire_Char_Flame_02_0010
+  rotate: false
+  xy: 532, 248
+  size: 174, 220
+  orig: 256, 256
+  offset: 42, 4
+  index: -1

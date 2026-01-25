@@ -1,0 +1,34 @@
+
+V_Spawn_Grd_FlamesBehind_01.png
+size: 354,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Spawn_Grd_FlamesBehind_01_0001
+  rotate: false
+  xy: 1, 232
+  size: 231, 78
+  orig: 231, 212
+  offset: 0, 59
+  index: -1
+V_Spawn_Grd_FlamesBehind_01_0002
+  rotate: false
+  xy: 1, 128
+  size: 231, 102
+  orig: 231, 212
+  offset: 0, 59
+  index: -1
+V_Spawn_Grd_FlamesBehind_01_0003
+  rotate: true
+  xy: 234, 79
+  size: 231, 119
+  orig: 231, 212
+  offset: 0, 56
+  index: -1
+V_Spawn_Grd_FlamesBehind_01_0004
+  rotate: false
+  xy: 1, 1
+  size: 231, 125
+  orig: 231, 212
+  offset: 0, 59
+  index: -1

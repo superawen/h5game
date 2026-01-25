@@ -1,0 +1,125 @@
+
+V_Fire_Grd_Smoke_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Grd_Smoke_02_0001
+  rotate: true
+  xy: 1, 1
+  size: 174, 293
+  orig: 261, 347
+  offset: 32, 28
+  index: -1
+V_Fire_Grd_Smoke_02_0002
+  rotate: true
+  xy: 297, 15
+  size: 155, 215
+  orig: 261, 347
+  offset: 57, 28
+  index: -1
+V_Fire_Grd_Smoke_02_0003
+  rotate: true
+  xy: 414, 455
+  size: 162, 227
+  orig: 261, 347
+  offset: 56, 29
+  index: -1
+V_Fire_Grd_Smoke_02_0004
+  rotate: true
+  xy: 614, 43
+  size: 183, 240
+  orig: 261, 347
+  offset: 51, 27
+  index: -1
+V_Fire_Grd_Smoke_02_0005
+  rotate: true
+  xy: 614, 229
+  size: 196, 253
+  orig: 261, 347
+  offset: 41, 26
+  index: -1
+V_Fire_Grd_Smoke_02_0006
+  rotate: false
+  xy: 221, 185
+  size: 204, 263
+  orig: 261, 347
+  offset: 31, 26
+  index: -1
+V_Fire_Grd_Smoke_02_0007
+  rotate: true
+  xy: 726, 801
+  size: 215, 267
+  orig: 261, 347
+  offset: 28, 26
+  index: -1
+V_Fire_Grd_Smoke_02_0008
+  rotate: false
+  xy: 1, 178
+  size: 217, 269
+  orig: 261, 347
+  offset: 22, 27
+  index: -1
+V_Fire_Grd_Smoke_02_0009
+  rotate: false
+  xy: 219, 742
+  size: 219, 274
+  orig: 261, 347
+  offset: 20, 27
+  index: -1
+V_Fire_Grd_Smoke_02_0010
+  rotate: false
+  xy: 1, 735
+  size: 215, 281
+  orig: 261, 347
+  offset: 18, 28
+  index: -1
+V_Fire_Grd_Smoke_02_0011
+  rotate: false
+  xy: 1, 450
+  size: 211, 282
+  orig: 261, 347
+  offset: 21, 27
+  index: -1
+V_Fire_Grd_Smoke_02_0012
+  rotate: true
+  xy: 441, 806
+  size: 210, 282
+  orig: 261, 347
+  offset: 20, 28
+  index: -1
+V_Fire_Grd_Smoke_02_0013
+  rotate: true
+  xy: 644, 428
+  size: 183, 266
+  orig: 261, 347
+  offset: 43, 28
+  index: -1
+V_Fire_Grd_Smoke_02_0014
+  rotate: true
+  xy: 726, 614
+  size: 184, 270
+  orig: 261, 347
+  offset: 39, 29
+  index: -1
+V_Fire_Grd_Smoke_02_0015
+  rotate: true
+  xy: 441, 620
+  size: 183, 282
+  orig: 261, 347
+  offset: 42, 26
+  index: -1
+V_Fire_Grd_Smoke_02_0016
+  rotate: false
+  xy: 428, 173
+  size: 183, 279
+  orig: 261, 347
+  offset: 40, 29
+  index: -1
+V_Fire_Grd_Smoke_02_0017
+  rotate: false
+  xy: 215, 451
+  size: 196, 281
+  orig: 261, 347
+  offset: 31, 27
+  index: -1

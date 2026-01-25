@@ -1,0 +1,419 @@
+
+Invaders_Sm_Slider.png
+size: 646,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/Antenna
+  rotate: true
+  xy: 598, 22
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+01/Body
+  rotate: false
+  xy: 379, 179
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+01/Bomb
+  rotate: true
+  xy: 232, 6
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+01/Bomb_Neck
+  rotate: false
+  xy: 449, 44
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+01/Flame_01
+  rotate: false
+  xy: 341, 105
+  size: 31, 67
+  orig: 89, 127
+  offset: 29, 29
+  index: -1
+01/Flame_02
+  rotate: true
+  xy: 557, 171
+  size: 29, 77
+  orig: 87, 137
+  offset: 29, 29
+  index: -1
+01/Flame_03
+  rotate: true
+  xy: 324, 5
+  size: 27, 77
+  orig: 86, 137
+  offset: 30, 29
+  index: -1
+01/Flame_04
+  rotate: true
+  xy: 379, 149
+  size: 28, 81
+  orig: 86, 140
+  offset: 29, 29
+  index: -1
+01/Head
+  rotate: false
+  xy: 342, 34
+  size: 43, 69
+  orig: 44, 69
+  offset: 1, 0
+  index: -1
+01/Head_Base
+  rotate: false
+  xy: 197, 166
+  size: 57, 99
+  orig: 57, 99
+  offset: 0, 0
+  index: -1
+01/Jaw
+  rotate: true
+  xy: 216, 105
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+01/Light
+  rotate: true
+  xy: 76, 138
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+01/Mouth
+  rotate: false
+  xy: 65, 37
+  size: 39, 99
+  orig: 39, 99
+  offset: 0, 0
+  index: -1
+01/Shell
+  rotate: true
+  xy: 106, 2
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+01/Tail
+  rotate: true
+  xy: 462, 145
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+01/Turbine
+  rotate: true
+  xy: 547, 19
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+02/Bomb
+  rotate: false
+  xy: 224, 58
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+02/Eye_Closed
+  rotate: true
+  xy: 547, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+02/Eye_Open
+  rotate: true
+  xy: 566, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+02/Pupil
+  rotate: true
+  xy: 639, 16
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+02/Shell
+  rotate: false
+  xy: 315, 174
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+02/Tail
+  rotate: false
+  xy: 454, 2
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+02/Turbine
+  rotate: true
+  xy: 497, 60
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 498, 181
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+03/Bomb
+  rotate: false
+  xy: 145, 105
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+03/Bomb_Neck
+  rotate: false
+  xy: 504, 158
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+03/Eye_Closed
+  rotate: false
+  xy: 48, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: false
+  xy: 449, 69
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+03/Head_Base
+  rotate: false
+  xy: 137, 166
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+03/Jaw
+  rotate: false
+  xy: 282, 42
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+03/Leg
+  rotate: false
+  xy: 65, 21
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+03/Shell
+  rotate: false
+  xy: 76, 158
+  size: 59, 107
+  orig: 59, 109
+  offset: 0, 0
+  index: -1
+03/Tail
+  rotate: true
+  xy: 597, 40
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+03/Turbine
+  rotate: true
+  xy: 557, 84
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+04/Antenna
+  rotate: true
+  xy: 2, 2
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+04/Bomb
+  rotate: false
+  xy: 557, 202
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+04/Bomb_Neck
+  rotate: false
+  xy: 403, 4
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+04/Eye_Closed
+  rotate: false
+  xy: 627, 22
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+04/Eye_Open
+  rotate: false
+  xy: 627, 110
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+04/Jaw
+  rotate: true
+  xy: 494, 85
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+04/Leg
+  rotate: false
+  xy: 621, 6
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+04/Pupil
+  rotate: false
+  xy: 632, 257
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+04/Shell
+  rotate: false
+  xy: 2, 21
+  size: 61, 115
+  orig: 61, 115
+  offset: 0, 0
+  index: -1
+04/Tail
+  rotate: false
+  xy: 498, 14
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+04/Turbine
+  rotate: true
+  xy: 557, 128
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 439, 179
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+05/Bomb
+  rotate: true
+  xy: 387, 35
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+05/Bomb_Neck
+  rotate: true
+  xy: 186, 2
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+05/Eye_Closed
+  rotate: true
+  xy: 603, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+05/Eye_Open
+  rotate: false
+  xy: 627, 92
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: true
+  xy: 145, 58
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+05/Head_Base
+  rotate: false
+  xy: 256, 166
+  size: 57, 99
+  orig: 57, 99
+  offset: 0, 0
+  index: -1
+05/Jaw
+  rotate: true
+  xy: 279, 105
+  size: 59, 60
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+05/Leg
+  rotate: false
+  xy: 585, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+05/Mouth
+  rotate: false
+  xy: 106, 58
+  size: 37, 98
+  orig: 38, 98
+  offset: 0, 0
+  index: -1
+05/Shell
+  rotate: false
+  xy: 2, 138
+  size: 72, 127
+  orig: 72, 127
+  offset: 0, 0
+  index: -1
+05/Tail
+  rotate: false
+  xy: 548, 39
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+05/Tank
+  rotate: true
+  xy: 278, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+05/Turbine
+  rotate: true
+  xy: 374, 105
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1

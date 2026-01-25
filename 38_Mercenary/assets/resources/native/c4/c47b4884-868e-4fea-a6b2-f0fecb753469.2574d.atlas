@@ -1,0 +1,552 @@
+
+Invaders_Md_Wobbler.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/Blade
+  rotate: true
+  xy: 190, 28
+  size: 42, 89
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+01/Body
+  rotate: false
+  xy: 277, 97
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+01/Brain
+  rotate: true
+  xy: 321, 416
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+01/Collar
+  rotate: true
+  xy: 281, 36
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+01/Eye_Center
+  rotate: false
+  xy: 334, 67
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+01/Eyelid_Center
+  rotate: true
+  xy: 399, 200
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+01/Head
+  rotate: false
+  xy: 1, 11
+  size: 66, 117
+  orig: 66, 117
+  offset: 0, 0
+  index: -1
+01/Metal_ForeArm
+  rotate: true
+  xy: 434, 416
+  size: 95, 75
+  orig: 96, 75
+  offset: 1, 0
+  index: -1
+01/Metal_arm
+  rotate: true
+  xy: 415, 243
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+01/Mouth
+  rotate: false
+  xy: 306, 73
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+02/Blade
+  rotate: false
+  xy: 272, 226
+  size: 43, 91
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+02/Brain
+  rotate: false
+  xy: 1, 393
+  size: 103, 118
+  orig: 103, 118
+  offset: 0, 0
+  index: -1
+02/Collar
+  rotate: true
+  xy: 281, 1
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+02/Eye_Left
+  rotate: true
+  xy: 382, 57
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+02/Eye_Right
+  rotate: false
+  xy: 244, 1
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+02/Eyelid_Left
+  rotate: false
+  xy: 407, 79
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+02/Eyelid_Right
+  rotate: false
+  xy: 399, 182
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+02/Head
+  rotate: false
+  xy: 77, 139
+  size: 66, 133
+  orig: 66, 133
+  offset: 0, 0
+  index: -1
+02/Leg
+  rotate: false
+  xy: 261, 11
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+02/Metal_ForeArm
+  rotate: false
+  xy: 415, 166
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+02/Metal_arm
+  rotate: false
+  xy: 105, 277
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+02/Mouth
+  rotate: false
+  xy: 351, 74
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+03/Blade
+  rotate: false
+  xy: 272, 319
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 350, 98
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+03/Brain
+  rotate: false
+  xy: 1, 274
+  size: 102, 117
+  orig: 102, 117
+  offset: 0, 0
+  index: -1
+03/Collar
+  rotate: false
+  xy: 212, 246
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+03/Eye_Left
+  rotate: false
+  xy: 495, 138
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+03/Eye_Right
+  rotate: false
+  xy: 190, 1
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+03/Eyelid_Left
+  rotate: false
+  xy: 402, 38
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+03/Eyelid_Left_Bottom
+  rotate: false
+  xy: 441, 54
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+03/Eyelid_Right
+  rotate: false
+  xy: 206, 226
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+03/Eyelid_Right_Bottom
+  rotate: false
+  xy: 399, 171
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: true
+  xy: 321, 349
+  size: 65, 131
+  orig: 65, 131
+  offset: 0, 0
+  index: -1
+03/Leg
+  rotate: true
+  xy: 410, 60
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+03/Metal_ForeArm
+  rotate: false
+  xy: 206, 149
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+03/Metal_arm
+  rotate: false
+  xy: 69, 2
+  size: 52, 126
+  orig: 52, 126
+  offset: 0, 0
+  index: -1
+03/Mouth
+  rotate: false
+  xy: 277, 73
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+03/Tail
+  rotate: true
+  xy: 255, 246
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+04/Blade
+  rotate: true
+  xy: 317, 297
+  size: 50, 114
+  orig: 50, 114
+  offset: 0, 0
+  index: -1
+04/Brain
+  rotate: false
+  xy: 106, 395
+  size: 102, 116
+  orig: 102, 116
+  offset: 0, 0
+  index: -1
+04/Collar
+  rotate: true
+  xy: 433, 300
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+04/Eye_Left
+  rotate: false
+  xy: 495, 110
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+04/Eye_Right
+  rotate: false
+  xy: 208, 1
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+04/Eyelid_Center
+  rotate: false
+  xy: 427, 67
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+04/Eyelid_Center_Bottom
+  rotate: false
+  xy: 463, 69
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+04/Eyelid_Left
+  rotate: false
+  xy: 415, 41
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+04/Eyelid_Left_Bottom
+  rotate: false
+  xy: 455, 54
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+04/Eyelid_Right
+  rotate: false
+  xy: 223, 226
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+04/Eyelid_Right_Bottom
+  rotate: false
+  xy: 162, 140
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+04/Head
+  rotate: false
+  xy: 123, 6
+  size: 65, 131
+  orig: 65, 131
+  offset: 0, 0
+  index: -1
+04/Leg
+  rotate: true
+  xy: 240, 226
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+04/Metal_ForeArm
+  rotate: false
+  xy: 317, 220
+  size: 96, 75
+  orig: 97, 75
+  offset: 1, 0
+  index: -1
+04/Metal_arm
+  rotate: false
+  xy: 158, 267
+  size: 52, 126
+  orig: 52, 126
+  offset: 0, 0
+  index: -1
+04/Mouth
+  rotate: false
+  xy: 379, 74
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+04/Tail
+  rotate: true
+  xy: 315, 1
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+05/BG
+  rotate: false
+  xy: 210, 413
+  size: 109, 98
+  orig: 109, 98
+  offset: 0, 0
+  index: -1
+05/Blade
+  rotate: false
+  xy: 1, 130
+  size: 74, 142
+  orig: 74, 143
+  offset: 0, 1
+  index: -1
+05/Body
+  rotate: false
+  xy: 423, 121
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+05/Brain
+  rotate: false
+  xy: 423, 84
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+05/Brain_02
+  rotate: false
+  xy: 357, 50
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+05/Brain_03
+  rotate: true
+  xy: 399, 143
+  size: 21, 22
+  orig: 21, 23
+  offset: 0, 1
+  index: -1
+05/Brain_04
+  rotate: false
+  xy: 454, 351
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+05/Brains
+  rotate: false
+  xy: 190, 72
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+05/Collar
+  rotate: true
+  xy: 471, 302
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+05/Eye_Left
+  rotate: false
+  xy: 492, 81
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+05/Eye_Right
+  rotate: false
+  xy: 226, 1
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+05/Eyelid_Center
+  rotate: false
+  xy: 445, 67
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+05/Eyelid_Center_Bottom
+  rotate: true
+  xy: 257, 227
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+05/Eyelid_Left
+  rotate: false
+  xy: 428, 48
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+05/Eyelid_Left_Bottom
+  rotate: true
+  xy: 469, 55
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+05/Eyelid_Right
+  rotate: true
+  xy: 357, 33
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+05/Eyelid_Right_Bottom
+  rotate: false
+  xy: 145, 140
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 145, 151
+  size: 59, 114
+  orig: 59, 114
+  offset: 0, 0
+  index: -1
+05/Leg
+  rotate: false
+  xy: 382, 40
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+05/Metal_ForeArm
+  rotate: false
+  xy: 303, 143
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+05/Metal_arm
+  rotate: false
+  xy: 212, 281
+  size: 58, 130
+  orig: 58, 130
+  offset: 0, 0
+  index: -1
+05/Mouth
+  rotate: true
+  xy: 333, 39
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+05/Tail
+  rotate: true
+  xy: 316, 38
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1

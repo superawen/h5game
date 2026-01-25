@@ -1,0 +1,426 @@
+
+Undead_Md_RadZombie.png
+size: 440,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_R
+  rotate: true
+  xy: 247, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+02/Eyeball
+  rotate: true
+  xy: 2, 10
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+02/Hand_L
+  rotate: false
+  xy: 195, 28
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+03/Hand_L
+  rotate: false
+  xy: 195, 28
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 195, 28
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+02/Helmet_back
+  rotate: false
+  xy: 360, 136
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Helmet_back
+  rotate: false
+  xy: 360, 136
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+02/Leg_L
+  rotate: false
+  xy: 204, 100
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 204, 100
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+02/Leg_R
+  rotate: false
+  xy: 112, 33
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 112, 33
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+02/Tank
+  rotate: true
+  xy: 113, 95
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+Tank
+  rotate: true
+  xy: 113, 95
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+02/Torso
+  rotate: false
+  xy: 132, 409
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 132, 409
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+03/Arm_L
+  rotate: true
+  xy: 311, 103
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+03/Arm_R
+  rotate: false
+  xy: 342, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+04/Arm_R
+  rotate: false
+  xy: 342, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+03/Helmet
+  rotate: false
+  xy: 2, 36
+  size: 108, 62
+  orig: 108, 62
+  offset: 0, 0
+  index: -1
+04/Helmet
+  rotate: false
+  xy: 2, 36
+  size: 108, 62
+  orig: 108, 62
+  offset: 0, 0
+  index: -1
+03/Leg_L
+  rotate: true
+  xy: 247, 42
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+04/Leg_L
+  rotate: true
+  xy: 247, 42
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+03/Leg_R
+  rotate: true
+  xy: 212, 265
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+04/Leg_R
+  rotate: true
+  xy: 212, 265
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+03/Tank
+  rotate: true
+  xy: 274, 256
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+04/Tank
+  rotate: true
+  xy: 274, 256
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+03/Torso
+  rotate: true
+  xy: 2, 100
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+04/Body_mod_01
+  rotate: false
+  xy: 304, 158
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+04/Body_mod_02
+  rotate: false
+  xy: 299, 2
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+04/Hand_L
+  rotate: false
+  xy: 371, 365
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+04/Head
+  rotate: false
+  xy: 274, 437
+  size: 95, 81
+  orig: 114, 81
+  offset: 0, 0
+  index: -1
+05/Arm_L
+  rotate: false
+  xy: 290, 54
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: false
+  xy: 400, 127
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+05/Foot_L
+  rotate: false
+  xy: 365, 223
+  size: 69, 43
+  orig: 69, 43
+  offset: 0, 0
+  index: -1
+05/Foot_R
+  rotate: false
+  xy: 365, 319
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+05/Hand_L
+  rotate: true
+  xy: 262, 103
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+05/Hand_R
+  rotate: false
+  xy: 210, 205
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 113, 273
+  size: 97, 73
+  orig: 120, 89
+  offset: 2, 0
+  index: -1
+05/Helmet
+  rotate: false
+  xy: 132, 348
+  size: 108, 59
+  orig: 108, 59
+  offset: 0, 0
+  index: -1
+05/Jaw
+  rotate: false
+  xy: 113, 143
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+05/Leg_L
+  rotate: true
+  xy: 261, 147
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+05/Leg_R
+  rotate: false
+  xy: 274, 304
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+05/Tank
+  rotate: true
+  xy: 269, 208
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+05/Torso
+  rotate: true
+  xy: 2, 242
+  size: 145, 109
+  orig: 167, 109
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 345, 54
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 382, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Eyeball_01
+  rotate: false
+  xy: 90, 13
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Eyeball_02
+  rotate: false
+  xy: 113, 355
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 360, 178
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 365, 268
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+Glass
+  rotate: true
+  xy: 371, 430
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 201, 143
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 274, 366
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 2, 389
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+Smoke_01
+  rotate: false
+  xy: 113, 372
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Smoke_02
+  rotate: false
+  xy: 111, 13
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Smoke_03
+  rotate: false
+  xy: 360, 113
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Smoke_04
+  rotate: true
+  xy: 242, 361
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+Smoke_05
+  rotate: false
+  xy: 49, 13
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 113, 202
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Robot_To_Factory_Broken.png
+size: 172,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Pipe_01
+  rotate: false
+  xy: 115, 32
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+02/Pipe_L_01
+  rotate: true
+  xy: 67, 24
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+03/Chimney_01
+  rotate: true
+  xy: 129, 58
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+05/Plank
+  rotate: true
+  xy: 69, 104
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+Back
+  rotate: true
+  xy: 143, 114
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Building_01
+  rotate: false
+  xy: 1, 18
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+Building_02
+  rotate: false
+  xy: 45, 22
+  size: 20, 63
+  orig: 20, 63
+  offset: 0, 0
+  index: -1
+Building_03
+  rotate: true
+  xy: 117, 6
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Gear
+  rotate: true
+  xy: 69, 62
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+Plank
+  rotate: true
+  xy: 67, 1
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Screw
+  rotate: false
+  xy: 1, 4
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Tread
+  rotate: false
+  xy: 1, 87
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1

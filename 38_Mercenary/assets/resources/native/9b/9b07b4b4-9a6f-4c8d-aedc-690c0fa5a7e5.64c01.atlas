@@ -1,0 +1,48 @@
+
+V_Fire_Grd_Explosion_02.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Grd_Explosion_02_0001
+  rotate: false
+  xy: 822, 173
+  size: 79, 66
+  orig: 300, 275
+  offset: 121, 13
+  index: -1
+V_Fire_Grd_Explosion_02_0002
+  rotate: true
+  xy: 710, 139
+  size: 100, 109
+  orig: 300, 275
+  offset: 92, 12
+  index: -1
+V_Fire_Grd_Explosion_02_0003
+  rotate: false
+  xy: 272, 62
+  size: 153, 177
+  orig: 300, 275
+  offset: 66, 11
+  index: -1
+V_Fire_Grd_Explosion_02_0004
+  rotate: true
+  xy: 1, 1
+  size: 238, 268
+  orig: 300, 275
+  offset: 22, 0
+  index: -1
+V_Fire_Grd_Explosion_02_0005
+  rotate: false
+  xy: 428, 84
+  size: 133, 155
+  orig: 300, 275
+  offset: 79, 28
+  index: -1
+V_Fire_Grd_Explosion_02_0006
+  rotate: false
+  xy: 564, 138
+  size: 143, 101
+  orig: 300, 275
+  offset: 76, 40
+  index: -1

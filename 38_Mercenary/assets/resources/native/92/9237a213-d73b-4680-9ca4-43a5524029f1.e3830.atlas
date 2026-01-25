@@ -1,0 +1,447 @@
+
+Robot_Md_MissileBot.png
+size: 1009,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Body_back
+  rotate: false
+  xy: 823, 284
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+03/Body_back
+  rotate: false
+  xy: 823, 284
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Body_back
+  rotate: false
+  xy: 823, 284
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+02/Body_top
+  rotate: true
+  xy: 828, 14
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+02/Glow
+  rotate: true
+  xy: 466, 3
+  size: 98, 52
+  orig: 158, 112
+  offset: 30, 30
+  index: -1
+03/Glow
+  rotate: true
+  xy: 466, 3
+  size: 98, 52
+  orig: 158, 112
+  offset: 30, 30
+  index: -1
+04/Glow
+  rotate: true
+  xy: 466, 3
+  size: 98, 52
+  orig: 158, 112
+  offset: 30, 30
+  index: -1
+05/Glow
+  rotate: true
+  xy: 466, 3
+  size: 98, 52
+  orig: 158, 112
+  offset: 30, 30
+  index: -1
+Glow
+  rotate: true
+  xy: 466, 3
+  size: 98, 52
+  orig: 158, 112
+  offset: 30, 30
+  index: -1
+02/Jaw
+  rotate: true
+  xy: 859, 20
+  size: 86, 49
+  orig: 86, 49
+  offset: 0, 0
+  index: -1
+02/Missile_body
+  rotate: true
+  xy: 444, 164
+  size: 229, 115
+  orig: 229, 115
+  offset: 0, 0
+  index: -1
+02/Missile_fin
+  rotate: true
+  xy: 249, 4
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+02/Upper_Arm_L
+  rotate: true
+  xy: 484, 104
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+02/Upper_Arm_R
+  rotate: false
+  xy: 561, 164
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+03/Body_mod
+  rotate: true
+  xy: 910, 79
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+03/Body_mod2
+  rotate: false
+  xy: 674, 232
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+03/Finger_R_01
+  rotate: true
+  xy: 945, 100
+  size: 29, 46
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+04/Finger_R_01
+  rotate: true
+  xy: 945, 100
+  size: 29, 46
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: true
+  xy: 869, 245
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+03/Missile_body
+  rotate: true
+  xy: 314, 102
+  size: 291, 128
+  orig: 292, 128
+  offset: 1, 0
+  index: -1
+03/Missile_fin
+  rotate: true
+  xy: 815, 173
+  size: 108, 37
+  orig: 109, 37
+  offset: 1, 0
+  index: -1
+03/Upper_Arm_L
+  rotate: true
+  xy: 554, 104
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+04/Upper_Arm_L
+  rotate: true
+  xy: 554, 104
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+03/Upper_Arm_R
+  rotate: false
+  xy: 628, 164
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+04/Upper_Arm_R
+  rotate: false
+  xy: 628, 164
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+03/Wheel_R_01
+  rotate: false
+  xy: 290, 4
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+03/Wheel_R_02
+  rotate: false
+  xy: 444, 103
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+03/Wheel_base
+  rotate: false
+  xy: 694, 105
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+04/Arm_R
+  rotate: false
+  xy: 962, 204
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 962, 204
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+04/Body
+  rotate: false
+  xy: 687, 9
+  size: 139, 93
+  orig: 139, 93
+  offset: 0, 0
+  index: -1
+04/Eye_brow
+  rotate: true
+  xy: 851, 108
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+04/Jaw
+  rotate: true
+  xy: 695, 166
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+04/Missile_body
+  rotate: true
+  xy: 173, 65
+  size: 328, 139
+  orig: 328, 139
+  offset: 0, 0
+  index: -1
+04/Missile_fin
+  rotate: true
+  xy: 744, 283
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+04/Spine
+  rotate: false
+  xy: 910, 179
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+05/Spine
+  rotate: false
+  xy: 910, 179
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+04/Wheel_mod
+  rotate: false
+  xy: 910, 345
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+05/Body_Amor
+  rotate: true
+  xy: 561, 229
+  size: 164, 93
+  orig: 164, 93
+  offset: 0, 0
+  index: -1
+05/Eyes
+  rotate: true
+  xy: 656, 229
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: true
+  xy: 656, 229
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+05/Missile_body
+  rotate: true
+  xy: 2, 64
+  size: 329, 169
+  orig: 329, 195
+  offset: 0, 26
+  index: -1
+05/Missile_fin
+  rotate: true
+  xy: 747, 172
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1
+05/Teeth
+  rotate: false
+  xy: 945, 131
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+05/Upper_Arm_L
+  rotate: true
+  xy: 624, 104
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+05/Upper_Arm_R
+  rotate: true
+  xy: 786, 105
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+05/Wheel_mod
+  rotate: false
+  xy: 910, 295
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 656, 254
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+Eye_brow
+  rotate: true
+  xy: 898, 111
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Finger_R_01
+  rotate: false
+  xy: 910, 252
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 962, 162
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 910, 6
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: true
+  xy: 823, 316
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+Missile_body
+  rotate: false
+  xy: 330, 2
+  size: 134, 98
+  orig: 134, 98
+  offset: 0, 0
+  index: -1
+Missile_stick
+  rotate: false
+  xy: 854, 318
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+Missile_top
+  rotate: true
+  xy: 520, 7
+  size: 95, 165
+  orig: 95, 165
+  offset: 0, 0
+  index: -1
+Smoke_01
+  rotate: true
+  xy: 148, 3
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+Smoke_02
+  rotate: true
+  xy: 854, 176
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Smoke_04
+  rotate: true
+  xy: 199, 4
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+Spine
+  rotate: true
+  xy: 945, 256
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+Upper_Arm_R
+  rotate: true
+  xy: 854, 337
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+Wheel_R_01
+  rotate: false
+  xy: 2, 2
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+Wheel_R_02
+  rotate: false
+  xy: 75, 2
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1

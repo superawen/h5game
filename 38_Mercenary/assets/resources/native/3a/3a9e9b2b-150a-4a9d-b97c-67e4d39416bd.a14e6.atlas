@@ -1,0 +1,41 @@
+
+V_Misc_Char_EnergyCharge_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Misc_Char_EnergyCharge_01_0001
+  rotate: false
+  xy: 160, 102
+  size: 83, 186
+  orig: 200, 200
+  offset: 33, 8
+  index: -1
+V_Misc_Char_EnergyCharge_01_0002
+  rotate: false
+  xy: 351, 281
+  size: 127, 197
+  orig: 200, 200
+  offset: 31, 2
+  index: -1
+V_Misc_Char_EnergyCharge_01_0003
+  rotate: false
+  xy: 1, 290
+  size: 166, 188
+  orig: 200, 200
+  offset: 8, 4
+  index: -1
+V_Misc_Char_EnergyCharge_01_0004
+  rotate: false
+  xy: 169, 308
+  size: 180, 170
+  orig: 200, 200
+  offset: 6, 5
+  index: -1
+V_Misc_Char_EnergyCharge_01_0005
+  rotate: false
+  xy: 1, 106
+  size: 157, 182
+  orig: 200, 200
+  offset: 37, 0
+  index: -1

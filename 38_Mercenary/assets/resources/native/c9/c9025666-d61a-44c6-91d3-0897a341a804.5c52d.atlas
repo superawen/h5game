@@ -1,0 +1,629 @@
+
+Medieval_Md_Swordsman.png
+size: 977,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_L
+  rotate: false
+  xy: 830, 254
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+02/Arm_R
+  rotate: false
+  xy: 388, 185
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+02/Armor_bottom
+  rotate: false
+  xy: 284, 183
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+03/Armor_bottom
+  rotate: false
+  xy: 284, 183
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+02/Armor_top
+  rotate: true
+  xy: 584, 252
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+02/Body
+  rotate: false
+  xy: 284, 238
+  size: 88, 121
+  orig: 88, 121
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: false
+  xy: 284, 238
+  size: 88, 121
+  orig: 88, 121
+  offset: 0, 0
+  index: -1
+04/Body
+  rotate: false
+  xy: 284, 238
+  size: 88, 121
+  orig: 88, 121
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 284, 238
+  size: 88, 121
+  orig: 88, 121
+  offset: 0, 0
+  index: -1
+02/Dagger
+  rotate: true
+  xy: 691, 253
+  size: 106, 43
+  orig: 108, 43
+  offset: 0, 0
+  index: -1
+02/Eye_lid
+  rotate: false
+  xy: 2, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+02/Foot_L
+  rotate: true
+  xy: 889, 160
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+02/Foot_R
+  rotate: true
+  xy: 831, 43
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+02/Hair_Bottom
+  rotate: false
+  xy: 501, 167
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+03/Hair_Bottom
+  rotate: false
+  xy: 501, 167
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+04/Hair_Bottom
+  rotate: false
+  xy: 501, 167
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+05/Hair_Bottom
+  rotate: false
+  xy: 501, 167
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+02/Hair_top
+  rotate: false
+  xy: 830, 300
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+04/Hair_top
+  rotate: false
+  xy: 830, 300
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+05/Hair_top
+  rotate: false
+  xy: 830, 300
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+02/Hand_L
+  rotate: false
+  xy: 943, 218
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+02/Hand_R
+  rotate: true
+  xy: 407, 161
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+02/Hip
+  rotate: false
+  xy: 250, 158
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 250, 158
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+02/Leg_L
+  rotate: false
+  xy: 134, 157
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+02/Leg_R
+  rotate: false
+  xy: 416, 2
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+02/Mustache
+  rotate: false
+  xy: 307, 158
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+02/Nose
+  rotate: false
+  xy: 938, 150
+  size: 36, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+02/Sword
+  rotate: false
+  xy: 134, 183
+  size: 48, 176
+  orig: 48, 176
+  offset: 0, 0
+  index: -1
+02/UpperArm_L
+  rotate: false
+  xy: 320, 2
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+02/UpperArm_R
+  rotate: false
+  xy: 104, 2
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+02/face
+  rotate: true
+  xy: 638, 2
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+03/Arm_L
+  rotate: true
+  xy: 831, 3
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+03/Arm_R
+  rotate: false
+  xy: 726, 24
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+03/Armor_top
+  rotate: true
+  xy: 508, 58
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+03/Dagger
+  rotate: true
+  xy: 811, 92
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+03/Eye_lid
+  rotate: false
+  xy: 23, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+04/Eye_lid
+  rotate: false
+  xy: 23, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Eye_lid
+  rotate: false
+  xy: 23, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+03/Hand_L
+  rotate: false
+  xy: 943, 185
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+03/Hand_R
+  rotate: true
+  xy: 436, 161
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+03/Hip
+  rotate: false
+  xy: 263, 4
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+04/Hip
+  rotate: false
+  xy: 263, 4
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+05/Hip
+  rotate: false
+  xy: 263, 4
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+03/Leg_L
+  rotate: false
+  xy: 192, 157
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+03/Leg_R
+  rotate: false
+  xy: 475, 2
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+03/Sword
+  rotate: false
+  xy: 184, 183
+  size: 48, 176
+  orig: 48, 176
+  offset: 0, 0
+  index: -1
+03/UpperArm_L
+  rotate: false
+  xy: 368, 2
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+03/UpperArm_R
+  rotate: false
+  xy: 157, 2
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+03/face
+  rotate: true
+  xy: 889, 302
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+04/Arm_L
+  rotate: true
+  xy: 921, 73
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+04/Arm_R
+  rotate: false
+  xy: 761, 24
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+04/Armor_bottom
+  rotate: false
+  xy: 534, 3
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+05/Armor_bottom
+  rotate: false
+  xy: 534, 3
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+04/Armor_top
+  rotate: true
+  xy: 616, 61
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+04/Cap_bottom
+  rotate: true
+  xy: 294, 32
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+04/Cap_top
+  rotate: false
+  xy: 724, 79
+  size: 85, 102
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+04/Dagger
+  rotate: true
+  xy: 781, 254
+  size: 105, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+04/Foot_L
+  rotate: true
+  xy: 889, 113
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+04/Foot_R
+  rotate: true
+  xy: 876, 59
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+04/Hand_L
+  rotate: false
+  xy: 856, 156
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+04/Hand_R
+  rotate: true
+  xy: 465, 161
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+05/Hand_R
+  rotate: true
+  xy: 465, 161
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+04/Helment
+  rotate: false
+  xy: 701, 183
+  size: 98, 68
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+04/Mustache
+  rotate: false
+  xy: 355, 159
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+04/Sword
+  rotate: false
+  xy: 72, 157
+  size: 60, 202
+  orig: 60, 202
+  offset: 0, 0
+  index: -1
+05/Arm_L
+  rotate: true
+  xy: 921, 33
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: false
+  xy: 796, 24
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+05/Armor_top
+  rotate: false
+  xy: 426, 245
+  size: 107, 114
+  orig: 107, 114
+  offset: 0, 0
+  index: -1
+05/Cap_bottom
+  rotate: false
+  xy: 390, 40
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+05/Cap_top
+  rotate: false
+  xy: 206, 29
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+05/Dagger
+  rotate: true
+  xy: 535, 248
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+05/Eye_glow
+  rotate: true
+  xy: 508, 40
+  size: 16, 11
+  orig: 79, 73
+  offset: 32, 31
+  index: -1
+05/Helment
+  rotate: false
+  xy: 801, 189
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+05/Legarmor_L
+  rotate: false
+  xy: 912, 251
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+05/Legarmor_R
+  rotate: false
+  xy: 889, 207
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+05/Shoulder_R
+  rotate: true
+  xy: 458, 185
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+05/Sword
+  rotate: false
+  xy: 2, 157
+  size: 68, 202
+  orig: 68, 202
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 871, 254
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 423, 185
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Armor_bottom
+  rotate: true
+  xy: 374, 241
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+Armor_top
+  rotate: true
+  xy: 104, 29
+  size: 126, 100
+  orig: 127, 100
+  offset: 1, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 12
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+Dagger
+  rotate: true
+  xy: 736, 253
+  size: 106, 43
+  orig: 108, 43
+  offset: 0, 0
+  index: -1
+Hair_Bottom
+  rotate: false
+  xy: 564, 170
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+Hair_top
+  rotate: false
+  xy: 625, 175
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 234, 183
+  size: 48, 176
+  orig: 48, 176
+  offset: 0, 0
+  index: -1
+UpperArm_L
+  rotate: true
+  xy: 856, 108
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+UpperArm_R
+  rotate: false
+  xy: 210, 2
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1

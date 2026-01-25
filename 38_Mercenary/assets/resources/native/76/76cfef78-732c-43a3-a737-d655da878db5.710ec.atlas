@@ -1,0 +1,69 @@
+
+V_Magic_Char_Portal_01.png
+size: 996,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Magic_Char_Portal_01_0001
+  rotate: false
+  xy: 781, 313
+  size: 74, 74
+  orig: 270, 270
+  offset: 102, 103
+  index: -1
+V_Magic_Char_Portal_01_0002
+  rotate: false
+  xy: 781, 389
+  size: 128, 128
+  orig: 270, 270
+  offset: 75, 76
+  index: -1
+V_Magic_Char_Portal_01_0003
+  rotate: false
+  xy: 507, 14
+  size: 243, 243
+  orig: 270, 270
+  offset: 18, 18
+  index: -1
+V_Magic_Char_Portal_01_0004
+  rotate: false
+  xy: 752, 17
+  size: 243, 243
+  orig: 270, 270
+  offset: 18, 18
+  index: -1
+V_Magic_Char_Portal_01_0005
+  rotate: false
+  xy: 257, 8
+  size: 248, 248
+  orig: 270, 270
+  offset: 15, 16
+  index: -1
+V_Magic_Char_Portal_01_0006
+  rotate: false
+  xy: 1, 1
+  size: 254, 255
+  orig: 270, 270
+  offset: 12, 12
+  index: -1
+V_Magic_Char_Portal_01_0007
+  rotate: false
+  xy: 525, 262
+  size: 254, 255
+  orig: 270, 270
+  offset: 12, 12
+  index: -1
+V_Magic_Char_Portal_01_0008
+  rotate: false
+  xy: 265, 259
+  size: 258, 258
+  orig: 270, 270
+  offset: 10, 11
+  index: -1
+V_Magic_Char_Portal_01_0009
+  rotate: false
+  xy: 1, 258
+  size: 262, 259
+  orig: 270, 270
+  offset: 8, 9
+  index: -1

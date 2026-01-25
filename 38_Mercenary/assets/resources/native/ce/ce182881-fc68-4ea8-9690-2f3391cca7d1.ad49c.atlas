@@ -1,0 +1,83 @@
+
+Medieval_To_Cathedral_Broken.png
+size: 535,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Pillar
+  rotate: true
+  xy: 279, 6
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+03/BlackBacking
+  rotate: true
+  xy: 419, 34
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+04/Statue
+  rotate: true
+  xy: 345, 36
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+04/Window
+  rotate: false
+  xy: 487, 5
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+BlackBacking
+  rotate: false
+  xy: 417, 1
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+Building_01
+  rotate: true
+  xy: 105, 14
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+RoofParts
+  rotate: false
+  xy: 1, 6
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+Stairs
+  rotate: false
+  xy: 279, 27
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+Tower_Bottom
+  rotate: true
+  xy: 345, 1
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+Tower_Top_Bell_Front
+  rotate: true
+  xy: 204, 8
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Tower_Top_Board
+  rotate: true
+  xy: 518, 5
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1

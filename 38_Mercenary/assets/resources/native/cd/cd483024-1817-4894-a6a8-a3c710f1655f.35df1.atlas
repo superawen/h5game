@@ -1,0 +1,76 @@
+
+V_Earth_Grd_ShockwaveCloud_01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Earth_Grd_ShockwaveCloud_01_0001
+  rotate: true
+  xy: 448, 172.5
+  size: 70.5, 43.5
+  orig: 150, 87.5
+  offset: 68, 5
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0002
+  rotate: false
+  xy: 262.5, 194
+  size: 100.5, 49
+  orig: 150, 87.5
+  offset: 42.5, 5
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0003
+  rotate: false
+  xy: 139, 177.5
+  size: 122, 65.5
+  orig: 150, 87.5
+  offset: 18, 4.5
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0004
+  rotate: false
+  xy: 0.5, 160.5
+  size: 137, 82.5
+  orig: 150, 87.5
+  offset: 6, 4
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0005
+  rotate: false
+  xy: 0.5, 84
+  size: 135.5, 75
+  orig: 150, 87.5
+  offset: 8, 4.5
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0006
+  rotate: false
+  xy: 0.5, 2.5
+  size: 79.5, 80
+  orig: 150, 87.5
+  offset: 8.5, 0
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0007
+  rotate: false
+  xy: 81.5, 0.5
+  size: 69, 82
+  orig: 150, 87.5
+  offset: 5, 1.5
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0008
+  rotate: true
+  xy: 139, 101.5
+  size: 74.5, 81
+  orig: 150, 87.5
+  offset: 2.5, 5
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0009
+  rotate: true
+  xy: 364.5, 181
+  size: 62, 82
+  orig: 150, 87.5
+  offset: 6, 5
+  index: -1
+V_Earth_Grd_ShockwaveCloud_01_0010
+  rotate: false
+  xy: 221.5, 126
+  size: 47, 50
+  orig: 150, 87.5
+  offset: 10.5, 33.5
+  index: -1

@@ -1,0 +1,62 @@
+
+V_Air_Grd_Tornado_01_A_Tornado.png
+size: 987,954
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Air_Grd_Tornado_01_A_0001
+  rotate: true
+  xy: 623, 703
+  size: 250, 363
+  orig: 300, 400
+  offset: 32, 8
+  index: -1
+V_Air_Grd_Tornado_01_A_0002
+  rotate: true
+  xy: 251, 671
+  size: 282, 370
+  orig: 300, 400
+  offset: 3, 7
+  index: -1
+V_Air_Grd_Tornado_01_A_0003
+  rotate: false
+  xy: 380, 281
+  size: 264, 388
+  orig: 300, 400
+  offset: 10, 8
+  index: -1
+V_Air_Grd_Tornado_01_A_0004
+  rotate: false
+  xy: 646, 327
+  size: 265, 374
+  orig: 300, 400
+  offset: 7, 10
+  index: -1
+V_Air_Grd_Tornado_01_A_0005
+  rotate: false
+  xy: 1, 563
+  size: 248, 390
+  orig: 300, 400
+  offset: 3, 10
+  index: -1
+V_Air_Grd_Tornado_01_A_0006
+  rotate: true
+  xy: 1, 7
+  size: 259, 376
+  orig: 300, 400
+  offset: 13, 10
+  index: -1
+V_Air_Grd_Tornado_01_A_0007
+  rotate: true
+  xy: 380, 1
+  size: 278, 377
+  orig: 300, 400
+  offset: 2, 10
+  index: -1
+V_Air_Grd_Tornado_01_A_0008
+  rotate: true
+  xy: 1, 268
+  size: 293, 377
+  orig: 300, 400
+  offset: 0, 9
+  index: -1

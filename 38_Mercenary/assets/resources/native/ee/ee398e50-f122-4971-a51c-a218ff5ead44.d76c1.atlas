@@ -1,0 +1,97 @@
+
+V_Fire_Grd_Smoke_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Grd_Smoke_01_0001
+  rotate: true
+  xy: 206, 290
+  size: 90, 167
+  orig: 110, 190
+  offset: 5, 7
+  index: -1
+V_Fire_Grd_Smoke_01_0002
+  rotate: true
+  xy: 194, 95
+  size: 92, 163
+  orig: 110, 190
+  offset: 8, 9
+  index: -1
+V_Fire_Grd_Smoke_01_0003
+  rotate: true
+  xy: 1, 27
+  size: 97, 162
+  orig: 110, 190
+  offset: 7, 11
+  index: -1
+V_Fire_Grd_Smoke_01_0004
+  rotate: false
+  xy: 102, 313
+  size: 101, 166
+  orig: 110, 190
+  offset: 4, 12
+  index: -1
+V_Fire_Grd_Smoke_01_0005
+  rotate: true
+  xy: 194, 190
+  size: 97, 162
+  orig: 110, 190
+  offset: 8, 12
+  index: -1
+V_Fire_Grd_Smoke_01_0006
+  rotate: false
+  xy: 100, 127
+  size: 91, 160
+  orig: 110, 190
+  offset: 10, 13
+  index: -1
+V_Fire_Grd_Smoke_01_0007
+  rotate: true
+  xy: 336, 1
+  size: 91, 161
+  orig: 110, 190
+  offset: 10, 13
+  index: -1
+V_Fire_Grd_Smoke_01_0008
+  rotate: false
+  xy: 376, 144
+  size: 92, 166
+  orig: 110, 190
+  offset: 10, 12
+  index: -1
+V_Fire_Grd_Smoke_01_0009
+  rotate: false
+  xy: 380, 313
+  size: 93, 166
+  orig: 110, 190
+  offset: 10, 12
+  index: -1
+V_Fire_Grd_Smoke_01_0010
+  rotate: false
+  xy: 1, 127
+  size: 96, 175
+  orig: 110, 190
+  offset: 7, 10
+  index: -1
+V_Fire_Grd_Smoke_01_0011
+  rotate: true
+  xy: 206, 383
+  size: 96, 171
+  orig: 110, 190
+  offset: 6, 11
+  index: -1
+V_Fire_Grd_Smoke_01_0012
+  rotate: false
+  xy: 1, 305
+  size: 98, 174
+  orig: 110, 190
+  offset: 4, 9
+  index: -1
+V_Fire_Grd_Smoke_01_0013
+  rotate: true
+  xy: 166, 1
+  size: 91, 167
+  orig: 110, 190
+  offset: 8, 9
+  index: -1

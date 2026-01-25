@@ -1,0 +1,41 @@
+
+V_Physical_Char_Impact_01.png
+size: 746,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Physical_Char_Impact_01_0001
+  rotate: false
+  xy: 534, 7
+  size: 109, 167
+  orig: 198, 203
+  offset: 0, 16
+  index: -1
+V_Physical_Char_Impact_01_0002
+  rotate: false
+  xy: 391, 8
+  size: 141, 166
+  orig: 198, 203
+  offset: 1, 25
+  index: -1
+V_Physical_Char_Impact_01_0003
+  rotate: true
+  xy: 200, 10
+  size: 164, 189
+  orig: 198, 203
+  offset: 2, 8
+  index: -1
+V_Physical_Char_Impact_01_0004
+  rotate: true
+  xy: 1, 1
+  size: 173, 197
+  orig: 198, 203
+  offset: 3, 5
+  index: -1
+V_Physical_Char_Impact_01_0005
+  rotate: true
+  xy: 645, 85
+  size: 89, 100
+  orig: 198, 203
+  offset: 13, 44
+  index: -1

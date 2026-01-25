@@ -1,0 +1,356 @@
+
+Medieval_Md_BlackKnight.png
+size: 977,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Dagger
+  rotate: true
+  xy: 221, 6
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+02/Head
+  rotate: false
+  xy: 384, 143
+  size: 80, 122
+  orig: 80, 122
+  offset: 0, 0
+  index: -1
+02/Sword
+  rotate: false
+  xy: 332, 138
+  size: 50, 127
+  orig: 50, 127
+  offset: 0, 0
+  index: -1
+03/Arm_L
+  rotate: false
+  xy: 424, 2
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+03/Arm_R
+  rotate: true
+  xy: 708, 2
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+03/Belt
+  rotate: true
+  xy: 541, 46
+  size: 95, 33
+  orig: 95, 33
+  offset: 0, 0
+  index: -1
+03/Bottom
+  rotate: false
+  xy: 79, 4
+  size: 85, 36
+  orig: 85, 36
+  offset: 0, 0
+  index: -1
+03/Flap
+  rotate: true
+  xy: 332, 110
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+03/Hand_L
+  rotate: true
+  xy: 284, 6
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+03/Head
+  rotate: false
+  xy: 466, 143
+  size: 80, 122
+  orig: 80, 122
+  offset: 0, 0
+  index: -1
+03/Leg_L
+  rotate: true
+  xy: 914, 218
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+03/Neck
+  rotate: true
+  xy: 718, 172
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+03/Pommel
+  rotate: true
+  xy: 228, 42
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+03/Shoulder_R
+  rotate: true
+  xy: 840, 213
+  size: 52, 72
+  orig: 53, 73
+  offset: 1, 0
+  index: -1
+03/Sword
+  rotate: false
+  xy: 278, 110
+  size: 52, 155
+  orig: 52, 155
+  offset: 0, 0
+  index: -1
+03/Torso
+  rotate: true
+  xy: 739, 48
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+03/Torso_Back
+  rotate: true
+  xy: 687, 143
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+04/Belt
+  rotate: true
+  xy: 385, 46
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+04/Gauntlet_Detail
+  rotate: false
+  xy: 784, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+04/Golden_Sleeve
+  rotate: true
+  xy: 630, 143
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+04/Head
+  rotate: false
+  xy: 187, 108
+  size: 89, 157
+  orig: 89, 157
+  offset: 0, 0
+  index: -1
+04/Shoulder_L
+  rotate: true
+  xy: 897, 66
+  size: 49, 67
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+04/Shoulder_R
+  rotate: false
+  xy: 777, 193
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+04/Sword_Details_1
+  rotate: false
+  xy: 45, 3
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+04/Sword_Details_2
+  rotate: true
+  xy: 784, 16
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+05/Arm_L
+  rotate: false
+  xy: 914, 171
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+05/Arm_R
+  rotate: true
+  xy: 840, 159
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+05/Belt
+  rotate: true
+  xy: 442, 46
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+05/Elbow_R
+  rotate: true
+  xy: 879, 17
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+05/Flap
+  rotate: false
+  xy: 914, 117
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+05/Head
+  rotate: false
+  xy: 99, 95
+  size: 86, 170
+  orig: 106, 170
+  offset: 0, 0
+  index: -1
+05/Leg_L
+  rotate: false
+  xy: 827, 2
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+05/Shoulder_L
+  rotate: false
+  xy: 827, 90
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+05/Shoulder_R
+  rotate: false
+  xy: 630, 166
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+05/Torso
+  rotate: true
+  xy: 650, 48
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+05/Weapon
+  rotate: false
+  xy: 2, 42
+  size: 95, 223
+  orig: 95, 223
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: false
+  xy: 166, 5
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 531, 5
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: false
+  xy: 607, 13
+  size: 99, 32
+  orig: 99, 32
+  offset: 0, 0
+  index: -1
+Black_eye
+  rotate: false
+  xy: 775, 152
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: true
+  xy: 496, 46
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+Elbow_L
+  rotate: true
+  xy: 2, 2
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Elbow_R
+  rotate: false
+  xy: 380, 2
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 741, 143
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 548, 143
+  size: 80, 122
+  orig: 80, 122
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 319, 2
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Pommel
+  rotate: false
+  xy: 315, 45
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+Shoulder_R
+  rotate: false
+  xy: 486, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: true
+  xy: 99, 42
+  size: 51, 127
+  orig: 51, 127
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: true
+  xy: 576, 47
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1

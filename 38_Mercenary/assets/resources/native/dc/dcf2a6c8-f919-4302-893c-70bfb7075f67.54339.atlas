@@ -1,0 +1,811 @@
+
+Invaders_He_VoidLord.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Antenna_side
+  rotate: false
+  xy: 577, 562
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+02/Body_plate_01
+  rotate: false
+  xy: 612, 350
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+02/Body_plate_02
+  rotate: false
+  xy: 780, 827
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+02/Body_plate_03
+  rotate: false
+  xy: 530, 321
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+02/Body_plate_04
+  rotate: true
+  xy: 457, 481
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+02/Body_side01
+  rotate: true
+  xy: 264, 127
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+02/Body_side02
+  rotate: true
+  xy: 770, 803
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+02/Body_side_L
+  rotate: false
+  xy: 409, 307
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+02/Drone_01
+  rotate: true
+  xy: 1, 2
+  size: 66, 120
+  orig: 78, 145
+  offset: 0, 25
+  index: -1
+02/Engine_mod01
+  rotate: false
+  xy: 611, 382
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+02/Engine_mod02
+  rotate: true
+  xy: 264, 211
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+02/Eye_base_02
+  rotate: false
+  xy: 270, 242
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+02/Eye_lid_02
+  rotate: false
+  xy: 218, 94
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+02/Hand_L
+  rotate: false
+  xy: 627, 873
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+02/Hand_R
+  rotate: true
+  xy: 543, 428
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+03/Antenna_main
+  rotate: false
+  xy: 388, 676
+  size: 100, 74
+  orig: 148, 120
+  offset: 24, 22
+  index: -1
+03/Antenna_side
+  rotate: false
+  xy: 449, 308
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+03/Antenna_side_L
+  rotate: false
+  xy: 264, 164
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+03/Body_base
+  rotate: false
+  xy: 1, 860
+  size: 237, 163
+  orig: 237, 163
+  offset: 0, 0
+  index: -1
+03/Body_plate_04
+  rotate: false
+  xy: 374, 499
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+03/Body_plate_05
+  rotate: true
+  xy: 555, 382
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+03/Body_side_R
+  rotate: false
+  xy: 244, 407
+  size: 78, 78
+  orig: 102, 94
+  offset: 15, 10
+  index: -1
+03/Drone_01
+  rotate: true
+  xy: 461, 604
+  size: 66, 120
+  orig: 78, 145
+  offset: 0, 25
+  index: -1
+03/Drone_02
+  rotate: false
+  xy: 1, 70
+  size: 77, 143
+  orig: 90, 168
+  offset: 6, 25
+  index: -1
+03/Engine_mod01
+  rotate: false
+  xy: 235, 1
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+03/Engine_mod02
+  rotate: false
+  xy: 308, 373
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+03/Eye_base_01
+  rotate: false
+  xy: 216, 223
+  size: 52, 84
+  orig: 52, 84
+  offset: 0, 0
+  index: -1
+03/Eye_base_02
+  rotate: false
+  xy: 322, 243
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+03/Eye_base_03
+  rotate: true
+  xy: 177, 309
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+03/Eye_close_01
+  rotate: false
+  xy: 562, 323
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+03/Eye_close_02
+  rotate: false
+  xy: 494, 295
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+03/Eye_close_03
+  rotate: false
+  xy: 562, 261
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+03/Eye_lid_01
+  rotate: true
+  xy: 235, 45
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+03/Eye_lid_02
+  rotate: true
+  xy: 603, 821
+  size: 55, 22
+  orig: 55, 22
+  offset: 0, 0
+  index: -1
+03/Eye_lid_03
+  rotate: true
+  xy: 272, 49
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+03/Gun_glow_01
+  rotate: true
+  xy: 122, 215
+  size: 90, 92
+  orig: 141, 139
+  offset: 26, 23
+  index: -1
+03/Hand_L
+  rotate: false
+  xy: 727, 886
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+03/Hand_L_02
+  rotate: false
+  xy: 494, 323
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+03/Hand_R
+  rotate: true
+  xy: 252, 310
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+03/Hand_R_02
+  rotate: true
+  xy: 961, 872
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+03/Head_base
+  rotate: false
+  xy: 479, 933
+  size: 187, 90
+  orig: 187, 90
+  offset: 0, 0
+  index: -1
+03/mouth
+  rotate: false
+  xy: 479, 878
+  size: 146, 53
+  orig: 146, 53
+  offset: 0, 0
+  index: -1
+04/Antenna_back
+  rotate: false
+  xy: 530, 293
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+05/Antenna_back
+  rotate: false
+  xy: 530, 293
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+04/Antenna_main
+  rotate: false
+  xy: 814, 948
+  size: 120, 75
+  orig: 166, 122
+  offset: 24, 23
+  index: -1
+04/Body_circle
+  rotate: false
+  xy: 370, 583
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+04/Body_vent_01
+  rotate: false
+  xy: 312, 113
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+04/Engine_main
+  rotate: true
+  xy: 80, 91
+  size: 122, 59
+  orig: 122, 59
+  offset: 0, 0
+  index: -1
+04/Eye_base_04
+  rotate: true
+  xy: 190, 451
+  size: 94, 44
+  orig: 118, 70
+  offset: 11, 11
+  index: -1
+04/Eye_glow_01
+  rotate: true
+  xy: 412, 223
+  size: 26, 36
+  orig: 66, 74
+  offset: 20, 19
+  index: -1
+04/Eye_glow_02
+  rotate: false
+  xy: 989, 867
+  size: 31, 30
+  orig: 66, 72
+  offset: 16, 18
+  index: -1
+04/Eye_glow_03
+  rotate: true
+  xy: 310, 87
+  size: 24, 28
+  orig: 66, 71
+  offset: 19, 20
+  index: -1
+04/Flame_01
+  rotate: true
+  xy: 453, 357
+  size: 28, 60
+  orig: 79, 113
+  offset: 26, 26
+  index: -1
+04/Flame_02
+  rotate: false
+  xy: 611, 411
+  size: 26, 69
+  orig: 78, 122
+  offset: 26, 26
+  index: -1
+04/Flame_03
+  rotate: true
+  xy: 382, 363
+  size: 24, 69
+  orig: 76, 122
+  offset: 26, 26
+  index: -1
+04/Flame_04
+  rotate: true
+  xy: 308, 379
+  size: 25, 72
+  orig: 77, 125
+  offset: 26, 26
+  index: -1
+04/Gun_glow_01
+  rotate: true
+  xy: 141, 1
+  size: 90, 92
+  orig: 140, 139
+  offset: 24, 23
+  index: -1
+04/Hand_R_02
+  rotate: false
+  xy: 823, 892
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+04/Mouth_detail
+  rotate: true
+  xy: 583, 627
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+04/Pipe
+  rotate: true
+  xy: 244, 364
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+04/body_mod01
+  rotate: true
+  xy: 374, 240
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+04/body_mod02
+  rotate: true
+  xy: 324, 406
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+05/Antenna_main
+  rotate: true
+  xy: 141, 93
+  size: 120, 75
+  orig: 166, 122
+  offset: 24, 23
+  index: -1
+05/Antenna_side
+  rotate: false
+  xy: 627, 821
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+05/Antenna_side_L
+  rotate: false
+  xy: 727, 833
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+05/Body_addon
+  rotate: false
+  xy: 461, 562
+  size: 114, 40
+  orig: 114, 40
+  offset: 0, 0
+  index: -1
+05/Body_addon_02
+  rotate: false
+  xy: 374, 298
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+05/Body_base
+  rotate: false
+  xy: 1, 695
+  size: 237, 163
+  orig: 237, 163
+  offset: 0, 0
+  index: -1
+05/Body_circle
+  rotate: true
+  xy: 490, 672
+  size: 103, 105
+  orig: 129, 138
+  offset: 22, 14
+  index: -1
+05/Body_glow
+  rotate: false
+  xy: 1, 547
+  size: 220, 146
+  orig: 273, 199
+  offset: 26, 27
+  index: -1
+05/Body_plate_04
+  rotate: true
+  xy: 236, 487
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+05/Body_plate_05
+  rotate: false
+  xy: 681, 822
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+05/Body_side_R
+  rotate: true
+  xy: 936, 945
+  size: 78, 87
+  orig: 102, 94
+  offset: 15, 1
+  index: -1
+05/Body_vent_01
+  rotate: false
+  xy: 301, 60
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+05/Drone_01
+  rotate: false
+  xy: 223, 572
+  size: 66, 121
+  orig: 78, 145
+  offset: 0, 24
+  index: -1
+05/Drone_02
+  rotate: true
+  xy: 668, 946
+  size: 77, 144
+  orig: 90, 168
+  offset: 6, 24
+  index: -1
+05/Drone_03
+  rotate: false
+  xy: 291, 576
+  size: 77, 118
+  orig: 89, 145
+  offset: 0, 27
+  index: -1
+05/Engine_main
+  rotate: false
+  xy: 479, 817
+  size: 122, 59
+  orig: 122, 59
+  offset: 0, 0
+  index: -1
+05/Eye_base_01
+  rotate: false
+  xy: 320, 490
+  size: 52, 84
+  orig: 52, 84
+  offset: 0, 0
+  index: -1
+05/Eye_base_02
+  rotate: false
+  xy: 675, 878
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+05/Eye_base_03
+  rotate: true
+  xy: 382, 444
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+05/Eye_base_04
+  rotate: true
+  xy: 218, 127
+  size: 94, 44
+  orig: 118, 70
+  offset: 11, 11
+  index: -1
+05/Eye_close_01
+  rotate: false
+  xy: 493, 260
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+05/Eye_close_02
+  rotate: false
+  xy: 925, 874
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+05/Eye_glow_01
+  rotate: false
+  xy: 562, 285
+  size: 26, 36
+  orig: 66, 74
+  offset: 20, 19
+  index: -1
+05/Eye_glow_02
+  rotate: true
+  xy: 309, 172
+  size: 31, 30
+  orig: 66, 72
+  offset: 16, 18
+  index: -1
+05/Eye_glow_03
+  rotate: true
+  xy: 301, 34
+  size: 24, 28
+  orig: 66, 71
+  offset: 19, 20
+  index: -1
+05/Eye_lid_01
+  rotate: false
+  xy: 270, 205
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+05/Eye_lid_02
+  rotate: false
+  xy: 555, 358
+  size: 55, 22
+  orig: 55, 22
+  offset: 0, 0
+  index: -1
+05/Gun_glow_01
+  rotate: false
+  xy: 1, 335
+  size: 119, 118
+  orig: 142, 138
+  offset: 15, 8
+  index: -1
+05/Hand_L
+  rotate: false
+  xy: 775, 886
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+05/Hand_R
+  rotate: false
+  xy: 320, 311
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+05/Hand_R_02
+  rotate: false
+  xy: 874, 892
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+05/Head_base
+  rotate: false
+  xy: 240, 752
+  size: 234, 106
+  orig: 234, 106
+  offset: 0, 0
+  index: -1
+05/Pipe
+  rotate: true
+  xy: 925, 902
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+05/mouth
+  rotate: false
+  xy: 240, 696
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+Antenna_main
+  rotate: true
+  xy: 177, 364
+  size: 85, 65
+  orig: 130, 108
+  offset: 23, 23
+  index: -1
+Body_base
+  rotate: false
+  xy: 240, 860
+  size: 237, 163
+  orig: 237, 163
+  offset: 0, 0
+  index: -1
+Body_side_L
+  rotate: false
+  xy: 412, 251
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+Body_side_R
+  rotate: false
+  xy: 541, 482
+  size: 78, 78
+  orig: 102, 94
+  offset: 15, 10
+  index: -1
+Engine_main
+  rotate: false
+  xy: 476, 777
+  size: 122, 38
+  orig: 122, 38
+  offset: 0, 0
+  index: -1
+Eye_base_01
+  rotate: true
+  xy: 457, 427
+  size: 52, 84
+  orig: 52, 84
+  offset: 0, 0
+  index: -1
+Eye_base_03
+  rotate: true
+  xy: 382, 389
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+Eye_close_01
+  rotate: true
+  xy: 271, 95
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Eye_close_02
+  rotate: false
+  xy: 526, 261
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Eye_close_03
+  rotate: true
+  xy: 312, 140
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Eye_lid_01
+  rotate: true
+  xy: 452, 260
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Eye_lid_03
+  rotate: false
+  xy: 727, 804
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+Gun_glow_01
+  rotate: false
+  xy: 1, 215
+  size: 119, 118
+  orig: 134, 134
+  offset: 7, 8
+  index: -1
+Hand_L
+  rotate: false
+  xy: 989, 899
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 515, 356
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Head_base
+  rotate: false
+  xy: 1, 455
+  size: 187, 90
+  orig: 187, 90
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 457, 387
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+Tongue_02
+  rotate: true
+  xy: 272, 23
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 122, 307
+  size: 146, 53
+  orig: 146, 53
+  offset: 0, 0
+  index: -1

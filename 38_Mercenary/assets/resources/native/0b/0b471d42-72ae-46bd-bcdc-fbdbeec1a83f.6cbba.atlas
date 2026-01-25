@@ -1,0 +1,279 @@
+
+Robot_Md_Thresher.png
+size: 568,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Helmet
+  rotate: true
+  xy: 307, 470
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+02/Saw
+  rotate: true
+  xy: 172, 171
+  size: 166, 165
+  orig: 166, 165
+  offset: 0, 0
+  index: -1
+03/Arm_L_Full
+  rotate: false
+  xy: 339, 418
+  size: 129, 100
+  orig: 129, 100
+  offset: 0, 0
+  index: -1
+04/Arm_L_Full
+  rotate: false
+  xy: 339, 418
+  size: 129, 100
+  orig: 129, 100
+  offset: 0, 0
+  index: -1
+03/Body
+  rotate: true
+  xy: 471, 245
+  size: 67, 74
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+03/Body_back
+  rotate: false
+  xy: 547, 275
+  size: 19, 37
+  orig: 20, 37
+  offset: 1, 0
+  index: -1
+03/Head
+  rotate: true
+  xy: 471, 63
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+03/Helmet
+  rotate: true
+  xy: 540, 133
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+03/Helmet_buckle
+  rotate: true
+  xy: 307, 427
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+03/Saw
+  rotate: false
+  xy: 304, 4
+  size: 165, 165
+  orig: 166, 165
+  offset: 1, 0
+  index: -1
+04/Body
+  rotate: true
+  xy: 339, 248
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+04/Chest
+  rotate: false
+  xy: 471, 120
+  size: 67, 58
+  orig: 93, 81
+  offset: 0, 13
+  index: -1
+04/Chest_back
+  rotate: true
+  xy: 551, 351
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+04/Hat
+  rotate: true
+  xy: 415, 276
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+04/Helmet_buckle
+  rotate: false
+  xy: 283, 388
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+04/Saw
+  rotate: true
+  xy: 2, 2
+  size: 164, 163
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+04/Shade
+  rotate: false
+  xy: 245, 432
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+05/Arm_L_Full
+  rotate: true
+  xy: 167, 11
+  size: 155, 135
+  orig: 155, 135
+  offset: 0, 0
+  index: -1
+05/Body_back
+  rotate: true
+  xy: 233, 386
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+05/Chest
+  rotate: false
+  xy: 471, 314
+  size: 78, 59
+  orig: 101, 91
+  offset: 0, 14
+  index: -1
+05/Chest_back
+  rotate: true
+  xy: 551, 327
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+05/Hat
+  rotate: false
+  xy: 415, 171
+  size: 42, 58
+  orig: 42, 60
+  offset: 0, 1
+  index: -1
+05/Head
+  rotate: true
+  xy: 471, 6
+  size: 55, 61
+  orig: 56, 61
+  offset: 1, 0
+  index: -1
+05/Helmet
+  rotate: true
+  xy: 534, 28
+  size: 49, 27
+  orig: 96, 87
+  offset: 13, 33
+  index: -1
+05/Saw
+  rotate: false
+  xy: 2, 339
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+05/Shade
+  rotate: false
+  xy: 245, 475
+  size: 60, 43
+  orig: 61, 43
+  offset: 1, 0
+  index: -1
+05/Smoke_01
+  rotate: false
+  xy: 469, 180
+  size: 97, 63
+  orig: 165, 131
+  offset: 34, 34
+  index: -1
+05/Smoke_02
+  rotate: true
+  xy: 471, 375
+  size: 143, 90
+  orig: 211, 158
+  offset: 34, 34
+  index: -1
+Antenna
+  rotate: true
+  xy: 415, 231
+  size: 43, 52
+  orig: 44, 52
+  offset: 1, 0
+  index: -1
+Arm_L_Full
+  rotate: false
+  xy: 339, 316
+  size: 129, 100
+  orig: 129, 100
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 339, 176
+  size: 67, 74
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+Feet_01
+  rotate: false
+  xy: 182, 370
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+Feet_02
+  rotate: false
+  xy: 232, 341
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+Feet_03
+  rotate: false
+  xy: 282, 341
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 182, 463
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 182, 415
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Helmet_buckle
+  rotate: false
+  xy: 182, 341
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 534, 79
+  size: 28, 39
+  orig: 29, 39
+  offset: 1, 0
+  index: -1
+Saw
+  rotate: true
+  xy: 2, 168
+  size: 169, 168
+  orig: 170, 169
+  offset: 1, 0
+  index: -1

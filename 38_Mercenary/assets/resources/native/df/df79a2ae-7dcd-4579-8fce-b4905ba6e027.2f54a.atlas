@@ -1,0 +1,608 @@
+
+Medieval_To_Castle.png
+size: 962,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Balcony
+  rotate: true
+  xy: 700, 239
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+03/Balcony
+  rotate: true
+  xy: 700, 239
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+02/Brick_tower-main_01
+  rotate: true
+  xy: 847, 4
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+03/Brick_tower-main_01
+  rotate: true
+  xy: 847, 4
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+04/Brick_tower-main_01
+  rotate: true
+  xy: 847, 4
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+05/Brick_tower-main_01
+  rotate: true
+  xy: 847, 4
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+02/Brick_tower-main_02
+  rotate: true
+  xy: 942, 556
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+03/Brick_tower-main_02
+  rotate: true
+  xy: 942, 556
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+04/Brick_tower-main_02
+  rotate: true
+  xy: 942, 556
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+05/Brick_tower-main_02
+  rotate: true
+  xy: 942, 556
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+02/Brick_tower-main_03
+  rotate: true
+  xy: 922, 140
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+03/Brick_tower-main_03
+  rotate: true
+  xy: 922, 140
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+04/Brick_tower-main_03
+  rotate: true
+  xy: 922, 140
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+05/Brick_tower-main_03
+  rotate: true
+  xy: 922, 140
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+02/Brick_tower-main_04
+  rotate: false
+  xy: 915, 253
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+03/Brick_tower-main_04
+  rotate: false
+  xy: 915, 253
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+04/Brick_tower-main_04
+  rotate: false
+  xy: 915, 253
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+05/Brick_tower-main_04
+  rotate: false
+  xy: 915, 253
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+02/Brick_tower-top_01
+  rotate: false
+  xy: 789, 3
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+03/Brick_tower-top_01
+  rotate: false
+  xy: 789, 3
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+04/Brick_tower-top_01
+  rotate: false
+  xy: 789, 3
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+05/Brick_tower-top_01
+  rotate: false
+  xy: 789, 3
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+02/Brick_tower-top_02
+  rotate: true
+  xy: 925, 102
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+03/Brick_tower-top_02
+  rotate: true
+  xy: 925, 102
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+04/Brick_tower-top_02
+  rotate: true
+  xy: 925, 102
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+05/Brick_tower-top_02
+  rotate: true
+  xy: 925, 102
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+02/Brick_tower-top_03
+  rotate: false
+  xy: 922, 174
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+03/Brick_tower-top_03
+  rotate: false
+  xy: 922, 174
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+04/Brick_tower-top_03
+  rotate: false
+  xy: 922, 174
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+05/Brick_tower-top_03
+  rotate: false
+  xy: 922, 174
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+02/Bridge
+  rotate: false
+  xy: 2, 7
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+03/Bridge
+  rotate: false
+  xy: 2, 7
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+Bridge
+  rotate: false
+  xy: 2, 7
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+02/Chain
+  rotate: false
+  xy: 850, 156
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+03/Chain
+  rotate: false
+  xy: 850, 156
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+04/Chain
+  rotate: false
+  xy: 850, 156
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+05/Chain
+  rotate: false
+  xy: 850, 156
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+02/Front-Door
+  rotate: false
+  xy: 455, 426
+  size: 185, 156
+  orig: 185, 156
+  offset: 0, 0
+  index: -1
+Front-Door
+  rotate: false
+  xy: 455, 426
+  size: 185, 156
+  orig: 185, 156
+  offset: 0, 0
+  index: -1
+02/Front-Sign
+  rotate: false
+  xy: 448, 351
+  size: 144, 73
+  orig: 144, 73
+  offset: 0, 0
+  index: -1
+02/Rock_L
+  rotate: false
+  xy: 779, 121
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+03/Rock_L
+  rotate: false
+  xy: 779, 121
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+02/Rock_R
+  rotate: false
+  xy: 642, 443
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+03/Rock_R
+  rotate: false
+  xy: 642, 443
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+04/Rock_R
+  rotate: false
+  xy: 642, 443
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+02/front-wood-window
+  rotate: false
+  xy: 718, 483
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+front-wood-window
+  rotate: false
+  xy: 718, 483
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+03/Front-Door
+  rotate: true
+  xy: 354, 157
+  size: 185, 156
+  orig: 185, 156
+  offset: 0, 0
+  index: -1
+03/Front-Sign
+  rotate: false
+  xy: 594, 351
+  size: 144, 73
+  orig: 144, 73
+  offset: 0, 0
+  index: -1
+03/Statue_bottom_R
+  rotate: true
+  xy: 740, 355
+  size: 70, 125
+  orig: 70, 125
+  offset: 0, 0
+  index: -1
+03/Statue_top_R
+  rotate: true
+  xy: 867, 364
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+03/front-wood-window
+  rotate: false
+  xy: 606, 237
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+04/Balcony
+  rotate: false
+  xy: 455, 9
+  size: 155, 146
+  orig: 155, 146
+  offset: 0, 0
+  index: -1
+04/Bridge
+  rotate: false
+  xy: 153, 7
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+04/Flag
+  rotate: true
+  xy: 903, 491
+  size: 91, 37
+  orig: 91, 37
+  offset: 0, 0
+  index: -1
+04/Rock_L
+  rotate: true
+  xy: 512, 158
+  size: 68, 138
+  orig: 68, 138
+  offset: 0, 0
+  index: -1
+05/Rock_L
+  rotate: true
+  xy: 512, 158
+  size: 68, 138
+  orig: 68, 138
+  offset: 0, 0
+  index: -1
+04/Shield
+  rotate: true
+  xy: 812, 490
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+04/Spike_R_01
+  rotate: true
+  xy: 718, 427
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+05/Spike_R_01
+  rotate: true
+  xy: 718, 427
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+04/Statue_bottom_R
+  rotate: true
+  xy: 652, 164
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+05/Statue_bottom_R
+  rotate: true
+  xy: 652, 164
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+04/Tower_Full
+  rotate: false
+  xy: 2, 89
+  size: 350, 493
+  orig: 350, 493
+  offset: 0, 0
+  index: -1
+05/Tower_Full
+  rotate: false
+  xy: 2, 89
+  size: 350, 493
+  orig: 350, 493
+  offset: 0, 0
+  index: -1
+04/front-wood-window
+  rotate: false
+  xy: 354, 344
+  size: 92, 121
+  orig: 92, 121
+  offset: 0, 0
+  index: -1
+05/Bridge
+  rotate: false
+  xy: 304, 7
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+05/Door_Glow_01
+  rotate: false
+  xy: 354, 467
+  size: 98, 115
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+05/Door_Glow_02
+  rotate: true
+  xy: 757, 52
+  size: 67, 100
+  orig: 100, 107
+  offset: 0, 1
+  index: -1
+05/Fire_01
+  rotate: false
+  xy: 921, 343
+  size: 37, 53
+  orig: 89, 106
+  offset: 26, 26
+  index: -1
+05/Fire_02
+  rotate: false
+  xy: 857, 228
+  size: 47, 63
+  orig: 88, 108
+  offset: 20, 23
+  index: -1
+05/Fire_03
+  rotate: true
+  xy: 793, 428
+  size: 53, 64
+  orig: 94, 108
+  offset: 20, 20
+  index: -1
+05/Flag
+  rotate: true
+  xy: 923, 398
+  size: 91, 37
+  orig: 91, 37
+  offset: 0, 0
+  index: -1
+05/Shade_side
+  rotate: true
+  xy: 612, 4
+  size: 24, 117
+  orig: 24, 117
+  offset: 0, 0
+  index: -1
+05/Shield_01
+  rotate: false
+  xy: 612, 30
+  size: 72, 126
+  orig: 72, 126
+  offset: 0, 0
+  index: -1
+05/Shield_02
+  rotate: true
+  xy: 354, 89
+  size: 66, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+05/Shield_03
+  rotate: false
+  xy: 784, 239
+  size: 71, 114
+  orig: 71, 114
+  offset: 0, 0
+  index: -1
+05/Shield_window
+  rotate: false
+  xy: 859, 64
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+05/Spike_L_01
+  rotate: true
+  xy: 881, 4
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+05/Spike_L_02
+  rotate: true
+  xy: 915, 306
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+05/Spike_R_02
+  rotate: true
+  xy: 867, 293
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+05/Spike_R_03
+  rotate: true
+  xy: 731, 2
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+05/Statue_top_R
+  rotate: false
+  xy: 859, 428
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+05/Sword_alt
+  rotate: false
+  xy: 922, 209
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+05/Window_detail
+  rotate: false
+  xy: 850, 132
+  size: 60, 22
+  orig: 60, 22
+  offset: 0, 0
+  index: -1
+05/front-wood-window
+  rotate: false
+  xy: 512, 228
+  size: 92, 121
+  orig: 92, 121
+  offset: 0, 0
+  index: -1
+Balcony
+  rotate: true
+  xy: 686, 50
+  size: 112, 69
+  orig: 112, 69
+  offset: 0, 0
+  index: -1

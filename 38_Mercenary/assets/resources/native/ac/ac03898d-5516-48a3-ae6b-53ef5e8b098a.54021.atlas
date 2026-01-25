@@ -1,0 +1,426 @@
+
+Undead_Md_DarkPriest.png
+size: 298,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_Hand_L
+  rotate: false
+  xy: 192, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Arm_Hand_L
+  rotate: false
+  xy: 192, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+02/Arm_Hand_Palm_R
+  rotate: false
+  xy: 266, 46
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Arm_Hand_Palm_R
+  rotate: false
+  xy: 266, 46
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+02/Arm_Hand_Thumb_R
+  rotate: true
+  xy: 174, 17
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+Arm_Hand_Thumb_R
+  rotate: true
+  xy: 174, 17
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+02/Arm_Lower_L
+  rotate: false
+  xy: 196, 52
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+02/Arm_Lower_R
+  rotate: true
+  xy: 258, 297
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+02/Belt
+  rotate: true
+  xy: 258, 380
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: true
+  xy: 258, 380
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+02/Chains
+  rotate: true
+  xy: 258, 330
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Chains
+  rotate: true
+  xy: 258, 330
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+02/Face
+  rotate: false
+  xy: 163, 371
+  size: 93, 76
+  orig: 93, 76
+  offset: 0, 0
+  index: -1
+02/Mod_01
+  rotate: true
+  xy: 79, 120
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+02/Mod_02
+  rotate: false
+  xy: 196, 81
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+02/Neckpiece
+  rotate: false
+  xy: 77, 254
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+02/Weapon_grip
+  rotate: false
+  xy: 278, 469
+  size: 14, 45
+  orig: 14, 45
+  offset: 0, 0
+  index: -1
+03/Arm_Hand_L
+  rotate: false
+  xy: 217, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+04/Arm_Hand_L
+  rotate: false
+  xy: 217, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+03/Arm_Hand_Palm_R
+  rotate: false
+  xy: 192, 27
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+04/Arm_Hand_Palm_R
+  rotate: false
+  xy: 192, 27
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+03/Arm_Hand_Thumb_R
+  rotate: true
+  xy: 174, 5
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+04/Arm_Hand_Thumb_R
+  rotate: true
+  xy: 174, 5
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_L
+  rotate: true
+  xy: 120, 13
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+04/Arm_Lower_L
+  rotate: true
+  xy: 120, 13
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_R
+  rotate: true
+  xy: 80, 15
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+04/Arm_Lower_R
+  rotate: true
+  xy: 80, 15
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+03/Hips
+  rotate: true
+  xy: 2, 218
+  size: 112, 73
+  orig: 112, 73
+  offset: 0, 0
+  index: -1
+03/Neckpiece
+  rotate: false
+  xy: 141, 134
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+03/Torso_Upper
+  rotate: true
+  xy: 80, 48
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+04/Torso_Upper
+  rotate: true
+  xy: 80, 48
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+03/Weapon_neck
+  rotate: true
+  xy: 172, 54
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+03/horn
+  rotate: false
+  xy: 239, 191
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+04/Face
+  rotate: false
+  xy: 163, 293
+  size: 93, 76
+  orig: 93, 76
+  offset: 0, 0
+  index: -1
+04/Helmet
+  rotate: false
+  xy: 2, 332
+  size: 97, 94
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+04/Neckskull
+  rotate: false
+  xy: 277, 236
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+04/Weapon_spike
+  rotate: false
+  xy: 132, 82
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+05/Arm_Hand_L
+  rotate: false
+  xy: 242, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+05/Arm_Hand_Palm_R
+  rotate: false
+  xy: 266, 71
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+05/Arm_Hand_Thumb_R
+  rotate: false
+  xy: 127, 138
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+05/Arm_Lower_L
+  rotate: true
+  xy: 266, 262
+  size: 33, 30
+  orig: 33, 31
+  offset: 0, 1
+  index: -1
+05/Arm_Lower_R
+  rotate: false
+  xy: 227, 88
+  size: 35, 39
+  orig: 36, 39
+  offset: 1, 0
+  index: -1
+05/Face
+  rotate: true
+  xy: 2, 15
+  size: 96, 76
+  orig: 121, 78
+  offset: 0, 2
+  index: -1
+05/Helmet
+  rotate: false
+  xy: 163, 244
+  size: 101, 47
+  orig: 101, 47
+  offset: 0, 0
+  index: -1
+05/Hips
+  rotate: false
+  xy: 2, 428
+  size: 151, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+05/Horn
+  rotate: false
+  xy: 101, 311
+  size: 60, 115
+  orig: 60, 116
+  offset: 0, 0
+  index: -1
+05/Neckpiece
+  rotate: false
+  xy: 155, 449
+  size: 121, 65
+  orig: 122, 65
+  offset: 1, 0
+  index: -1
+05/Weapon_Glow
+  rotate: false
+  xy: 222, 27
+  size: 25, 22
+  orig: 83, 82
+  offset: 29, 30
+  index: -1
+Arm_Lower_L
+  rotate: true
+  xy: 149, 14
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Arm_Lower_R
+  rotate: true
+  xy: 132, 49
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Arm_Upper_R
+  rotate: true
+  xy: 264, 102
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2, 113
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+Face_Eyebrow_L
+  rotate: false
+  xy: 77, 316
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Face_Eyebrow_R
+  rotate: true
+  xy: 174, 29
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Hips
+  rotate: true
+  xy: 79, 159
+  size: 93, 60
+  orig: 93, 60
+  offset: 0, 0
+  index: -1
+Neckpiece
+  rotate: false
+  xy: 141, 191
+  size: 96, 51
+  orig: 96, 51
+  offset: 0, 0
+  index: -1
+Torso_Upper
+  rotate: false
+  xy: 227, 129
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 2
+  size: 11, 79
+  orig: 11, 79
+  offset: 0, 0
+  index: -1
+Weapon_neck
+  rotate: false
+  xy: 277, 201
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+Weapon_skull
+  rotate: true
+  xy: 231, 51
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1

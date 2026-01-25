@@ -1,0 +1,496 @@
+
+Medieval_Md_MageKnight.png
+size: 882,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/Arm
+  rotate: false
+  xy: 845, 359
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+01/Armor_Neck
+  rotate: true
+  xy: 844, 283
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+01/Armor_Neck_Back
+  rotate: true
+  xy: 858, 153
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+01/Belt
+  rotate: false
+  xy: 447, 66
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+01/Chest_Plate
+  rotate: true
+  xy: 448, 1
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+01/Chest_Plate_Sticker_1
+  rotate: true
+  xy: 781, 6
+  size: 12, 37
+  orig: 14, 37
+  offset: 1, 0
+  index: -1
+01/Eye
+  rotate: true
+  xy: 596, 1
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+01/Eye_Open
+  rotate: true
+  xy: 858, 66
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+01/Eyebrows
+  rotate: false
+  xy: 845, 343
+  size: 26, 14
+  orig: 27, 14
+  offset: 1, 0
+  index: -1
+01/Face
+  rotate: false
+  xy: 663, 135
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+01/Finger
+  rotate: false
+  xy: 742, 1
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+01/Foot
+  rotate: true
+  xy: 128, 4
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+01/ForeArm
+  rotate: false
+  xy: 533, 1
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+01/Gauntlet
+  rotate: true
+  xy: 848, 246
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+01/Hair
+  rotate: false
+  xy: 188, 2
+  size: 89, 72
+  orig: 89, 72
+  offset: 0, 0
+  index: -1
+01/Hair_Back
+  rotate: true
+  xy: 663, 210
+  size: 12, 26
+  orig: 12, 27
+  offset: 0, 1
+  index: -1
+01/Hair_PonyTail
+  rotate: false
+  xy: 787, 343
+  size: 56, 176
+  orig: 56, 176
+  offset: 0, 0
+  index: -1
+01/Hand
+  rotate: false
+  xy: 793, 212
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+01/Leg_Armor
+  rotate: false
+  xy: 504, 11
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+01/Leg_Down
+  rotate: true
+  xy: 45, 1
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+01/Leg_Up
+  rotate: true
+  xy: 371, 5
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+01/Mouth_1
+  rotate: true
+  xy: 561, 72
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+01/Neck
+  rotate: false
+  xy: 855, 27
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+01/Shoulder
+  rotate: false
+  xy: 566, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+01/Shoulderpad
+  rotate: true
+  xy: 533, 28
+  size: 36, 31
+  orig: 36, 32
+  offset: 0, 1
+  index: -1
+01/Skirt_Back
+  rotate: true
+  xy: 694, 209
+  size: 117, 97
+  orig: 117, 97
+  offset: 0, 0
+  index: -1
+01/Skirt_Left
+  rotate: false
+  xy: 574, 140
+  size: 87, 82
+  orig: 88, 84
+  offset: 1, 1
+  index: -1
+01/Skirt_Right
+  rotate: false
+  xy: 279, 7
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+01/Small_Skirt
+  rotate: false
+  xy: 661, 71
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+01/Sword
+  rotate: true
+  xy: 512, 328
+  size: 82, 273
+  orig: 82, 273
+  offset: 0, 0
+  index: -1
+01/Thumb
+  rotate: false
+  xy: 763, 1
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+02/Hair_PonyTail
+  rotate: false
+  xy: 325, 162
+  size: 143, 154
+  orig: 143, 154
+  offset: 0, 0
+  index: -1
+02/Shoulderpad
+  rotate: true
+  xy: 709, 8
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+02/Shoulderpad_Color
+  rotate: false
+  xy: 1, 1
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+02/Shoulderpad_Sticker
+  rotate: false
+  xy: 637, 50
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+02/Small_Skirt
+  rotate: true
+  xy: 746, 129
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+02/Sword
+  rotate: true
+  xy: 512, 412
+  size: 107, 273
+  orig: 107, 273
+  offset: 0, 0
+  index: -1
+03/Armor_Neck_Sticker
+  rotate: false
+  xy: 82, 7
+  size: 44, 16
+  orig: 45, 16
+  offset: 1, 0
+  index: -1
+03/Belt_Sticker
+  rotate: true
+  xy: 845, 398
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+03/Gauntlet_Sticker
+  rotate: true
+  xy: 848, 212
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+03/Hair_PonyTail
+  rotate: false
+  xy: 324, 318
+  size: 186, 201
+  orig: 186, 201
+  offset: 0, 0
+  index: -1
+03/Leg_Armor
+  rotate: true
+  xy: 505, 66
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+03/Leg_Sticker
+  rotate: false
+  xy: 164, 8
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+03/Skirt_Left
+  rotate: false
+  xy: 325, 54
+  size: 120, 106
+  orig: 120, 108
+  offset: 0, 1
+  index: -1
+03/Skirt_Right
+  rotate: false
+  xy: 793, 269
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+03/Sword
+  rotate: false
+  xy: 1, 233
+  size: 107, 286
+  orig: 107, 286
+  offset: 0, 0
+  index: -1
+04/Belt_Sticker_2
+  rotate: false
+  xy: 820, 7
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+04/Chest_Plate_Sticker_2
+  rotate: true
+  xy: 325, 1
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+04/Gauntlet_Sticker
+  rotate: false
+  xy: 566, 31
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+04/Gauntlet_Sticker_2
+  rotate: false
+  xy: 858, 123
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+04/Leg_Sticker
+  rotate: false
+  xy: 852, 10
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+04/Second_Shoulderpad
+  rotate: false
+  xy: 816, 27
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+04/Skirt_Left_Sticker
+  rotate: true
+  xy: 470, 198
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+04/Skirt_Right_Sticker
+  rotate: false
+  xy: 661, 1
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+04/Sword
+  rotate: false
+  xy: 110, 233
+  size: 107, 286
+  orig: 107, 286
+  offset: 0, 0
+  index: -1
+04/Tiara
+  rotate: false
+  xy: 743, 69
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+04/Underskirt_Armor
+  rotate: false
+  xy: 817, 66
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+05/Armor_Neck
+  rotate: true
+  xy: 808, 138
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+05/Face_Sticker
+  rotate: false
+  xy: 447, 107
+  size: 14, 53
+  orig: 14, 53
+  offset: 0, 0
+  index: -1
+05/Finger_Sticker
+  rotate: true
+  xy: 512, 320
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+05/Gauntlet_Sticker_2
+  rotate: false
+  xy: 858, 96
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+05/Hair_PonyTail
+  rotate: false
+  xy: 1, 25
+  size: 185, 206
+  orig: 185, 206
+  offset: 0, 0
+  index: -1
+05/Leg_Armor_Sticker
+  rotate: true
+  xy: 600, 44
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+05/Skirt_Back
+  rotate: true
+  xy: 188, 76
+  size: 155, 135
+  orig: 156, 135
+  offset: 1, 0
+  index: -1
+05/Skirt_Left
+  rotate: false
+  xy: 470, 97
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+05/Skirt_Left_Sticker
+  rotate: false
+  xy: 574, 224
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+05/Skirt_Right
+  rotate: false
+  xy: 845, 459
+  size: 36, 60
+  orig: 38, 60
+  offset: 1, 0
+  index: -1
+05/Skirt_Right_Sticker
+  rotate: true
+  xy: 742, 20
+  size: 47, 72
+  orig: 47, 73
+  offset: 0, 1
+  index: -1
+05/Sword
+  rotate: false
+  xy: 219, 233
+  size: 103, 286
+  orig: 103, 286
+  offset: 0, 0
+  index: -1
+05/Tiara
+  rotate: true
+  xy: 574, 66
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1

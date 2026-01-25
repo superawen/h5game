@@ -1,0 +1,377 @@
+
+Undead_Md_Banshee.png
+size: 1009,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Hair_06
+  rotate: true
+  xy: 984, 151
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+02/Skirt_mod
+  rotate: false
+  xy: 696, 150
+  size: 113, 99
+  orig: 113, 99
+  offset: 0, 0
+  index: -1
+02/Tongue
+  rotate: true
+  xy: 560, 2
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+02/skull
+  rotate: true
+  xy: 113, 2
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+03/Arm_Lower_R
+  rotate: false
+  xy: 898, 97
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+03/Arm_Upper_R
+  rotate: true
+  xy: 213, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+03/Face
+  rotate: true
+  xy: 406, 58
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+03/Hair_06
+  rotate: true
+  xy: 984, 24
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+03/Hand_L
+  rotate: false
+  xy: 629, 50
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+03/Hand_R
+  rotate: false
+  xy: 156, 2
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+03/Highlight_01
+  rotate: true
+  xy: 198, 20
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+03/Highlight_02
+  rotate: false
+  xy: 559, 88
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+03/Jaw_Bottom
+  rotate: false
+  xy: 950, 95
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+03/Jaw_Top
+  rotate: true
+  xy: 671, 2
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+03/Mouth
+  rotate: true
+  xy: 337, 3
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+04/Mouth
+  rotate: true
+  xy: 337, 3
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 337, 3
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+03/Skirt_mod_02
+  rotate: false
+  xy: 811, 145
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+04/Hair_06
+  rotate: false
+  xy: 113, 41
+  size: 72, 81
+  orig: 72, 81
+  offset: 0, 0
+  index: -1
+04/Hair_09
+  rotate: true
+  xy: 556, 64
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+04/Skull_mod
+  rotate: false
+  xy: 755, 67
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+04/Tongue
+  rotate: true
+  xy: 591, 2
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+05/Arm_Lower_L
+  rotate: false
+  xy: 629, 91
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+05/Arm_Lower_R
+  rotate: false
+  xy: 898, 50
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+05/Arm_Upper_R
+  rotate: true
+  xy: 788, 87
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+05/Face
+  rotate: false
+  xy: 353, 52
+  size: 51, 73
+  orig: 84, 109
+  offset: 12, 23
+  index: -1
+05/Hair_01
+  rotate: false
+  xy: 811, 172
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+05/Hair_02
+  rotate: true
+  xy: 187, 43
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+05/Hair_03
+  rotate: false
+  xy: 2, 14
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+05/Hair_04
+  rotate: false
+  xy: 559, 124
+  size: 135, 125
+  orig: 135, 125
+  offset: 0, 0
+  index: -1
+05/Hair_05
+  rotate: true
+  xy: 407, 110
+  size: 139, 150
+  orig: 139, 151
+  offset: 0, 1
+  index: -1
+05/Hair_06
+  rotate: true
+  xy: 696, 89
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+05/Hair_07
+  rotate: true
+  xy: 483, 12
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+05/Hair_09
+  rotate: true
+  xy: 786, 63
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+05/Hand_L
+  rotate: false
+  xy: 898, 10
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+05/Hand_R
+  rotate: false
+  xy: 714, 50
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+05/Jaw_Bottom
+  rotate: true
+  xy: 849, 90
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+05/Jaw_Top
+  rotate: true
+  xy: 622, 2
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+05/Mouth
+  rotate: true
+  xy: 410, 7
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+05/Skirt
+  rotate: false
+  xy: 2, 124
+  size: 208, 125
+  orig: 208, 125
+  offset: 0, 0
+  index: -1
+05/Torso
+  rotate: false
+  xy: 922, 175
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+Arm_Lower_R
+  rotate: false
+  xy: 950, 48
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+Arm_Upper_R
+  rotate: true
+  xy: 275, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 481, 58
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Hair_06
+  rotate: false
+  xy: 765, 16
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 941, 7
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 672, 50
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Jaw_Bottom
+  rotate: false
+  xy: 849, 41
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Jaw_Top
+  rotate: true
+  xy: 718, 2
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: false
+  xy: 212, 127
+  size: 193, 122
+  orig: 193, 122
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 922, 144
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 213, 60
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 284, 66
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1

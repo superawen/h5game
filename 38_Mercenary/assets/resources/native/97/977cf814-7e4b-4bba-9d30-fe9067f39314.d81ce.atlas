@@ -1,0 +1,62 @@
+
+V_Fire_Char_Explosion_02.png
+size: 704,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Char_Explosion_02_0001
+  rotate: false
+  xy: 460, 18
+  size: 49, 41
+  orig: 160, 160
+  offset: 58, 61
+  index: -1
+V_Fire_Char_Explosion_02_0002
+  rotate: false
+  xy: 163, 1
+  size: 151, 160
+  orig: 160, 160
+  offset: 4, 0
+  index: -1
+V_Fire_Char_Explosion_02_0003
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+V_Fire_Char_Explosion_02_0004
+  rotate: false
+  xy: 316, 19
+  size: 142, 142
+  orig: 160, 160
+  offset: 0, 16
+  index: -1
+V_Fire_Char_Explosion_02_0005
+  rotate: false
+  xy: 460, 61
+  size: 94, 100
+  orig: 160, 160
+  offset: 39, 17
+  index: -1
+V_Fire_Char_Explosion_02_0006
+  rotate: false
+  xy: 556, 82
+  size: 80, 79
+  orig: 160, 160
+  offset: 41, 36
+  index: -1
+V_Fire_Char_Explosion_02_0007
+  rotate: false
+  xy: 556, 7
+  size: 78, 73
+  orig: 160, 160
+  offset: 43, 41
+  index: -1
+V_Fire_Char_Explosion_02_0008
+  rotate: true
+  xy: 638, 92
+  size: 69, 65
+  orig: 160, 160
+  offset: 50, 46
+  index: -1

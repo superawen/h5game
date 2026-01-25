@@ -1,0 +1,20 @@
+
+V_Fire_Grd_Flames_01.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Fire_Grd_Flames_01a
+  rotate: false
+  xy: 214, 6
+  size: 212, 78
+  orig: 212, 78
+  offset: 0, 0
+  index: -1
+V_Fire_Grd_Flames_01b
+  rotate: false
+  xy: 1, 1
+  size: 210, 83
+  orig: 210, 83
+  offset: 0, 0
+  index: -1

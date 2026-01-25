@@ -1,0 +1,440 @@
+
+Undead_To_Bone.png
+size: 900,900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Body_Spine
+  rotate: false
+  xy: 635, 547
+  size: 94, 155
+  orig: 94, 155
+  offset: 0, 0
+  index: -1
+02/Crown
+  rotate: true
+  xy: 2, 44
+  size: 310, 158
+  orig: 310, 158
+  offset: 0, 0
+  index: -1
+03/Crown
+  rotate: true
+  xy: 2, 44
+  size: 310, 158
+  orig: 310, 158
+  offset: 0, 0
+  index: -1
+02/Jaw
+  rotate: false
+  xy: 2, 628
+  size: 231, 270
+  orig: 231, 270
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 2, 628
+  size: 231, 270
+  orig: 231, 270
+  offset: 0, 0
+  index: -1
+02/Skull
+  rotate: false
+  xy: 489, 704
+  size: 252, 194
+  orig: 252, 194
+  offset: 0, 0
+  index: -1
+02/Spike_01
+  rotate: true
+  xy: 266, 73
+  size: 57, 123
+  orig: 57, 123
+  offset: 0, 0
+  index: -1
+02/Spike_02
+  rotate: false
+  xy: 618, 263
+  size: 72, 150
+  orig: 72, 150
+  offset: 0, 0
+  index: -1
+02/Spike_03
+  rotate: true
+  xy: 692, 279
+  size: 59, 120
+  orig: 59, 120
+  offset: 0, 0
+  index: -1
+02/Spike_04
+  rotate: false
+  xy: 569, 120
+  size: 54, 110
+  orig: 54, 110
+  offset: 0, 0
+  index: -1
+03/Body_Spine
+  rotate: false
+  xy: 162, 83
+  size: 102, 271
+  orig: 102, 271
+  offset: 0, 0
+  index: -1
+03/Crown_mod
+  rotate: true
+  xy: 702, 480
+  size: 57, 144
+  orig: 57, 144
+  offset: 0, 0
+  index: -1
+03/Jaw
+  rotate: false
+  xy: 2, 356
+  size: 231, 270
+  orig: 231, 270
+  offset: 0, 0
+  index: -1
+04/Jaw
+  rotate: false
+  xy: 2, 356
+  size: 231, 270
+  orig: 231, 270
+  offset: 0, 0
+  index: -1
+03/Skull
+  rotate: false
+  xy: 235, 669
+  size: 252, 229
+  orig: 252, 229
+  offset: 0, 0
+  index: -1
+03/Spike_01
+  rotate: true
+  xy: 263, 14
+  size: 57, 123
+  orig: 57, 123
+  offset: 0, 0
+  index: -1
+04/Spike_01
+  rotate: true
+  xy: 263, 14
+  size: 57, 123
+  orig: 57, 123
+  offset: 0, 0
+  index: -1
+03/Spike_02
+  rotate: true
+  xy: 743, 657
+  size: 72, 150
+  orig: 72, 150
+  offset: 0, 0
+  index: -1
+04/Spike_02
+  rotate: true
+  xy: 743, 657
+  size: 72, 150
+  orig: 72, 150
+  offset: 0, 0
+  index: -1
+03/Spike_03
+  rotate: true
+  xy: 692, 218
+  size: 59, 120
+  orig: 59, 120
+  offset: 0, 0
+  index: -1
+04/Spike_03
+  rotate: true
+  xy: 692, 218
+  size: 59, 120
+  orig: 59, 120
+  offset: 0, 0
+  index: -1
+03/Spike_04
+  rotate: false
+  xy: 625, 151
+  size: 54, 110
+  orig: 54, 110
+  offset: 0, 0
+  index: -1
+04/Spike_04
+  rotate: false
+  xy: 625, 151
+  size: 54, 110
+  orig: 54, 110
+  offset: 0, 0
+  index: -1
+04/Black_Skull_L
+  rotate: true
+  xy: 692, 11
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+04/Black_Skull_R
+  rotate: false
+  xy: 639, 2
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+05/Black_Skull_R
+  rotate: false
+  xy: 639, 2
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+04/Chain_L
+  rotate: false
+  xy: 500, 400
+  size: 101, 156
+  orig: 101, 156
+  offset: 0, 0
+  index: -1
+04/Crown_mod
+  rotate: false
+  xy: 500, 558
+  size: 133, 144
+  orig: 133, 144
+  offset: 0, 0
+  index: -1
+04/Spike_06
+  rotate: true
+  xy: 782, 138
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+04/Spike_07
+  rotate: true
+  xy: 483, 45
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+04/Spike_08
+  rotate: true
+  xy: 571, 36
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+04/Teeth_L
+  rotate: false
+  xy: 814, 300
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+05/Teeth_L
+  rotate: false
+  xy: 814, 300
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+04/Teeth_R
+  rotate: false
+  xy: 484, 111
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+05/Teeth_R
+  rotate: false
+  xy: 484, 111
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+05/Black_Skull_L
+  rotate: false
+  xy: 814, 252
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+05/Body
+  rotate: false
+  xy: 391, 365
+  size: 107, 302
+  orig: 107, 302
+  offset: 0, 0
+  index: -1
+05/Crown_sticker
+  rotate: true
+  xy: 739, 8
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+05/Eye_Glow
+  rotate: false
+  xy: 692, 340
+  size: 114, 71
+  orig: 150, 109
+  offset: 18, 19
+  index: -1
+05/Ground_Spikes_L
+  rotate: true
+  xy: 162, 8
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+05/Ground_Spikes_R
+  rotate: true
+  xy: 743, 731
+  size: 167, 153
+  orig: 167, 153
+  offset: 0, 0
+  index: -1
+05/Head_chain
+  rotate: false
+  xy: 388, 12
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+05/Head_decoration
+  rotate: false
+  xy: 82, 2
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+05/Jaw_glow
+  rotate: true
+  xy: 702, 413
+  size: 65, 127
+  orig: 65, 127
+  offset: 0, 0
+  index: -1
+05/Skull_Mod_L
+  rotate: true
+  xy: 391, 44
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+05/Skull_Mod_R
+  rotate: false
+  xy: 603, 415
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
+05/Skull_top
+  rotate: true
+  xy: 266, 132
+  size: 235, 123
+  orig: 235, 123
+  offset: 0, 0
+  index: -1
+05/Spike_01
+  rotate: true
+  xy: 731, 539
+  size: 60, 146
+  orig: 60, 146
+  offset: 0, 0
+  index: -1
+05/Spike_02
+  rotate: false
+  xy: 484, 187
+  size: 68, 176
+  orig: 68, 176
+  offset: 0, 0
+  index: -1
+05/Spike_03
+  rotate: false
+  xy: 554, 232
+  size: 62, 166
+  orig: 62, 166
+  offset: 0, 0
+  index: -1
+05/Spike_04
+  rotate: true
+  xy: 731, 601
+  size: 54, 166
+  orig: 54, 166
+  offset: 0, 0
+  index: -1
+05/Spike_06
+  rotate: true
+  xy: 848, 459
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+05/Spike_07
+  rotate: false
+  xy: 639, 63
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+05/Spike_08
+  rotate: true
+  xy: 705, 68
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+05/Spike_11
+  rotate: true
+  xy: 833, 2
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+05/Tower_Glow
+  rotate: true
+  xy: 681, 152
+  size: 64, 99
+  orig: 94, 100
+  offset: 0, 1
+  index: -1
+Crown
+  rotate: true
+  xy: 235, 369
+  size: 298, 154
+  orig: 298, 154
+  offset: 0, 0
+  index: -1
+Skull_top
+  rotate: true
+  xy: 391, 113
+  size: 250, 91
+  orig: 250, 91
+  offset: 0, 0
+  index: -1
+Spike_01
+  rotate: true
+  xy: 2, 2
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+Spike_02
+  rotate: false
+  xy: 774, 52
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+Spike_03
+  rotate: false
+  xy: 831, 376
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Spike_04
+  rotate: false
+  xy: 833, 59
+  size: 49, 77
+  orig: 49, 77
+  offset: 0, 0
+  index: -1

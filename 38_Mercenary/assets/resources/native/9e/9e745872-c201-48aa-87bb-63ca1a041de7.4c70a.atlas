@@ -1,0 +1,48 @@
+
+V_Spawn_Undead_Front_01.png
+size: 441,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Source Art/Global - Spawn/Spawn_Undead_01/Summon_Undead__front_01
+  rotate: false
+  xy: 77, 1
+  size: 71, 217
+  orig: 115, 230
+  offset: 3, 5
+  index: -1
+Source Art/Global - Spawn/Spawn_Undead_01/Summon_Undead__front_02
+  rotate: false
+  xy: 150, 1
+  size: 71, 217
+  orig: 115, 230
+  offset: 3, 5
+  index: -1
+Source Art/Global - Spawn/Spawn_Undead_01/Summon_Undead__front_03
+  rotate: false
+  xy: 223, 1
+  size: 71, 217
+  orig: 115, 230
+  offset: 3, 5
+  index: -1
+Source Art/Global - Spawn/Spawn_Undead_01/Summon_Undead__front_04
+  rotate: false
+  xy: 1, 1
+  size: 74, 217
+  orig: 115, 230
+  offset: 3, 5
+  index: -1
+Source Art/Global - Spawn/Spawn_Undead_01/Summon_Undead__front_05
+  rotate: false
+  xy: 296, 1
+  size: 71, 217
+  orig: 115, 230
+  offset: 3, 5
+  index: -1
+Source Art/Global - Spawn/Spawn_Undead_01/Summon_Undead__front_06
+  rotate: false
+  xy: 369, 1
+  size: 71, 217
+  orig: 115, 230
+  offset: 3, 5
+  index: -1

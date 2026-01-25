@@ -1,0 +1,125 @@
+
+Undead_To_GingerbreadHouse_Broken.png
+size: 345,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Pot_front
+  rotate: false
+  xy: 122, 2
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+02/Pot_soup
+  rotate: true
+  xy: 189, 4
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+03/Candy_stick
+  rotate: true
+  xy: 2, 5
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+03/Roof
+  rotate: false
+  xy: 122, 72
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+03/Side_post_L
+  rotate: false
+  xy: 326, 44
+  size: 17, 95
+  orig: 17, 95
+  offset: 0, 0
+  index: -1
+05/Candy_stick
+  rotate: true
+  xy: 59, 5
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+05/Lollipop_stick
+  rotate: false
+  xy: 266, 4
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+05/Lollipop_top
+  rotate: false
+  xy: 282, 36
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+05/Roof
+  rotate: false
+  xy: 224, 72
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+05/Side_post_L
+  rotate: true
+  xy: 2, 30
+  size: 17, 95
+  orig: 17, 95
+  offset: 0, 0
+  index: -1
+05/Skull
+  rotate: false
+  xy: 99, 30
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+05/Stick
+  rotate: false
+  xy: 219, 43
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 49
+  size: 118, 90
+  orig: 118, 90
+  offset: 0, 0
+  index: -1
+Floor_candy
+  rotate: false
+  xy: 212, 14
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+Side_post_L
+  rotate: true
+  xy: 122, 53
+  size: 17, 95
+  orig: 17, 95
+  offset: 0, 0
+  index: -1
+Stick
+  rotate: false
+  xy: 280, 19
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+Top_candy
+  rotate: true
+  xy: 280, 4
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1

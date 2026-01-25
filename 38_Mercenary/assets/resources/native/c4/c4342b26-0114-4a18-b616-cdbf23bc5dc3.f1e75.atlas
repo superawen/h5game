@@ -1,0 +1,48 @@
+
+V_Electric_Grd_Electricity_01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electrical_01
+  rotate: false
+  xy: 1, 112
+  size: 243, 108
+  orig: 243, 108
+  offset: 0, 0
+  index: -1
+Electrical_02
+  rotate: false
+  xy: 1, 1
+  size: 243, 108
+  orig: 243, 108
+  offset: 0, 0
+  index: -1
+Electrical_03
+  rotate: false
+  xy: 247, 112
+  size: 243, 108
+  orig: 243, 108
+  offset: 0, 0
+  index: -1
+Electrical_04
+  rotate: false
+  xy: 247, 1
+  size: 243, 108
+  orig: 243, 108
+  offset: 0, 0
+  index: -1
+Electrical_05
+  rotate: false
+  xy: 493, 112
+  size: 243, 108
+  orig: 243, 108
+  offset: 0, 0
+  index: -1
+Electrical_06
+  rotate: false
+  xy: 493, 1
+  size: 243, 108
+  orig: 243, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Medieval_To_Cathedral.png
+size: 962,759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Tower_Bottom
+  rotate: false
+  xy: 570, 339
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+02/Tower_Top
+  rotate: false
+  xy: 286, 445
+  size: 282, 312
+  orig: 282, 312
+  offset: 0, 0
+  index: -1
+03/Tower_Back
+  rotate: false
+  xy: 783, 547
+  size: 83, 210
+  orig: 83, 210
+  offset: 0, 0
+  index: -1
+03/Tower_Bottom
+  rotate: false
+  xy: 570, 131
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+03/Tower_Top
+  rotate: false
+  xy: 286, 131
+  size: 282, 312
+  orig: 282, 312
+  offset: 0, 0
+  index: -1
+04/Tower_Top
+  rotate: false
+  xy: 286, 131
+  size: 282, 312
+  orig: 282, 312
+  offset: 0, 0
+  index: -1
+04/Gargoyles
+  rotate: false
+  xy: 2, 2
+  size: 351, 119
+  orig: 351, 119
+  offset: 0, 0
+  index: -1
+05/Gargoyles
+  rotate: false
+  xy: 2, 2
+  size: 351, 119
+  orig: 351, 119
+  offset: 0, 0
+  index: -1
+04/Tower_Bottom
+  rotate: false
+  xy: 570, 547
+  size: 211, 210
+  orig: 211, 210
+  offset: 0, 0
+  index: -1
+05/Tower_Bottom
+  rotate: false
+  xy: 570, 547
+  size: 211, 210
+  orig: 211, 210
+  offset: 0, 0
+  index: -1
+05/Tower_Back
+  rotate: false
+  xy: 868, 547
+  size: 83, 210
+  orig: 83, 210
+  offset: 0, 0
+  index: -1
+05/Tower_Glow
+  rotate: true
+  xy: 561, 27
+  size: 102, 172
+  orig: 150, 172
+  offset: 0, 0
+  index: -1
+05/Tower_Top
+  rotate: false
+  xy: 2, 441
+  size: 282, 316
+  orig: 282, 316
+  offset: 0, 0
+  index: -1
+05/Tower_Top_BlackBacking
+  rotate: true
+  xy: 774, 141
+  size: 200, 137
+  orig: 200, 137
+  offset: 0, 0
+  index: -1
+Tower_Bottom
+  rotate: false
+  xy: 774, 343
+  size: 186, 202
+  orig: 186, 202
+  offset: 0, 0
+  index: -1
+Tower_Top
+  rotate: false
+  xy: 2, 123
+  size: 282, 316
+  orig: 282, 316
+  offset: 0, 0
+  index: -1
+Tower_Top_Bell_Behind
+  rotate: true
+  xy: 913, 229
+  size: 112, 28
+  orig: 112, 28
+  offset: 0, 0
+  index: -1
+Tower_Top_Bell_Front
+  rotate: false
+  xy: 735, 23
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+Tower_Top_Bell_Mid_Jingle
+  rotate: false
+  xy: 913, 202
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Tower_Top_BlackBacking
+  rotate: false
+  xy: 355, 3
+  size: 204, 126
+  orig: 204, 126
+  offset: 0, 0
+  index: -1

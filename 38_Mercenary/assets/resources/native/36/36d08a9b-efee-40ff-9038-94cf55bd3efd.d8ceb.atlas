@@ -1,0 +1,174 @@
+
+Medieval_To_Grove_Broken.png
+size: 314,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Center_crystal
+  rotate: false
+  xy: 87, 123
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+02/Rock_01
+  rotate: true
+  xy: 121, 16
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+02/Tree_base_02
+  rotate: false
+  xy: 121, 55
+  size: 35, 88
+  orig: 35, 88
+  offset: 0, 0
+  index: -1
+03/Bigstone_01
+  rotate: false
+  xy: 249, 76
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+03/Center_crystal
+  rotate: false
+  xy: 81, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+03/Sidebranch_01
+  rotate: true
+  xy: 259, 186
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+03/Vine
+  rotate: true
+  xy: 199, 71
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+04/BigStone_03
+  rotate: false
+  xy: 158, 64
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+04/Bigstone_02
+  rotate: false
+  xy: 148, 149
+  size: 52, 116
+  orig: 52, 116
+  offset: 0, 0
+  index: -1
+04/Center_crystal
+  rotate: false
+  xy: 178, 19
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+05/Center_crystal
+  rotate: true
+  xy: 259, 219
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+05/Mainbranch_03
+  rotate: false
+  xy: 87, 145
+  size: 59, 120
+  orig: 59, 120
+  offset: 0, 0
+  index: -1
+Broken_01
+  rotate: true
+  xy: 202, 149
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+Broken_02
+  rotate: false
+  xy: 109, 133
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Broken_03
+  rotate: false
+  xy: 287, 44
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Broken_04
+  rotate: true
+  xy: 255, 9
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Center_crystal
+  rotate: false
+  xy: 297, 120
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+Leaf_01
+  rotate: true
+  xy: 81, 29
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+Leaf_02
+  rotate: false
+  xy: 259, 142
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+Mainbranch_02
+  rotate: false
+  xy: 2, 3
+  size: 77, 118
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+Rock_bed
+  rotate: true
+  xy: 216, 8
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+Sidebranch_02
+  rotate: false
+  xy: 255, 32
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Tree_Right
+  rotate: false
+  xy: 202, 160
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+Tree_base
+  rotate: false
+  xy: 2, 123
+  size: 83, 142
+  orig: 83, 142
+  offset: 0, 0
+  index: -1

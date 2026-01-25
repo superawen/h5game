@@ -1,0 +1,104 @@
+
+V_Death_Grd_Fountain_03.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V_Death_Grd_Fountain_03_0001
+  rotate: false
+  xy: 182, 1
+  size: 120, 57
+  orig: 205, 264
+  offset: 50, 14
+  index: -1
+V_Death_Grd_Fountain_03_0002
+  rotate: false
+  xy: 560, 169
+  size: 129, 63
+  orig: 205, 264
+  offset: 44, 12
+  index: -1
+V_Death_Grd_Fountain_03_0003
+  rotate: false
+  xy: 560, 235
+  size: 135, 70
+  orig: 205, 264
+  offset: 41, 7
+  index: -1
+V_Death_Grd_Fountain_03_0004
+  rotate: true
+  xy: 471, 135
+  size: 141, 86
+  orig: 205, 264
+  offset: 39, 10
+  index: -1
+V_Death_Grd_Fountain_03_0005
+  rotate: true
+  xy: 894, 347
+  size: 152, 120
+  orig: 205, 264
+  offset: 34, 5
+  index: -1
+V_Death_Grd_Fountain_03_0006
+  rotate: true
+  xy: 314, 98
+  size: 162, 154
+  orig: 205, 264
+  offset: 30, 5
+  index: -1
+V_Death_Grd_Fountain_03_0007
+  rotate: false
+  xy: 718, 335
+  size: 173, 164
+  orig: 205, 264
+  offset: 22, 8
+  index: -1
+V_Death_Grd_Fountain_03_0008
+  rotate: false
+  xy: 546, 308
+  size: 169, 191
+  orig: 205, 264
+  offset: 15, 16
+  index: -1
+V_Death_Grd_Fountain_03_0009
+  rotate: false
+  xy: 366, 279
+  size: 177, 220
+  orig: 205, 264
+  offset: 8, 17
+  index: -1
+V_Death_Grd_Fountain_03_0010
+  rotate: false
+  xy: 1, 12
+  size: 178, 241
+  orig: 205, 264
+  offset: 12, 16
+  index: -1
+V_Death_Grd_Fountain_03_0011
+  rotate: false
+  xy: 1, 256
+  size: 186, 243
+  orig: 205, 264
+  offset: 11, 18
+  index: -1
+V_Death_Grd_Fountain_03_0012
+  rotate: false
+  xy: 190, 263
+  size: 173, 236
+  orig: 205, 264
+  offset: 14, 19
+  index: -1
+V_Death_Grd_Fountain_03_0013
+  rotate: false
+  xy: 182, 61
+  size: 129, 192
+  orig: 205, 264
+  offset: 61, 62
+  index: -1
+V_Death_Grd_Fountain_03_0014
+  rotate: false
+  xy: 314, 39
+  size: 62, 56
+  orig: 205, 264
+  offset: 69, 189
+  index: -1
