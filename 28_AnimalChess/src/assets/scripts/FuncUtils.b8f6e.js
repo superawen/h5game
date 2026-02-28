@@ -1,0 +1,1 @@
+Array.prototype.shuffle||(Array.prototype.shuffle=function(){for(var t,r,h=this.length;h;t=parseInt(Math.random()*h),r=this[--h],this[h]=this[t],this[t]=r);return this}),Math.random2||(Math.random2=function(t,r,h){if(0===arguments.length)return Math.random();1===arguments.length&&(r=t,t=0);var n=t+Math.random()*(r-t);return void 0===h?Math.round(n):n.toFixed(h)});
